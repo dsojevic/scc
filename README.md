@@ -44,3 +44,46 @@ Collection of notes from working through the challenge.
 - Fixtures for "mosaic display" artwork presentation in the results page have been added here `./spec/fixtures/van-gogh-paintings-search-mosaic/`
 - Fixtures for actors presentation in the results page have been added here `./spec/fixtures/john-wick-actors-search-grid/`
   - The [SerpApi result for this](./spec/fixtures/john-wick-actors-search-grid/serpapi-search-result.json) did not appear to contain the actors/cast in the result, left the JSON file in the fixtures for reference anyway
+- For the purposes of keeping the extractor simple enough for the challenge, I've avoided using a JS engine to resolve HTML fragments and image sources and instead gone with a simple (but fragile) regex find and replace early in the process the important few pieces
+
+## Out of Scope
+
+Using the `data-attrid` value can be used to further classify possibly unknown items of a collection, eg. traversing upwards until a matching parent is found with that can be used to group items together to improve the output.
+
+Instead of returning a plain array for the strategies, we could return an object with the classification (or a derivation of) as the key. Using the [Grid Layout](#grid-layout) example, we could instead return the result like so:
+```json
+{
+  "/film/film:cast": [
+    {
+      "name": "...",
+      "extensions": ["..."],
+      "link": "...",
+      "image": "...",
+    }
+  ]
+}
+```
+
+Then if a search result page were to contain a blend of items (eg. movies and actors/cast), then the strategies could return:
+```json
+{
+  "/film/film:cast": [
+    {
+      "name": "...",
+      "extensions": ["..."],
+      "link": "...",
+      "image": "...",
+    }
+  ],
+  "/film/film_series:films": [
+    {
+      "name": "...",
+      "extensions": ["..."],
+      "link": "...",
+      "image": "...",
+    }
+  ]
+}
+```
+
+Having the strategies return an object instead would also allow you to have those that will pull out other knowledge graph type items too, eg. rich snippets, etc.
