@@ -9,13 +9,51 @@ Overview, instructions, notes, and general scratchpad for my attempt at [SerpApi
 
 ## Running
 
-The `example.rb` file executes each of the fixtures individually and prints them as JSON directly to STDOUT.
+The `extract.rb` file executes each of the fixtures individually and prints them as JSON directly to STDOUT.
 
-Run with `bundle exec example.rb`
+Run with
+```bash
+bundle exec extract.rb <path> [options...]
+```
 
-There is no outer object containing these, so you can't directly ingest this output, it's just for browsing via the terminal.
+When no options are provided, the extractor will use all available strategies.
 
-Refer to [the fixtures](./spec/fixtures/) to see the actual output (with the exception of the original fixtures which contain escape sequences that were incorrectly unescaped)
+When providing options, it will only enable those strategies you specifiy.
+
+Available options:
+* `--carousel` will use the carousel strategy for the extractor
+* `--grid` will use the grid strategy for the extractor
+* `--mosaic` will use the mosaic strategy for the extractor
+* `--all` will enable all strategies (same result as not specifying any)
+
+### Examples
+
+* **Original Carousel Search Result [carousel strategy only]**
+  ```bash
+  bundle exec extract.rb ./spec/fixtures/van-gogh-paintings-search-carousel/page.html --carousel
+  ```
+
+* **Original Carousel Search Result [all strategies]**
+  ```bash
+  bundle exec extract.rb ./spec/fixtures/van-gogh-paintings-search-carousel/page.html --all
+  ```
+
+* **Japanese Carousel Search Result [carousel strategy only]**
+  ```bash
+  bundle exec extract.rb ./spec/fixtures/one-piece-characters-japan-search-carousel/page.html --carousel
+  ```
+
+* **Grid Search Result [grid strategy only]**
+  ```bash
+  bundle exec extract.rb ./spec/fixtures/john-wick-actors-search-grid/page.html --grid
+  ```
+
+* **Mosaic Search Result [mosaic strategy only]**
+  ```bash
+  bundle exec extract.rb ./spec/fixtures/van-gogh-paintings-search-mosaic/page.html --mosaic
+  ```
+
+Refer to [the fixtures](./spec/fixtures/) to see all sources/outputs (with the exception of the original fixtures which contain escape sequences that were incorrectly unescaped)
 
 ## Tests
 
