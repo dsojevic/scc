@@ -22,7 +22,10 @@ Below are the different layout variations I've used as fixtures.
 
 Supplied artwork search fixtures are of a "carousel" style layout:
 
-![Carousel style layout](./spec/fixtures/van-gogh-paintings-search-carousel/screenshot.png?raw=true "Carousel style layout")
+![Carousel style layout (provided)](./spec/fixtures/van-gogh-paintings-search-carousel/screenshot.png?raw=true "Carousel style layout (provided)")
+
+New search (via Google Japan) of a "carousel" style layout:
+![Carousel style layout (new)](./spec/fixtures/one-piece-characters-japan-search-carousel/screenshot.png?raw=true "Carousel style layout (new)")
 
 ### Mosaic Layout
 

@@ -48,25 +48,41 @@ describe GoogleSearch::Extractor do
 
   describe "valid search pages" do
     context "carousel items search results" do
-      let(:html) { File.read("spec/fixtures/van-gogh-paintings-search-carousel/page.html") }
-      let(:strategies) { [GoogleSearch::Strategies::CarouselItems] }
-      let(:expected_array) do
-        JSON.parse(File.read("spec/fixtures/van-gogh-paintings-search-carousel/expected-array.json")).map(&:with_indifferent_access)
-      end
-
-      it "extracts the expected array" do
-        indifferent_result = subject.result.map(&:with_indifferent_access)
-
-        # The provided fixtures contain escape sequences that were incorrectly unescaped - ie. stripping the escape
-        # character instead of resolving the sequence. To account for this, I'm post-processing the expected resulting
-        # array for the carousel items to adjust image sources to use the incorrect unescaped version of the URL so
-        # that the tests pass and I don't have to modify the provided fixture for this.
-        result_with_unescaped_image_sources = indifferent_result.map do |item|
-          item[:image] = item[:image]&.gsub("=", "x3d")
-          item
+      context "van gogh paintings search results" do
+        let(:html) { File.read("spec/fixtures/van-gogh-paintings-search-carousel/page.html") }
+        let(:strategies) { [GoogleSearch::Strategies::CarouselItems] }
+        let(:expected_array) do
+          JSON.parse(File.read("spec/fixtures/van-gogh-paintings-search-carousel/expected-array.json")).map(&:with_indifferent_access)
         end
 
-        expect(result_with_unescaped_image_sources).to eq(expected_array)
+        it "extracts the expected array" do
+          indifferent_result = subject.result.map(&:with_indifferent_access)
+
+          # The provided fixtures contain escape sequences that were incorrectly unescaped - ie. stripping the escape
+          # character instead of resolving the sequence. To account for this, I'm post-processing the expected resulting
+          # array for the carousel items to adjust image sources to use the incorrect unescaped version of the URL so
+          # that the tests pass and I don't have to modify the provided fixture for this.
+          result_with_unescaped_image_sources = indifferent_result.map do |item|
+            item[:image] = item[:image]&.gsub("=", "x3d")
+            item
+          end
+
+          expect(result_with_unescaped_image_sources).to eq(expected_array)
+        end
+      end
+
+      context "one piece characters search results (google japan)" do
+        let(:html) { File.read("spec/fixtures/one-piece-characters-japan-search-carousel/page.html") }
+        let(:strategies) { [GoogleSearch::Strategies::CarouselItems] }
+        let(:expected_array) do
+          JSON.parse(File.read("spec/fixtures/one-piece-characters-japan-search-carousel/expected-array.json")).map(&:with_indifferent_access)
+        end
+
+        it "extracts the expected array" do
+          indifferent_result = subject.result.map(&:with_indifferent_access)
+
+          expect(indifferent_result).to eq(expected_array)
+        end
       end
     end
 

@@ -98,7 +98,7 @@ module GoogleSearch
     def valid_page?
       return false if @page.at_css("[itemtype=\"http://schema.org/SearchResultsPage\"]").nil?
       return false if @page.at_css("[name=\"q\"]").nil?
-      return false unless @page.inner_html.include?("window.google=")
+      return false unless @page.inner_html.include?("window.google")
 
       true
     end

@@ -5,7 +5,7 @@ module GoogleSearch
     # Strategy class for extracting carousel items from search results
     class CarouselItems < Base
       ITEM_SELECTOR = ".appbar g-scrolling-carousel a:has(g-img)"
-      ITEM_TITLE_SELECTOR = ".kltat"
+      ITEM_TITLE_SELECTOR = ".kltat, .klitem > div > :nth-child(3) > :nth-child(1)"
       ITEM_EXTENSIONS_SELECTOR = ".klmeta"
 
       def matches?
