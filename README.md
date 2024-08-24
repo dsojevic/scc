@@ -2,7 +2,26 @@
 
 Overview, instructions, notes, and general scratchpad for my attempt at [SerpApi's code challenge](https://github.com/serpapi/code-challenge).
 
-## Requirements
+## Installation
+
+1. Ensure you meet the [installation requirements](https://github.com/brianmario/charlock_holmes?tab=readme-ov-file#installing) for the `charlock_holmes` gem (it handles string encoding)
+2. Run `bundle install`
+
+## Running
+
+The `example.rb` file executes each of the fixtures individually and prints them as JSON directly to STDOUT.
+
+Run with `bundle exec example.rb`
+
+There is no outer object containing these, so you can't directly ingest this output, it's just for browsing via the terminal.
+
+Refer to [the fixtures](./spec/fixtures/) to see the actual output (with the exception of the original fixtures which contain escape sequences that were incorrectly unescaped)
+
+## Tests
+
+Standard RSpec tests, run with `bundle exec rspec`
+
+## Challenge Requirements
 
 _For my own purposes, I have rephrased (and added references to) the requirements noted in the original instructions so that I don't miss anything from them._
 
@@ -39,6 +58,14 @@ Current actor searches result in a "grid" style layout:
 
 ![Grid style layout](./spec/fixtures/john-wick-actors-search-grid/screenshot.png?raw=true "Grid style layout")
 
+### Mixed Layout
+
+The supplied artwork search fixtures also contain "grid" style items, as highlighted below.
+
+When all strategies are enabled for an extraction, both carousel items and grid items are returned in the resulting array.
+
+![Mixed style layout](./spec/fixtures/van-gogh-paintings-search-carousel/screenshot-full.png?raw=true "Mixed style layout")
+
 ## General Notes
 
 Collection of notes from working through the challenge.
@@ -48,6 +75,8 @@ Collection of notes from working through the challenge.
 - Fixtures for actors presentation in the results page have been added here `./spec/fixtures/john-wick-actors-search-grid/`
   - The [SerpApi result for this](./spec/fixtures/john-wick-actors-search-grid/serpapi-search-result.json) did not appear to contain the actors/cast in the result, left the JSON file in the fixtures for reference anyway
 - For the purposes of keeping the extractor simple enough for the challenge, I've avoided using a JS engine to resolve HTML fragments and image sources and instead gone with a simple (but fragile) regex find and replace early in the process the important few pieces
+- Added fixtures for a Japanese search (including carousel) here `./spec/fixtures/one-piece-characters-japan-search-carousel/`
+- Kept specs fairly high level for the challenge (ie. for the primary extractor class only) as the extractors aren't as robust as they could be, adding hyper-specific tests across everything wouldn't be adding much value for time spent in the challenge.
 
 ## Out of Scope
 
