@@ -2,6 +2,21 @@
 
 Overview, instructions, notes, and general scratchpad for my attempt at [SerpApi's code challenge](https://github.com/serpapi/code-challenge).
 
+- [Search Results Extraction Code Challenge](#search-results-extraction-code-challenge)
+  - [Installation](#installation)
+  - [Running](#running)
+    - [Examples](#examples)
+  - [Tests](#tests)
+  - [Challenge Requirements](#challenge-requirements)
+  - [Layout Variations](#layout-variations)
+    - [Carousel Layout](#carousel-layout)
+    - [Mosaic Layout](#mosaic-layout)
+    - [Grid Layout](#grid-layout)
+    - [Mixed Layout](#mixed-layout)
+  - [General Notes](#general-notes)
+  - [Out of Scope](#out-of-scope)
+
+
 ## Installation
 
 1. Ensure you meet the [installation requirements](https://github.com/brianmario/charlock_holmes?tab=readme-ov-file#installing) for the `charlock_holmes` gem (it handles string encoding)
