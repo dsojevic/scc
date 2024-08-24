@@ -4,7 +4,7 @@ module GoogleSearch
   module Strategies
     # Strategy class for extracting mosaic items from search results
     class MosaicItems < Base
-      ITEM_SELECTOR = "[data-attrid^=\"kc:\"] a:has(img)"
+      ITEM_SELECTOR = "[data-attrid^=\"kc:\"]:not([data-attrid*=\"_actions_\"]) a:has(img):not(:has(wp-grid-tile))"
       ITEM_EXTENSIONS_SELECTOR = "img + div > :nth-child(n + 2)"
 
       def matches?
@@ -18,10 +18,13 @@ module GoogleSearch
 
           {
             name: item_image.attr("alt"),
-            extensions: extract_extensions_from_nodes(item_extensions),
             image: extract_image_src(item_image),
             link: build_url(item.attr("href")),
-          }
+          }.merge(
+            {
+              extensions: extract_extensions_from_nodes(item_extensions),
+            }.compact
+          )
         end
       end
     end

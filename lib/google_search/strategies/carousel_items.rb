@@ -20,10 +20,13 @@ module GoogleSearch
 
           {
             name: item_title.text,
-            extensions: extract_extensions_from_nodes(item_extensions),
             image: extract_image_src(item_image),
             link: build_url(item.attr("href")),
-          }
+          }.merge(
+            {
+              extensions: extract_extensions_from_nodes(item_extensions),
+            }.compact
+          )
         end
       end
     end

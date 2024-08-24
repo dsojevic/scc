@@ -86,4 +86,26 @@ Then if a search result page were to contain a blend of items (eg. movies and ac
 }
 ```
 
+It may be worth pairing with the closest `[role="heading"]` element for named sections as well, eg.
+```json
+{
+  "Vincent van Gogh > Artworks": [
+    {
+      "name": "...",
+      "extensions": ["..."],
+      "link": "...",
+      "image": "...",
+    }
+  ],
+  "French artists": [
+    {
+      "name": "...",
+      "extensions": ["..."],
+      "link": "...",
+      "image": "...",
+    }
+  ]
+}
+```
+
 Having the strategies return an object instead would also allow you to have those that will pull out other knowledge graph type items too, eg. rich snippets, etc.

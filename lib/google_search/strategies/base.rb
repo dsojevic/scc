@@ -9,6 +9,8 @@ module GoogleSearch
       BASE_64_1X1_IMAGE = "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 
       def initialize(page)
+        raise InvalidPageError unless page.is_a?(Nokolexbor::Document)
+
         @page = page
       end
 
@@ -39,15 +41,23 @@ module GoogleSearch
       # Build a full URL from a path - if the path is relative, join it with the base URL,
       # otherwise just return it as is.
       def build_url(path)
-        if path.start_with?("/")
-          URI.join(base_url, path).to_s
-        else
-          path
-        end
+        url = if path.start_with?("/")
+                URI.join(base_url, path).to_s
+              else
+                path
+              end
+
+        # Unescape single quotes in URLs as the provided expected array fixture has
+        # them unescaped in the link values
+        url.gsub("%27", "'")
       end
 
       def extract_extensions_from_nodes(nodes)
-        nodes.map(&:text)&.map(&:strip)&.reject(&:empty?)
+        extensions = nodes.map(&:text)&.map(&:strip)&.reject(&:empty?)
+
+        return nil if extensions.empty?
+
+        extensions
       end
 
       def extract_image_src(node)

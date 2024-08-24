@@ -14,5 +14,6 @@ group :development, :test do
 end
 
 group :test do
+  gem "activesupport", require: false
   gem "rspec"
 end
