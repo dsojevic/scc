@@ -1,28 +1,46 @@
-# Extract Van Gogh Paintings Code Challenge
+# Search Results Extraction Code Challenge
 
-Goal is to extract a list of Van Gogh paintings from the attached Google search results page.
+Overview, instructions, notes, and general scratchpad for my attempt at [SerpApi's code challenge](https://github.com/serpapi/code-challenge).
 
-![Van Gogh paintings](https://github.com/serpapi/code-challenge/blob/master/files/van-gogh-paintings.png?raw=true "Van Gogh paintings")
+## Requirements
 
-## Instructions
+_For my own purposes, I have rephrased (and added references to) the requirements noted in the original instructions so that I don't miss anything from them._
 
-This is already fully supported on SerpApi. ([relevant test], [html file], [sample json], and [expected array].)
-Try to come up with your own solution and your own test.
-Extract the painting `name`, `extensions` array (date), and Google `link` in an array.
+- Extractor is not required to perform any HTTP requests _[[ref](./instructions/README.md#:~:text=No%20extra%20HTTP%20requests%20should%20be%20needed%20for%20anything.)]_.
+- Extractor output should be an array of objects with the following properties:
+  - `name` _[[ref](./instructions/README.md#:~:text=Extract%20the%20painting%20name%2C)]_
+  - `extensions` (array of additional data, eg. date for artwork _[[ref](./instructions/README.md#:~:text=extensions%20array%20(date))]_, character name for actors)
+  - `link` (Google link _[[ref](./instructions/README.md#:~:text=extensions%20array%20(date)%2C-,and%20Google%20link%20in,-an%20array.)]_)
+  - `image` (nullable, do not perform additional requests _[[ref](./instructions/README.md#:~:text=not%20the%20ones%20where%20extra%20requests%20are%20needed)]_)
+- Should support extraction from at least 3 different (but similar) search result layouts _[[ref](./instructions/README.md#:~:text=Test%20against%202%20other%20similar%20result%20pages)]_.
 
-Fork this repository and make a PR when ready.
+## Layout Variations
 
-Programming language wise, Ruby (with RSpec tests) is strongly suggested but feel free to use whatever you feel like.
+Below are the different layout variations I've used as fixtures.
 
-Parse directly the HTML result page ([html file]) in this repository. No extra HTTP requests should be needed for anything.
+### Carousel Layout
 
-[relevant test]: https://github.com/serpapi/test-knowledge-graph-desktop/blob/master/spec/knowledge_graph_claude_monet_paintings_spec.rb
-[sample json]: https://raw.githubusercontent.com/serpapi/code-challenge/master/files/van-gogh-paintings.json
-[html file]: https://raw.githubusercontent.com/serpapi/code-challenge/master/files/van-gogh-paintings.html
-[expected array]: https://raw.githubusercontent.com/serpapi/code-challenge/master/files/expected-array.json
+Supplied artwork search fixtures are of a "carousel" style layout:
 
-Add also to your array the painting thumbnails present in the result page file (not the ones where extra requests are needed). 
+![Carousel style layout](./spec/fixtures/van-gogh-paintings-search-carousel/screenshot.png?raw=true "Carousel style layout")
 
-Test against 2 other similar result pages to make sure it works against different layouts. (Pages that contain the same kind of carrousel. Don't necessarily have to be paintings.)
+### Mosaic Layout
 
-The suggested time for this challenge is 4 hours. But, you can take your time and work more on it if you want.
+Current artwork searches result in a "mosaic" style layout:
+
+![Mosaic style layout](./spec/fixtures/van-gogh-paintings-search-mosaic/screenshot.png?raw=true "Mosaic style layout")
+
+### Grid Layout
+
+Current actor searches result in a "grid" style layout:
+
+![Grid style layout](./spec/fixtures/john-wick-actors-search-grid/screenshot.png?raw=true "Grid style layout")
+
+## General Notes
+
+Collection of notes from working through the challenge.
+
+- Original `expected-array.json` file (now at `./spec/fixtures/van-gogh-paintings-search-carousel/expected-array.json`) contained an object key and the array as the value though no outer object was present, the key was removed so that the file contained only an array of objects. Instructions note that desired output should be an array (and filename would suggest the same).
+- Fixtures for "mosaic display" artwork presentation in the results page have been added here `./spec/fixtures/van-gogh-paintings-search-mosaic/`
+- Fixtures for actors presentation in the results page have been added here `./spec/fixtures/john-wick-actors-search-grid/`
+  - The [SerpApi result for this](./spec/fixtures/john-wick-actors-search-grid/serpapi-search-result.json) did not appear to contain the actors/cast in the result, left the JSON file in the fixtures for reference anyway

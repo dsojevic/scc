@@ -1,0 +1,11 @@
+Metrics/MethodLength:
+  Max: 20
+
+Style/StringLiterals:
+  Enabled: false
+
+Style/TrailingCommaInArrayLiteral:
+  Enabled: false
+
+Style/TrailingCommaInHashLiteral:
+  Enabled: false
