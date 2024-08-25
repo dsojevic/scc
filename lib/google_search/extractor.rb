@@ -56,6 +56,10 @@ module GoogleSearch
       @page.inner_html.scan(HTML_SOURCE_MAPPING_REGEX).each do |match|
         html_id, html_source = match
 
+        # Skip mappings with colons in them as they're not valid HTML IDs and
+        # result in an error when trying to find the element
+        next if html_id.include?(":")
+
         @target_element = @page.at_css("##{html_id}")
 
         next if @target_element.nil?

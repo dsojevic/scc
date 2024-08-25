@@ -79,6 +79,9 @@ Refer to [the fixtures](./spec/fixtures/) to see all sources/outputs (with the e
 
 Standard RSpec tests, run with `bundle exec rspec`
 
+- Tests against fixtures of my own sourcing; and
+- Tests against a handful of randomly selected fixtures from other code challenge submissions
+
 ## Challenge Requirements
 
 _For my own purposes, I have rephrased (and added references to) the requirements noted in the original instructions so that I don't miss anything from them._
