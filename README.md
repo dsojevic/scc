@@ -63,6 +63,11 @@ Available options:
   bundle exec extract.rb ./spec/fixtures/john-wick-actors-search-grid/page.html --grid
   ```
 
+* **Grid Search Result [all strategies]**
+  ```bash
+  bundle exec extract.rb ./spec/fixtures/rammstein-members-search-grid/page.html --all
+  ```
+
 * **Mosaic Search Result [mosaic strategy only]**
   ```bash
   bundle exec extract.rb ./spec/fixtures/van-gogh-paintings-search-mosaic/page.html --mosaic
@@ -101,15 +106,19 @@ New search (via Google Japan) of a "carousel" style layout:
 
 ### Mosaic Layout
 
-Current artwork searches result in a "mosaic" style layout:
+Current artwork search result in a "mosaic" style layout:
 
 ![Mosaic style layout](./spec/fixtures/van-gogh-paintings-search-mosaic/screenshot.png?raw=true "Mosaic style layout")
 
 ### Grid Layout
 
-Current actor searches result in a "grid" style layout:
+Current actor search result in a "grid" style layout:
 
 ![Grid style layout](./spec/fixtures/john-wick-actors-search-grid/screenshot.png?raw=true "Grid style layout")
+
+Current band members search (via Google Germany) result in a "grid" style layout:
+
+![Grid style layout](./spec/fixtures/rammstein-members-search-grid/screenshot.png?raw=true "Grid style layout (DE)")
 
 ### Mixed Layout
 

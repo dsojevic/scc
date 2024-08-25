@@ -48,9 +48,10 @@ describe GoogleSearch::Extractor do
 
   describe "valid search pages" do
     context "carousel items search results" do
+      let(:strategies) { [GoogleSearch::Strategies::CarouselItems] }
+
       context "van gogh paintings search results" do
         let(:html) { File.read("spec/fixtures/van-gogh-paintings-search-carousel/page.html") }
-        let(:strategies) { [GoogleSearch::Strategies::CarouselItems] }
         let(:expected_array) do
           JSON.parse(File.read("spec/fixtures/van-gogh-paintings-search-carousel/expected-array.json")).map(&:with_indifferent_access)
         end
@@ -73,7 +74,6 @@ describe GoogleSearch::Extractor do
 
       context "one piece characters search results (google japan)" do
         let(:html) { File.read("spec/fixtures/one-piece-characters-japan-search-carousel/page.html") }
-        let(:strategies) { [GoogleSearch::Strategies::CarouselItems] }
         let(:expected_array) do
           JSON.parse(File.read("spec/fixtures/one-piece-characters-japan-search-carousel/expected-array.json")).map(&:with_indifferent_access)
         end
@@ -87,16 +87,32 @@ describe GoogleSearch::Extractor do
     end
 
     context "grid items search results" do
-      let(:html) { File.read("spec/fixtures/john-wick-actors-search-grid/page.html") }
       let(:strategies) { [GoogleSearch::Strategies::GridItems] }
-      let(:expected_array) do
-        JSON.parse(File.read("spec/fixtures/john-wick-actors-search-grid/expected-array.json")).map(&:with_indifferent_access)
+
+      context "john wick actors search results" do
+        let(:html) { File.read("spec/fixtures/john-wick-actors-search-grid/page.html") }
+        let(:expected_array) do
+          JSON.parse(File.read("spec/fixtures/john-wick-actors-search-grid/expected-array.json")).map(&:with_indifferent_access)
+        end
+
+        it "extracts the expected array" do
+          indifferent_result = subject.result.map(&:with_indifferent_access)
+
+          expect(indifferent_result).to eq(expected_array)
+        end
       end
 
-      it "extracts the expected array" do
-        indifferent_result = subject.result.map(&:with_indifferent_access)
+      context "rammstein members search results" do
+        let(:html) { File.read("spec/fixtures/rammstein-members-search-grid/page.html") }
+        let(:expected_array) do
+          JSON.parse(File.read("spec/fixtures/rammstein-members-search-grid/expected-array.json")).map(&:with_indifferent_access)
+        end
 
-        expect(indifferent_result).to eq(expected_array)
+        it "extracts the expected array" do
+          indifferent_result = subject.result.map(&:with_indifferent_access)
+
+          expect(indifferent_result).to eq(expected_array)
+        end
       end
     end
 
