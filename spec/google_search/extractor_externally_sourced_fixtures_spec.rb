@@ -7,24 +7,43 @@ EXTERNALLY_SOURCED_FIXTURES = {
     john-lennon
     ruby-books
   ],
+  "dev-amirson" => %w[
+    cricket-teams
+  ],
   "fsndzomga" => %w[
     american-presidents
     cast-of-friends
     jennifer-aniston
   ],
+  "ilyazub" => %w[
+    ilya-repin-paintings
+  ],
   "mariusio" => %w[
     da-vinci
     monet
+  ],
+  "mentalcaries" => %w[
+    christopher-nolan-movies
+    iron-maiden-albums
+  ],
+  "spoisseroux" => %w[
+    haruki-murakami
+    jessica-pratt
   ],
   "tim-decillis" => %w[
     pollock-paintings
     basquiat-paintings
   ],
+  "vishaldodiya" => %w[
+    avengers-endgame-cast
+    bmw-cars
+    harry-potter-cast
+  ],
   "yokolet" => %w[
     paul-signac
     spiderman-movies
   ]
-}
+}.freeze
 
 # rubocop:disable Layout/LineLength
 describe GoogleSearch::Extractor do
