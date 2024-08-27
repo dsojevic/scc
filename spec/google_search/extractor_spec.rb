@@ -114,19 +114,47 @@ describe GoogleSearch::Extractor do
           expect(indifferent_result).to eq(expected_array)
         end
       end
+
+      context "rick astley albums search results" do
+        let(:html) { File.read("spec/fixtures/rick-astley-albums-search-grid/page.html") }
+        let(:expected_array) do
+          JSON.parse(File.read("spec/fixtures/rick-astley-albums-search-grid/expected-array.json")).map(&:with_indifferent_access)
+        end
+
+        it "extracts the expected array" do
+          indifferent_result = subject.result.map(&:with_indifferent_access)
+
+          expect(indifferent_result).to eq(expected_array)
+        end
+      end
     end
 
     context "mosaic items search results" do
-      let(:html) { File.read("spec/fixtures/van-gogh-paintings-search-mosaic/page.html") }
-      let(:strategies) { [GoogleSearch::Strategies::MosaicItems] }
-      let(:expected_array) do
-        JSON.parse(File.read("spec/fixtures/van-gogh-paintings-search-mosaic/expected-array.json")).map(&:with_indifferent_access)
+      context "boombox songs search results" do
+        let(:html) { File.read("spec/fixtures/boombox-songs-search-mosaic/page.html") }
+        let(:expected_array) do
+          JSON.parse(File.read("spec/fixtures/boombox-songs-search-mosaic/expected-array.json")).map(&:with_indifferent_access)
+        end
+
+        it "extracts the expected array" do
+          indifferent_result = subject.result.map(&:with_indifferent_access)
+
+          expect(indifferent_result).to eq(expected_array)
+        end
       end
 
-      it "extracts the expected array" do
-        indifferent_result = subject.result.map(&:with_indifferent_access)
+      context "van gogh paintings search results" do
+        let(:html) { File.read("spec/fixtures/van-gogh-paintings-search-mosaic/page.html") }
+        let(:strategies) { [GoogleSearch::Strategies::MosaicItems] }
+        let(:expected_array) do
+          JSON.parse(File.read("spec/fixtures/van-gogh-paintings-search-mosaic/expected-array.json")).map(&:with_indifferent_access)
+        end
 
-        expect(indifferent_result).to eq(expected_array)
+        it "extracts the expected array" do
+          indifferent_result = subject.result.map(&:with_indifferent_access)
+
+          expect(indifferent_result).to eq(expected_array)
+        end
       end
     end
 

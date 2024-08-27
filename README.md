@@ -68,9 +68,19 @@ Available options:
   bundle exec extract.rb ./spec/fixtures/rammstein-members-search-grid/page.html --all
   ```
 
+* **Grid Search Result [all strategies]**
+  ```bash
+  bundle exec extract.rb ./spec/fixtures/rick-astley-albums-search-grid/page.html --all
+  ```
+
 * **Mosaic Search Result [mosaic strategy only]**
   ```bash
   bundle exec extract.rb ./spec/fixtures/van-gogh-paintings-search-mosaic/page.html --mosaic
+  ```
+
+* **Mosaic Search Result [all strategies]**
+  ```bash
+  bundle exec extract.rb ./spec/fixtures/boombox-songs-search-mosaic/page.html --all
   ```
 
 Refer to [the fixtures](./spec/fixtures/) to see all sources/outputs (with the exception of the original fixtures which contain escape sequences that were incorrectly unescaped)
@@ -89,7 +99,7 @@ _For my own purposes, I have rephrased (and added references to) the requirement
 - Extractor is not required to perform any HTTP requests _[[ref](./instructions/README.md#:~:text=No%20extra%20HTTP%20requests%20should%20be%20needed%20for%20anything.)]_.
 - Extractor output should be an array of objects with the following properties:
   - `name` _[[ref](./instructions/README.md#:~:text=Extract%20the%20painting%20name%2C)]_
-  - `extensions` (array of additional data, eg. date for artwork _[[ref](./instructions/README.md#:~:text=extensions%20array%20(date))]_, character name for actors)
+  - `extensions` (optional; array of additional data, eg. date for artwork _[[ref](./instructions/README.md#:~:text=extensions%20array%20(date))]_, character name for actors)
   - `link` (Google link _[[ref](./instructions/README.md#:~:text=extensions%20array%20(date)%2C-,and%20Google%20link%20in,-an%20array.)]_)
   - `image` (nullable, do not perform additional requests _[[ref](./instructions/README.md#:~:text=not%20the%20ones%20where%20extra%20requests%20are%20needed)]_)
 - Should support extraction from at least 3 different (but similar) search result layouts _[[ref](./instructions/README.md#:~:text=Test%20against%202%20other%20similar%20result%20pages)]_.
@@ -113,6 +123,10 @@ Current artwork search result in a "mosaic" style layout:
 
 ![Mosaic style layout](./spec/fixtures/van-gogh-paintings-search-mosaic/screenshot.png?raw=true "Mosaic style layout")
 
+Current artist songs search (via Google Ukraine) result in a "mosaic" style layout (that actually presents as a grid):
+
+![Mosaic style layout](./spec/fixtures/boombox-songs-search-mosaic/screenshot.png?raw=true "Mosaic style layout (UA)")
+
 ### Grid Layout
 
 Current actor search result in a "grid" style layout:
@@ -122,6 +136,10 @@ Current actor search result in a "grid" style layout:
 Current band members search (via Google Germany) result in a "grid" style layout:
 
 ![Grid style layout](./spec/fixtures/rammstein-members-search-grid/screenshot.png?raw=true "Grid style layout (DE)")
+
+Current artist albums search (via Google UAE) result in a "grid" style layout:
+
+![Grid style layout](./spec/fixtures/rick-astley-albums-search-grid/screenshot.png?raw=true "Grid style layout (UAE)")
 
 ### Mixed Layout
 

@@ -1,0 +1,560 @@
+{
+  "search_metadata": {
+    "id": "66cddb7c93bb5766aeea58fa",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/369ceac2a2149092/66cddb7c93bb5766aeea58fa.json",
+    "created_at": "2024-08-27 13:58:20 UTC",
+    "processed_at": "2024-08-27 13:58:20 UTC",
+    "google_url": "https://www.google.com.ua/search?q=%D0%9F%D1%96%D1%81%D0%BD%D1%96+%D0%91%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81&oq=%D0%9F%D1%96%D1%81%D0%BD%D1%96+%D0%91%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81&uule=w+CAIQICIWS3lpdixLeWl2IGNpdHksVWtyYWluZQ&hl=uk&gl=ua&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/369ceac2a2149092/66cddb7c93bb5766aeea58fa.html",
+    "total_time_taken": 0.78
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Пісні Бумбокс",
+    "location_requested": "Kyiv, Kyiv city, Ukraine",
+    "location_used": "Kyiv,Kyiv city,Ukraine",
+    "google_domain": "google.com.ua",
+    "hl": "uk",
+    "gl": "ua",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Пісні Бумбокс",
+    "total_results": 93100,
+    "time_taken_displayed": 0.5,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "knowledge_graph": {
+    "title": "Бумбокс",
+    "type": "Хіп-хоп гурт",
+    "entity_type": "music, people",
+    "main_tab_text": "Огляд",
+    "kgmid": "/m/03f1gs9",
+    "knowledge_graph_search_link": "https://www.google.com.ua/search?kgmid=/m/03f1gs9&hl=uk-UA&q=%D0%91%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81&shndl=17&shem=vslcea&source=sh/x/kp/osrp/m5/1",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ua&google_domain=google.com.ua&hl=uk-UA&kgmid=%2Fm%2F03f1gs9&location=Kyiv%2C+Kyiv+city%2C+Ukraine&q=%D0%91%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81",
+    "tabs": [
+      {
+        "text": "Пісні",
+        "si": "ACC90ny-3nqCjIA0GXSb0Aa68P2lTXcii3nObl7GfzCdg0HHq-E-uRCmnic3xSmlWU8b5AaEealo0F4o2BYvPnKfhO3IW5bvf8SI5Sn9xJbOtVywco8KzdQkKvn3BYYciahikAwxLaex6eFLRcRTYfWJOF_k9RVU0gJ8PWqzrGP-l2VO-EDwylFJsfBKY8k7575q1WfDOa9WDgg8aBD9rmiXTHwCyATuZw==",
+        "link": "https://www.google.com.ua/search?si=ACC90ny-3nqCjIA0GXSb0Aa68P2lTXcii3nObl7GfzCdg0HHq-E-uRCmnic3xSmlWU8b5AaEealo0F4o2BYvPnKfhO3IW5bvf8SI5Sn9xJbOtVywco8KzdQkKvn3BYYciahikAwxLaex6eFLRcRTYfWJOF_k9RVU0gJ8PWqzrGP-l2VO-EDwylFJsfBKY8k7575q1WfDOa9WDgg8aBD9rmiXTHwCyATuZw==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ua&google_domain=google.com.ua&hl=uk&location=Kyiv%2C+Kyiv+city%2C+Ukraine&q=%D0%9F%D1%96%D1%81%D0%BD%D1%96+%D0%91%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81&si=ACC90ny-3nqCjIA0GXSb0Aa68P2lTXcii3nObl7GfzCdg0HHq-E-uRCmnic3xSmlWU8b5AaEealo0F4o2BYvPnKfhO3IW5bvf8SI5Sn9xJbOtVywco8KzdQkKvn3BYYciahikAwxLaex6eFLRcRTYfWJOF_k9RVU0gJ8PWqzrGP-l2VO-EDwylFJsfBKY8k7575q1WfDOa9WDgg8aBD9rmiXTHwCyATuZw%3D%3D"
+      },
+      {
+        "text": "Слухати",
+        "si": "ACC90nxuiNQ8gmFtGY3VQYPPvUxOnsDYfD56HQclbAb72GY7xkFft9XICkK-O5AQzyZW7ebGe_xkUaywhYFl7g8byZyLdlXgP6ZWUhaJMpi8-OUYfd6Qao23gxFLhMntDpGUN0N1hpoRB6w8cQTuQsNNQLzOe4YyNA==",
+        "link": "https://www.google.com.ua/search?si=ACC90nxuiNQ8gmFtGY3VQYPPvUxOnsDYfD56HQclbAb72GY7xkFft9XICkK-O5AQzyZW7ebGe_xkUaywhYFl7g8byZyLdlXgP6ZWUhaJMpi8-OUYfd6Qao23gxFLhMntDpGUN0N1hpoRB6w8cQTuQsNNQLzOe4YyNA==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ua&google_domain=google.com.ua&hl=uk&location=Kyiv%2C+Kyiv+city%2C+Ukraine&q=%D0%9F%D1%96%D1%81%D0%BD%D1%96+%D0%91%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81&si=ACC90nxuiNQ8gmFtGY3VQYPPvUxOnsDYfD56HQclbAb72GY7xkFft9XICkK-O5AQzyZW7ebGe_xkUaywhYFl7g8byZyLdlXgP6ZWUhaJMpi8-OUYfd6Qao23gxFLhMntDpGUN0N1hpoRB6w8cQTuQsNNQLzOe4YyNA%3D%3D"
+      },
+      {
+        "text": "Учасники",
+        "si": "ACC90nwa9hvcFsrjzscXY7MFgIO4H9HtGqRLJDsg1Go1SEGvF01g-Mm8qB1rAGrwxeAKgFmKQutiIYs8KJirGdBuy8TmFBW3-hz16TNtVrvjFhA_PbGczXbSRCxrr1F9tkLCeMCO_wk6Wbkx7LhKVsjWiL2xFCIjlg==",
+        "link": "https://www.google.com.ua/search?si=ACC90nwa9hvcFsrjzscXY7MFgIO4H9HtGqRLJDsg1Go1SEGvF01g-Mm8qB1rAGrwxeAKgFmKQutiIYs8KJirGdBuy8TmFBW3-hz16TNtVrvjFhA_PbGczXbSRCxrr1F9tkLCeMCO_wk6Wbkx7LhKVsjWiL2xFCIjlg==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ua&google_domain=google.com.ua&hl=uk&location=Kyiv%2C+Kyiv+city%2C+Ukraine&q=%D0%9F%D1%96%D1%81%D0%BD%D1%96+%D0%91%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81&si=ACC90nwa9hvcFsrjzscXY7MFgIO4H9HtGqRLJDsg1Go1SEGvF01g-Mm8qB1rAGrwxeAKgFmKQutiIYs8KJirGdBuy8TmFBW3-hz16TNtVrvjFhA_PbGczXbSRCxrr1F9tkLCeMCO_wk6Wbkx7LhKVsjWiL2xFCIjlg%3D%3D"
+      },
+      {
+        "text": "Альбоми",
+        "si": "ACC90nxHGvSiKYcupe4PxjMkqvKOs4A-S814UNNXh2Sqa1LUdtjEA0dtoTYPOArnAIw0W5KZT9HUc_oEq6qxBpuXdwt2c6KGICZNtYk2nk6LuadlfNygnenmL6hrhPKcQL0vfagKF-A6Zy4JHhgEh1S7DsFp5UqD7g==",
+        "link": "https://www.google.com.ua/search?si=ACC90nxHGvSiKYcupe4PxjMkqvKOs4A-S814UNNXh2Sqa1LUdtjEA0dtoTYPOArnAIw0W5KZT9HUc_oEq6qxBpuXdwt2c6KGICZNtYk2nk6LuadlfNygnenmL6hrhPKcQL0vfagKF-A6Zy4JHhgEh1S7DsFp5UqD7g==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ua&google_domain=google.com.ua&hl=uk&location=Kyiv%2C+Kyiv+city%2C+Ukraine&q=%D0%9F%D1%96%D1%81%D0%BD%D1%96+%D0%91%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81&si=ACC90nxHGvSiKYcupe4PxjMkqvKOs4A-S814UNNXh2Sqa1LUdtjEA0dtoTYPOArnAIw0W5KZT9HUc_oEq6qxBpuXdwt2c6KGICZNtYk2nk6LuadlfNygnenmL6hrhPKcQL0vfagKF-A6Zy4JHhgEh1S7DsFp5UqD7g%3D%3D"
+      },
+      {
+        "text": "Відео",
+        "si": "ACC90nza5YU8Wkz09FKQCbSEFxrQngfqN8pRd32_SQNSP231L1WEOINEr3ceUwaGABf7wLrPM-36azUz_tlnWDGyn25l6J4a43WVUzbM8RYaTb6EVvrsaAhnwKWSYWY79iirwvNuTupC",
+        "link": "https://www.google.com.ua/search?si=ACC90nza5YU8Wkz09FKQCbSEFxrQngfqN8pRd32_SQNSP231L1WEOINEr3ceUwaGABf7wLrPM-36azUz_tlnWDGyn25l6J4a43WVUzbM8RYaTb6EVvrsaAhnwKWSYWY79iirwvNuTupC",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ua&google_domain=google.com.ua&hl=uk&location=Kyiv%2C+Kyiv+city%2C+Ukraine&q=%D0%9F%D1%96%D1%81%D0%BD%D1%96+%D0%91%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81&si=ACC90nza5YU8Wkz09FKQCbSEFxrQngfqN8pRd32_SQNSP231L1WEOINEr3ceUwaGABf7wLrPM-36azUz_tlnWDGyn25l6J4a43WVUzbM8RYaTb6EVvrsaAhnwKWSYWY79iirwvNuTupC"
+      },
+      {
+        "text": "Події",
+        "si": "ACC90nwsEMu-UgBVdlBhrsOs-h2dDHyfIfW4VfvIDEUCViY2zmgWIgyXbF38ErZVo9cnOjuptOGUooJ3x6LVPfjEgojCRM03UKM8jb6hPxGls_hfnO8otTSwwevItQ405jS-j0DtTC2rm61HV2l8xm_PYOby9-8Ru2wyXsQVevZaxpigUT7covs=",
+        "link": "https://www.google.com.ua/search?si=ACC90nwsEMu-UgBVdlBhrsOs-h2dDHyfIfW4VfvIDEUCViY2zmgWIgyXbF38ErZVo9cnOjuptOGUooJ3x6LVPfjEgojCRM03UKM8jb6hPxGls_hfnO8otTSwwevItQ405jS-j0DtTC2rm61HV2l8xm_PYOby9-8Ru2wyXsQVevZaxpigUT7covs=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ua&google_domain=google.com.ua&hl=uk&location=Kyiv%2C+Kyiv+city%2C+Ukraine&q=%D0%9F%D1%96%D1%81%D0%BD%D1%96+%D0%91%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81&si=ACC90nwsEMu-UgBVdlBhrsOs-h2dDHyfIfW4VfvIDEUCViY2zmgWIgyXbF38ErZVo9cnOjuptOGUooJ3x6LVPfjEgojCRM03UKM8jb6hPxGls_hfnO8otTSwwevItQ405jS-j0DtTC2rm61HV2l8xm_PYOby9-8Ru2wyXsQVevZaxpigUT7covs%3D"
+      }
+    ],
+    "description": "«Бумбо́кс» — український гурт, що грає в жанрах хіп-хоп і фанкі-ґрув. Створений 2004 року в Києві вокалістом Андрієм Хливнюком, гітаристом Андрієм Самойлом та Валентином Матіюком. Гурт входить до асоціації незалежних музикантів «Вдох».",
+    "source": {
+      "name": "Вікіпедія",
+      "link": "https://uk.wikipedia.org/wiki/%D0%91%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81"
+    },
+    "Жанри": "Регі, Український рок",
+    "Жанри_links": [
+      {
+        "text": "Регі",
+        "link": "https://www.google.com.ua/search?sca_esv=acb05f42373aaad6&gl=ua&hl=uk&q=%D0%A0%D0%B5%D0%B3%D1%96&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm2EeR7pM26-kThmmAbkgUonWZ0vzeTMB4SJe147rDthX4bhjk5MY3XTAXDMVKFtVSVaYCppO__Y_i1yFkHQ73hzN0tVUjZ-k5wex7rbZolVPaVve8gDmh5GbA4YF3w9lD__Eb-5IQxNKy6j5ToIG6_irYU9yuEp8zrkRDJjaMgO-pJ1T_2UwjYcVji8wnMs40aUnFPnujQijdyESHRWYqdu4bFqg&sa=X&ved=2ahUKEwjcruSSqpWIAxX5KFkFHVjmPMoQmxMoAHoECBcQAg"
+      },
+      {
+        "text": "Український рок",
+        "link": "https://www.google.com.ua/search?sca_esv=acb05f42373aaad6&gl=ua&hl=uk&q=%D0%B1%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81+%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9+%D1%80%D0%BE%D0%BA&si=ACC90nwLLwns5sISZcdzuISy7t-NHozt8Cbt6G3WNQfC9ekAgOkGmbxNB1k5wkxLZOt1C3FFHH2ixLA2HuSTuNxztxVhdJgKY8bE5yX9xWbEdhB8lUi57nyJ5X29LPStxqP_-Xnwwxh1F4wqyOB-dhq422UAe5C2LBoiRmZ2R8isy1cUbLFEsba92XAmt2VWZQxp-PX2JeVL2WF6FDonEmXOfqAzoXNk93fRD_aQC-YatfXLRK4fOzWvuWoDLIwclA8TTIHUcj-HuT6UzynVtZZYzRxQ3jtlRFQ9rhVl7jvEgiXUFa9UxPPPIHHbCI5VKea-JH7YYgyl&sa=X&ved=2ahUKEwjcruSSqpWIAxX5KFkFHVjmPMoQmxMoAXoECBcQAw"
+      }
+    ],
+    "Походження": "Київ (2004)",
+    "Походження_links": [
+      {
+        "text": "Київ",
+        "link": "https://www.google.com.ua/search?sca_esv=acb05f42373aaad6&gl=ua&hl=uk&q=%D0%9A%D0%B8%D1%97%D0%B2&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L3ynhSfjzFrve7cVF_OttRHkJLRgmsYuYGe98ZrlrR88xj6mAlWjV-n_wCqi8cbnHp5xCLbfBfQbwHDV78xTl-22iiGDU1_EcfvyQmdxFFf2iD-vqmgUKiYdVFFRkOky6QYHIzp_7cSKXDk_ZhjHVp2Ol7SA&sa=X&ved=2ahUKEwjcruSSqpWIAxX5KFkFHVjmPMoQmxMoAHoECBkQAg"
+      }
+    ],
+    "Країна": "Україна",
+    "Країна_links": [
+      {
+        "text": "Україна",
+        "link": "https://www.google.com.ua/search?sca_esv=acb05f42373aaad6&gl=ua&hl=uk&q=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0&stick=H4sIAAAAAAAAAONgVuLQz9U3MC8xMlzEyndh8YVdFxsubLg4_cLeCxsADW1VSB0AAAA&sa=X&ved=2ahUKEwjcruSSqpWIAxX5KFkFHVjmPMoQmxMoAHoECCMQAg"
+      }
+    ],
+    "Лейбл": "Moon records, Вдох",
+    "Лейбл_links": [
+      {
+        "text": "Moon records",
+        "link": "https://www.google.com.ua/search?sca_esv=acb05f42373aaad6&gl=ua&hl=uk&q=Moon+records&stick=H4sIAAAAAAAAAONgVuLSz9U3SEqqKKpKW8TK45ufn6dQlJqcX5RSDACTKVPRHQAAAA&sa=X&ved=2ahUKEwjcruSSqpWIAxX5KFkFHVjmPMoQmxMoAHoECCIQAg"
+      }
+    ],
+    "Слухати": [
+      {
+        "name": "YouTube",
+        "link": "https://www.youtube.com/channel/UCqNDUcjSClfL2QKx_W9HRmg?feature=gws_kp_artist&feature=gws_kp_artist",
+        "image": "https://serpapi.com/searches/66cddb7c93bb5766aeea58fa/images/e86f28ed53f79e199c91ec0157a1d1957ac28915189b20ccf923f264e2311f02e7316e20f2a7ef84.png"
+      },
+      {
+        "name": "Spotify",
+        "link": "https://open.spotify.com/artist/2c3PFZtun8HemDbDfRPV6G?autoplay=true",
+        "image": "https://serpapi.com/searches/66cddb7c93bb5766aeea58fa/images/e86f28ed53f79e199c91ec0157a1d1957ac28915189b20cc85e093fd5b0c7ce3f04b4f43a15ca583.png"
+      },
+      {
+        "name": "YouTube Music",
+        "link": "https://music.youtube.com/channel/UCOSedixRyqwC1SyjAhuAkog?feature=gws_kp_artist&feature=gws_kp_artist",
+        "image": "https://serpapi.com/searches/66cddb7c93bb5766aeea58fa/images/e86f28ed53f79e199c91ec0157a1d1957ac28915189b20ccd6409ba0d5491621265ad7789cf5674b.png"
+      },
+      {
+        "name": "Apple Music",
+        "link": "https://music.apple.com/ua/artist/%D0%B1%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81/446305393",
+        "image": "https://serpapi.com/searches/66cddb7c93bb5766aeea58fa/images/e86f28ed53f79e199c91ec0157a1d1957ac28915189b20cc3c3ff8edfbaa772ef1805c2ca585e8e9.png"
+      }
+    ]
+  },
+  "inline_images": [
+    {
+      "link": "https://www.google.com.ua/search?sca_esv=acb05f42373aaad6&gl=ua&hl=uk&q=%D0%9F%D1%96%D1%81%D0%BD%D1%96+%D0%91%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81&udm=2&source=univ&fir=T6QdG_-eOHWUVM%252CnPOEikreCWpazM%252C_%253BeJAmkgSmTrEVFM%252CFJw8Ypvwoz8RMM%252C_%253BsHRF3MwMG3Qj0M%252Cs1Ge51Ww0e2o6M%252C_%253BG8ZNczDs0oa13M%252CjmbiajFiRkAaLM%252C_%253Bok5Q-RklOH3S7M%252CTiQCIjhum3DuGM%252C_%253B5ZWdueDj679ycM%252CDIXn-fF6-HvjfM%252C_%253BtJj7FmF4UBx_6M%252CsmVSHWc9F9yRmM%252C_%253BXtc0MpseAlzypM%252CaIkJpF6QLakTFM%252C_%253BDNCfGv-FVJw50M%252CSYmH-s_4fGl84M%252C_%253Bvmgj4qr7RCpyWM%252CdBSpU8i93uXKHM%252C_&usg=AI4_-kTJA7LuCQxdPzZDGCi1EDBYQ8rFQg&sa=X&ved=2ahUKEwjcruSSqpWIAxX5KFkFHVjmPMoQ9AF6BAhMEAA#imgrc=T6QdG_-eOHWUVM",
+      "source": "https://m.youtube.com/watch?v=Z3VLUtYqtBw",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTb1HQT7w607CND3livxgJzh7eq5vOV7ZndXCO-pJgEiSKMpujqb0S7a6A0w&s",
+      "original": "https://i.ytimg.com/vi/Z3VLUtYqtBw/maxresdefault.jpg",
+      "title": "БУМБОКС НАЙКРАЩІ ПІСНІ | BEST MUSIC",
+      "source_name": "YouTube"
+    },
+    {
+      "link": "https://www.google.com.ua/search?sca_esv=acb05f42373aaad6&gl=ua&hl=uk&q=%D0%9F%D1%96%D1%81%D0%BD%D1%96+%D0%91%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81&udm=2&source=univ&fir=T6QdG_-eOHWUVM%252CnPOEikreCWpazM%252C_%253BeJAmkgSmTrEVFM%252CFJw8Ypvwoz8RMM%252C_%253BsHRF3MwMG3Qj0M%252Cs1Ge51Ww0e2o6M%252C_%253BG8ZNczDs0oa13M%252CjmbiajFiRkAaLM%252C_%253Bok5Q-RklOH3S7M%252CTiQCIjhum3DuGM%252C_%253B5ZWdueDj679ycM%252CDIXn-fF6-HvjfM%252C_%253BtJj7FmF4UBx_6M%252CsmVSHWc9F9yRmM%252C_%253BXtc0MpseAlzypM%252CaIkJpF6QLakTFM%252C_%253BDNCfGv-FVJw50M%252CSYmH-s_4fGl84M%252C_%253Bvmgj4qr7RCpyWM%252CdBSpU8i93uXKHM%252C_&usg=AI4_-kTJA7LuCQxdPzZDGCi1EDBYQ8rFQg&sa=X&ved=2ahUKEwjcruSSqpWIAxX5KFkFHVjmPMoQ9AF6BAhhEAA#imgrc=eJAmkgSmTrEVFM",
+      "source": "https://m.youtube.com/watch?v=DlCGst1XmcE",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQok1P7BWq71kLq4b2TO7IYCkUSK-TRPZMLp-_R1WnrVW6nXUcS5J6uqtZpsg&s",
+      "original": "https://i.ytimg.com/vi/DlCGst1XmcE/maxresdefault.jpg",
+      "title": "Бумбокс. Таємний код: Рубікон /Full album/",
+      "source_name": "YouTube"
+    },
+    {
+      "link": "https://www.google.com.ua/search?sca_esv=acb05f42373aaad6&gl=ua&hl=uk&q=%D0%9F%D1%96%D1%81%D0%BD%D1%96+%D0%91%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81&udm=2&source=univ&fir=T6QdG_-eOHWUVM%252CnPOEikreCWpazM%252C_%253BeJAmkgSmTrEVFM%252CFJw8Ypvwoz8RMM%252C_%253BsHRF3MwMG3Qj0M%252Cs1Ge51Ww0e2o6M%252C_%253BG8ZNczDs0oa13M%252CjmbiajFiRkAaLM%252C_%253Bok5Q-RklOH3S7M%252CTiQCIjhum3DuGM%252C_%253B5ZWdueDj679ycM%252CDIXn-fF6-HvjfM%252C_%253BtJj7FmF4UBx_6M%252CsmVSHWc9F9yRmM%252C_%253BXtc0MpseAlzypM%252CaIkJpF6QLakTFM%252C_%253BDNCfGv-FVJw50M%252CSYmH-s_4fGl84M%252C_%253Bvmgj4qr7RCpyWM%252CdBSpU8i93uXKHM%252C_&usg=AI4_-kTJA7LuCQxdPzZDGCi1EDBYQ8rFQg&sa=X&ved=2ahUKEwjcruSSqpWIAxX5KFkFHVjmPMoQ9AF6BAhiEAA#imgrc=sHRF3MwMG3Qj0M",
+      "source": "https://sefon.pro/artist/2644-bumboks/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0iJ5eT5h8AWeNC6Q6v_irC9Iebwiil4ntnDrYRCvtfVK4g0njG1wq3ng5eA&s",
+      "original": "https://sefon.pro/img/artist_photos/bumboks.jpg",
+      "title": "Бумбокс - слушать и скачать бесплатно",
+      "source_name": "SeFon.pro"
+    }
+  ],
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "БУМБОКС НАЙКРАЩІ ПІСНІ | BEST MUSIC",
+      "link": "https://www.youtube.com/watch?v=Z3VLUtYqtBw",
+      "thumbnail": "https://serpapi.com/searches/66cddb7c93bb5766aeea58fa/images/b8297a73fd861c9f2991e818249f9b4a891346d11513c6d07015a6bc2541c387.jpeg",
+      "channel": "Music channel of Ukraine",
+      "duration": "1:20:27",
+      "platform": "YouTube",
+      "date": "21 бер. 2023 р.",
+      "key_moments": [
+        {
+          "link": "https://www.youtube.com/watch?v=Z3VLUtYqtBw&t=0",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmgx5JOsS7XT7z8XqHQl9UOvCFQpa3swpEWOWUWCRqtQ&s"
+        },
+        {
+          "link": "https://www.youtube.com/watch?v=Z3VLUtYqtBw&t=181",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG1epDc35uxH_Da6aNDe9WIKjcu76NF15iJ0yDPFy6bw&s"
+        },
+        {
+          "link": "https://www.youtube.com/watch?v=Z3VLUtYqtBw&t=367",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXAYjNejqgLa8Bn-HW9rrYs35WzWDV7Zf9CcxJDd0jAQ&s"
+        },
+        {
+          "link": "https://www.youtube.com/watch?v=Z3VLUtYqtBw&t=577",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXAYjNejqgLa8Bn-HW9rrYs35WzWDV7Zf9CcxJDd0jAQ&s"
+        },
+        {
+          "link": "https://www.youtube.com/watch?v=Z3VLUtYqtBw&t=817",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9vNK1PcMATgoinc-QyNmDI5n4eMIYNZ3FreZI2Z8nWQ&s"
+        },
+        {
+          "link": "https://www.youtube.com/watch?v=Z3VLUtYqtBw&t=1117",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUIYdCIrsWW6BBEgUHwKAWYQ_xXoIKtL3hKnLezx3wCg&s"
+        },
+        {
+          "link": "https://www.youtube.com/watch?v=Z3VLUtYqtBw&t=1417",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXAYjNejqgLa8Bn-HW9rrYs35WzWDV7Zf9CcxJDd0jAQ&s"
+        },
+        {
+          "link": "https://www.youtube.com/watch?v=Z3VLUtYqtBw&t=1687",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRD1AxIWw3s4ky3oQKwwnhJI3ee-TryYg9GwAaQscMkA&s"
+        },
+        {
+          "link": "https://www.youtube.com/watch?v=Z3VLUtYqtBw&t=1945",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTznbYCIIiAX7aZStsRWVBkkZhUn8D02D1MsITHqsPnBQ&s"
+        },
+        {
+          "link": "https://www.youtube.com/watch?v=Z3VLUtYqtBw&t=2275",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKOgInG8sydasGddzRW2sQ6kjofTlQlJ0qfU5Yzl-7fg&s"
+        },
+        {
+          "link": "https://www.youtube.com/watch?v=Z3VLUtYqtBw&t=2537",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXAYjNejqgLa8Bn-HW9rrYs35WzWDV7Zf9CcxJDd0jAQ&s"
+        },
+        {
+          "link": "https://www.youtube.com/watch?v=Z3VLUtYqtBw&t=2875",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPSW4U3cZERtU7rwV_LnTFZUAM5MhXhtnGLJAZc0RQMA&s"
+        },
+        {
+          "link": "https://www.youtube.com/watch?v=Z3VLUtYqtBw&t=3163",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9uV2NUWRjsZ9a9RQ5gB5bWhcypUtIbmCBD9Q3k8FzyQ&s"
+        },
+        {
+          "link": "https://www.youtube.com/watch?v=Z3VLUtYqtBw&t=3445",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXAYjNejqgLa8Bn-HW9rrYs35WzWDV7Zf9CcxJDd0jAQ&s"
+        },
+        {
+          "link": "https://www.youtube.com/watch?v=Z3VLUtYqtBw&t=3721",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9uV2NUWRjsZ9a9RQ5gB5bWhcypUtIbmCBD9Q3k8FzyQ&s"
+        },
+        {
+          "link": "https://www.youtube.com/watch?v=Z3VLUtYqtBw&t=4069",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLkqn7VL1MexBgUn-IQewFNRVh5SV4X0ywZAyj0CUqcA&s"
+        },
+        {
+          "link": "https://www.youtube.com/watch?v=Z3VLUtYqtBw&t=4313",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxxucgCZZDD6Cgk72o4xZgZY5Qlb2xrO9C_ruzcny2rQ&s"
+        },
+        {
+          "link": "https://www.youtube.com/watch?v=Z3VLUtYqtBw&t=4576",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS44eftU7q4gTDphrs3XqX6I2Z7TPltuMKmyVZLbQJ8-A&s"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "title": "Бумбокс найкращі пісні | Бумбокс все песни",
+      "link": "https://www.youtube.com/watch?v=3hW--HNssso",
+      "thumbnail": "https://serpapi.com/searches/66cddb7c93bb5766aeea58fa/images/b8297a73fd861c9f7d258f5d5dd6840fd749ebb862ea30a284cc91d877cd8745.jpeg",
+      "channel": "Music bang",
+      "duration": "52:06",
+      "platform": "YouTube",
+      "date": "2 жовт. 2022 р.",
+      "key_moments": [
+        {
+          "link": "https://www.youtube.com/watch?v=3hW--HNssso&t=0",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRixM3aroVNKwr-j02uFuvoUj_17ZZAc5jTUwvVynClrw&s"
+        },
+        {
+          "link": "https://www.youtube.com/watch?v=3hW--HNssso&t=181",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Gsbf2gHelZs6q8-0fJrm3Ov3y-ksN6kasRxboYWRMg&s"
+        },
+        {
+          "link": "https://www.youtube.com/watch?v=3hW--HNssso&t=420",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsyRmOkQnIKzNL4rR5aik6LBkajan5DLkOntoPQxAFtg&s"
+        },
+        {
+          "link": "https://www.youtube.com/watch?v=3hW--HNssso&t=709",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwCmad2nqgOM8mpTBC7KozcA-0Nos75LCleo_rOtx6fA&s"
+        },
+        {
+          "link": "https://www.youtube.com/watch?v=3hW--HNssso&t=915",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfhHOOtcFY1H6WeEJPB-pYBKO3XkhSpELg0R8bC48VUA&s"
+        },
+        {
+          "link": "https://www.youtube.com/watch?v=3hW--HNssso&t=1166",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2H3ZZiXTKN7OXxABaaZJEexcaJBfp5Bwb8lNjC5QMIA&s"
+        },
+        {
+          "link": "https://www.youtube.com/watch?v=3hW--HNssso&t=1403",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWvPcxwbBNhKADfgXrNuVLwzAMC7SfkkTDPJP_iFE0w&s"
+        },
+        {
+          "link": "https://www.youtube.com/watch?v=3hW--HNssso&t=1680",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpQiwE1q6X2rVAgcUX7KgSdFfp8EqJn6GSUHkhJ56zvA&s"
+        },
+        {
+          "link": "https://www.youtube.com/watch?v=3hW--HNssso&t=1861",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtV5LzsHr5QeFCh76ArJJ1TzIozkRid-Sb10SSGngkAg&s"
+        },
+        {
+          "link": "https://www.youtube.com/watch?v=3hW--HNssso&t=2203",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMbrwlLMp-SJ51jIVhwckCi1rGF-Nq7yi5EQqfrUVNWA&s"
+        },
+        {
+          "link": "https://www.youtube.com/watch?v=3hW--HNssso&t=2471",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJzXSs7NqT7uqAL5qHn6s-d_x_h6mbzdwyuIPNFtG8kg&s"
+        },
+        {
+          "link": "https://www.youtube.com/watch?v=3hW--HNssso&t=2673",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWJXSUNstlid6uRh3rctUD4TQdOlDpIi8SjqZsM7A_kQ&s"
+        },
+        {
+          "link": "https://www.youtube.com/watch?v=3hW--HNssso&t=2912",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYKC2uty-bb4bHF-WQRNYrJAnbRJ5jqhy2GtDMrF5kyQ&s"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "title": "Бумбокс - Жаль",
+      "link": "https://www.youtube.com/watch?v=BfkamZYqth8",
+      "thumbnail": "https://serpapi.com/searches/66cddb7c93bb5766aeea58fa/images/b8297a73fd861c9f7a515f4a5da6acc3f9a7311c6ae1ed866c9d0e3c8b1e212f.jpeg",
+      "channel": "familyboombox",
+      "duration": "4:13",
+      "platform": "YouTube",
+      "date": "14 лют. 2021 р."
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Что означает слово Бумбокс?",
+      "snippet": "boombox, иначе англ. ghettoblaster, англ. jambox) — тип переносного музыкального центра. Изначально так назывался переносной двухкассетный стереомагнитофон с радиоприёмником и большими динамиками.",
+      "title": "Бумбокс - Википедия",
+      "link": "https://ru.wikipedia.org/wiki/%D0%91%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81",
+      "displayed_link": "https://ru.wikipedia.org › wiki › Бумбокс",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA9de7C4skPU38GBFxhhYTdb2SS3ZfLwNkC-ZW10-d5Zfe5VJjrvurpltMJw&s",
+      "source_logo": "https://serpapi.com/searches/66cddb7c93bb5766aeea58fa/images/63496a27889f9a400e426b91beab32dccbd0f1587e574bc20ed00be927b94377.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TlpHTmZkQzF6UzNGaWFIUnpObDlmVFRObk9FbG9OVXh6TUVGelRtZG9WMlZNWlMxNmFtZGFhek4zV0VsU2NqUkdSWGhVYW1aUk15MUNVV0poTUZBekxXaENjRFpIRWhkbVRuWk9XblI1UVVsbWJsSTFUbTlRTWsxNmVqQlJkeG9pUVVaWWNrVmpjVWx1TXpsT1VYSlFRa00zYlhsWFZVTTJXbEJ4V25Cb09WRlRRUSIsImZjdiI6IjMiLCJlaSI6ImZOdk5adHlBSWZuUjVOb1AyTXp6MFF3IiwicWMiOiJDaG5RdjlHVzBZSFF2ZEdXSU5DeDBZUFF2TkN4MEw3UXV0R0JFQTE5bFgwWFB3IiwicXVlc3Rpb24iOiLQp9GC0L4g0L7Qt9C90LDRh9Cw0LXRgiDRgdC70L7QstC+INCR0YPQvNCx0L7QutGBPyIsImxrIjoiR2pIUmg5R0MwTDRnMEw3UXQ5QzkwTERSaDlDdzBMWFJnaURSZ2RDNzBMN1FzdEMtSU5DeDBZUFF2TkN4MEw3UXV0R0IiLCJicyI6ImM0V1BNUTZDUUJCRmctVldsbVFMczRVYVMxa1BnRjdCWXhnUElSaURpVFpTMkZ2WkdTQWhFa0M4d3BfT1MzZ0haNm1Fa0ZCdFp1Zl85LWVMcmRDNGs0OUtvY0lUTDBRVUlFSkt2aUlQQlg4bVpuZWhQVXJFUE9ia3VmWjNwQmZTb2FEZkdQOGJ4ZEVTUzRTS2xTbEtveXZwWk5RS2IzWjZUTWxhV1FvaGt3OGNsTktPLWFWcmY2UmVTUmRKRHladVlwSW1SbXlFdzVjZzV5Rm5qY0h3TnVQTFU0T3A2aWJ0M28tQjFuTE8wWDItWnUyMW1PQld5d3M2bTFjWmVRZl9PdE5UT2VZR1hkb0djMmo5QUEiLCJpZCI6ImZjXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TlpHTmZkQzF6UzNGaWFIUnpObDlmVFRObk9FbG9OVXh6TUVGelRtZG9WMlZNWlMxNmFtZGFhek4zV0VsU2NqUkdSWGhVYW1aUk15MUNVV0poTUZBekxXaENjRFpIRWhkbVRuWk9XblI1UVVsbWJsSTFUbTlRTWsxNmVqQlJkeG9pUVVaWWNrVmpjVWx1TXpsT1VYSlFRa00zYlhsWFZVTTJXbEJ4V25Cb09WRlRRUSIsImZjdiI6IjMiLCJlaSI6ImZOdk5adHlBSWZuUjVOb1AyTXp6MFF3IiwicWMiOiJDaG5RdjlHVzBZSFF2ZEdXSU5DeDBZUFF2TkN4MEw3UXV0R0JFQTE5bFgwWFB3IiwicXVlc3Rpb24iOiLQp9GC0L4g0L7Qt9C90LDRh9Cw0LXRgiDRgdC70L7QstC%2BINCR0YPQvNCx0L7QutGBPyIsImxrIjoiR2pIUmg5R0MwTDRnMEw3UXQ5QzkwTERSaDlDdzBMWFJnaURSZ2RDNzBMN1FzdEMtSU5DeDBZUFF2TkN4MEw3UXV0R0IiLCJicyI6ImM0V1BNUTZDUUJCRmctVldsbVFMczRVYVMxa1BnRjdCWXhnUElSaURpVFpTMkZ2WkdTQWhFa0M4d3BfT1MzZ0haNm1Fa0ZCdFp1Zl85LWVMcmRDNGs0OUtvY0lUTDBRVUlFSkt2aUlQQlg4bVpuZWhQVXJFUE9ia3VmWjNwQmZTb2FEZkdQOGJ4ZEVTUzRTS2xTbEtveXZwWk5RS2IzWjZUTWxhV1FvaGt3OGNsTktPLWFWcmY2UmVTUmRKRHladVlwSW1SbXlFdzVjZzV5Rm5qY0h3TnVQTFU0T3A2aWJ0M28tQjFuTE8wWDItWnUyMW1PQld5d3M2bTFjWmVRZl9PdE5UT2VZR1hkb0djMmo5QUEiLCJpZCI6ImZjXzEifQ%3D%3D"
+    },
+    {
+      "question": "В чем смысл песни Бумбокс Вахтерам?",
+      "snippet": "\"Я написал \"Вахтерам\", когда возвращался со свидания поздно ночью. Шел от дома любимой, возле которого сидели две тетки-вахтерші, которые не хотели, но в конце концов пустили меня к ней\", - вспомнил Андрей. Также музыкант объяснил появление слова \"Чиуауа\" в песне. \"В тексте песни упоминается о Чиуауа.",
+      "title": "лидер \"Бумбокса\" рассказал, как написал песню \"Вахтерам\" - ТСН",
+      "date": "6 лют. 2020 р.",
+      "link": "https://tsn.ua/ru/glamur/shel-ot-doma-vozlyublennoy-lider-bumboksa-rasskazal-kak-napisal-pesnyu-vahteram-1487406.html",
+      "displayed_link": "https://tsn.ua › glamur › shel-ot-doma-vozlyublennoy-lid...",
+      "source_logo": "https://serpapi.com/searches/66cddb7c93bb5766aeea58fa/images/63496a27889f9a400e426b91beab32dcabb2a9fd18f30ed9b72e2d2c48699b9b.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TlpHTmZkQzF6UzNGaWFIUnpObDlmVFRObk9FbG9OVXh6TUVGelRtZG9WMlZNWlMxNmFtZGFhek4zV0VsU2NqUkdSWGhVYW1aUk15MUNVV0poTUZBekxXaENjRFpIRWhkbVRuWk9XblI1UVVsbWJsSTFUbTlRTWsxNmVqQlJkeG9pUVVaWWNrVmpjVWx1TXpsT1VYSlFRa00zYlhsWFZVTTJXbEJ4V25Cb09WRlRRUSIsImZjdiI6IjMiLCJlaSI6ImZOdk5adHlBSWZuUjVOb1AyTXp6MFF3IiwicWMiOiJDaG5RdjlHVzBZSFF2ZEdXSU5DeDBZUFF2TkN4MEw3UXV0R0JFQTE5bFgwWFB3IiwicXVlc3Rpb24iOiLQkiDRh9C10Lwg0YHQvNGL0YHQuyDQv9C10YHQvdC4INCR0YPQvNCx0L7QutGBINCS0LDRhdGC0LXRgNCw0Lw/IiwibGsiOiJjdzNKd1FtQU1CQUYwVDQ4YlNlMlpoVEp3V2FTUUVEaVJsdVkzNUY3R1I3TXN0Sk1tWTZiRXE0ci1oZ2ZQVEM1amFvRHBfSXlsSXhHMGFrOV9rYkJmdyIsImJzIjoiYzRXUE1RNkNRQkJGZy1WV2xtUUxzNFVhUzFrUGdGN0JZeGdQSVJpRGlUWlMyRnZaR1NBaEVrQzh3cF9PUzNnSFo2bUVrRkJ0WnVmXzktZUxyZEM0azQ5S29jSVRMMFFVSUVKS3ZpSVBCWDhtWm5laFBVckVQT2JrdWZaM3BCZlNvYURmR1A4YnhkRVNTNFNLbFNsS295dnBaTlFLYjNaNlRNbGFXUW9oa3c4Y2xOS08tYVZyZjZSZVNSZEpEeVp1WXBJbVJteUV3NWNnNXlGbmpjSHdOdVBMVTRPcDZpYnQzby1CMW5MTzBYMi1adTIxbU9CV3l3czZtMWNaZVFmX090TlRPZVlHWGRvR2MyajlBQSIsImlkIjoiZmNfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TlpHTmZkQzF6UzNGaWFIUnpObDlmVFRObk9FbG9OVXh6TUVGelRtZG9WMlZNWlMxNmFtZGFhek4zV0VsU2NqUkdSWGhVYW1aUk15MUNVV0poTUZBekxXaENjRFpIRWhkbVRuWk9XblI1UVVsbWJsSTFUbTlRTWsxNmVqQlJkeG9pUVVaWWNrVmpjVWx1TXpsT1VYSlFRa00zYlhsWFZVTTJXbEJ4V25Cb09WRlRRUSIsImZjdiI6IjMiLCJlaSI6ImZOdk5adHlBSWZuUjVOb1AyTXp6MFF3IiwicWMiOiJDaG5RdjlHVzBZSFF2ZEdXSU5DeDBZUFF2TkN4MEw3UXV0R0JFQTE5bFgwWFB3IiwicXVlc3Rpb24iOiLQkiDRh9C10Lwg0YHQvNGL0YHQuyDQv9C10YHQvdC4INCR0YPQvNCx0L7QutGBINCS0LDRhdGC0LXRgNCw0Lw%2FIiwibGsiOiJjdzNKd1FtQU1CQUYwVDQ4YlNlMlpoVEp3V2FTUUVEaVJsdVkzNUY3R1I3TXN0Sk1tWTZiRXE0ci1oZ2ZQVEM1amFvRHBfSXlsSXhHMGFrOV9rYkJmdyIsImJzIjoiYzRXUE1RNkNRQkJGZy1WV2xtUUxzNFVhUzFrUGdGN0JZeGdQSVJpRGlUWlMyRnZaR1NBaEVrQzh3cF9PUzNnSFo2bUVrRkJ0WnVmXzktZUxyZEM0azQ5S29jSVRMMFFVSUVKS3ZpSVBCWDhtWm5laFBVckVQT2JrdWZaM3BCZlNvYURmR1A4YnhkRVNTNFNLbFNsS295dnBaTlFLYjNaNlRNbGFXUW9oa3c4Y2xOS08tYVZyZjZSZVNSZEpEeVp1WXBJbVJteUV3NWNnNXlGbmpjSHdOdVBMVTRPcDZpYnQzby1CMW5MTzBYMi1adTIxbU9CV3l3czZtMWNaZVFmX090TlRPZVlHWGRvR2MyajlBQSIsImlkIjoiZmNfMSJ9"
+    },
+    {
+      "question": "В каком стиле поет Бумбокс?",
+      "title": "Бумбокс (группа)",
+      "link": "https://ru.wikipedia.org/wiki/%D0%91%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81_(%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0)",
+      "displayed_link": "https://ru.wikipedia.org › wiki › Бумбокс_(группа)",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TlpHTmZkQzF6UzNGaWFIUnpObDlmVFRObk9FbG9OVXh6TUVGelRtZG9WMlZNWlMxNmFtZGFhek4zV0VsU2NqUkdSWGhVYW1aUk15MUNVV0poTUZBekxXaENjRFpIRWhkbVRuWk9XblI1UVVsbWJsSTFUbTlRTWsxNmVqQlJkeG9pUVVaWWNrVmpjVWx1TXpsT1VYSlFRa00zYlhsWFZVTTJXbEJ4V25Cb09WRlRRUSIsImZjdiI6IjMiLCJlaSI6ImZOdk5adHlBSWZuUjVOb1AyTXp6MFF3IiwicWMiOiJDaG5RdjlHVzBZSFF2ZEdXSU5DeDBZUFF2TkN4MEw3UXV0R0JFQTE5bFgwWFB3IiwicXVlc3Rpb24iOiLQkiDQutCw0LrQvtC8INGB0YLQuNC70LUg0L/QvtC10YIg0JHRg9C80LHQvtC60YE/IiwibGsiOiJHakRRc2lEUXV0Q3cwTHJRdnRDOElOR0IwWUxRdU5DNzBMVWcwTF9RdnRDMTBZSWcwTEhSZzlDODBMSFF2dEM2MFlFIiwiYnMiOiJjNFdQTVE2Q1FCQkZnLVZXbG1RTHM0VWFTMWtQZ0Y3Qll4Z1BJUmlEaVRaUzJGdlpHU0FoRWtDOHdwX09TM2dIWjZtRWtGQnRadWZfOS1lTHJkQzRrNDlLb2NJVEwwUVVJRUpLdmlJUEJYOG1abmVoUFVyRVBPYmt1ZlozcEJmU29hRGZHUDhieGRFU1M0U0tsU2xLb3l2cFpOUUtiM1o2VE1sYVdRb2hrdzhjbE5LTy1hVnJmNlJlU1JkSkR5WnVZcEltUm15RXc1Y2c1eUZuamNId051UExVNE9wNmlidDNvLUIxbkxPMFgyLVp1MjFtT0JXeXdzNm0xY1plUWZfT3ROVE9lWUdYZG9HYzJqOUFBIiwiaWQiOiJmY18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TlpHTmZkQzF6UzNGaWFIUnpObDlmVFRObk9FbG9OVXh6TUVGelRtZG9WMlZNWlMxNmFtZGFhek4zV0VsU2NqUkdSWGhVYW1aUk15MUNVV0poTUZBekxXaENjRFpIRWhkbVRuWk9XblI1UVVsbWJsSTFUbTlRTWsxNmVqQlJkeG9pUVVaWWNrVmpjVWx1TXpsT1VYSlFRa00zYlhsWFZVTTJXbEJ4V25Cb09WRlRRUSIsImZjdiI6IjMiLCJlaSI6ImZOdk5adHlBSWZuUjVOb1AyTXp6MFF3IiwicWMiOiJDaG5RdjlHVzBZSFF2ZEdXSU5DeDBZUFF2TkN4MEw3UXV0R0JFQTE5bFgwWFB3IiwicXVlc3Rpb24iOiLQkiDQutCw0LrQvtC8INGB0YLQuNC70LUg0L%2FQvtC10YIg0JHRg9C80LHQvtC60YE%2FIiwibGsiOiJHakRRc2lEUXV0Q3cwTHJRdnRDOElOR0IwWUxRdU5DNzBMVWcwTF9RdnRDMTBZSWcwTEhSZzlDODBMSFF2dEM2MFlFIiwiYnMiOiJjNFdQTVE2Q1FCQkZnLVZXbG1RTHM0VWFTMWtQZ0Y3Qll4Z1BJUmlEaVRaUzJGdlpHU0FoRWtDOHdwX09TM2dIWjZtRWtGQnRadWZfOS1lTHJkQzRrNDlLb2NJVEwwUVVJRUpLdmlJUEJYOG1abmVoUFVyRVBPYmt1ZlozcEJmU29hRGZHUDhieGRFU1M0U0tsU2xLb3l2cFpOUUtiM1o2VE1sYVdRb2hrdzhjbE5LTy1hVnJmNlJlU1JkSkR5WnVZcEltUm15RXc1Y2c1eUZuamNId051UExVNE9wNmlidDNvLUIxbkxPMFgyLVp1MjFtT0JXeXdzNm0xY1plUWZfT3ROVE9lWUdYZG9HYzJqOUFBIiwiaWQiOiJmY18xIn0%3D"
+    },
+    {
+      "question": "Сколько лет Бумбокс?",
+      "snippet": "Бумбокс - украинская фанки-грув группа, основанная в Киеве в 2004 году.",
+      "title": "Родной город, состав, биография Бумбокс | Last.fm",
+      "link": "https://www.last.fm/ru/music/%D0%91%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81/+wiki",
+      "displayed_link": "https://www.last.fm › music › Бумбокс › +wiki",
+      "source_logo": "https://serpapi.com/searches/66cddb7c93bb5766aeea58fa/images/63496a27889f9a400e426b91beab32dc83ca3e5713a4f49b824f08ab320b1ac6.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TlpHTmZkQzF6UzNGaWFIUnpObDlmVFRObk9FbG9OVXh6TUVGelRtZG9WMlZNWlMxNmFtZGFhek4zV0VsU2NqUkdSWGhVYW1aUk15MUNVV0poTUZBekxXaENjRFpIRWhkbVRuWk9XblI1UVVsbWJsSTFUbTlRTWsxNmVqQlJkeG9pUVVaWWNrVmpjVWx1TXpsT1VYSlFRa00zYlhsWFZVTTJXbEJ4V25Cb09WRlRRUSIsImZjdiI6IjMiLCJlaSI6ImZOdk5adHlBSWZuUjVOb1AyTXp6MFF3IiwicWMiOiJDaG5RdjlHVzBZSFF2ZEdXSU5DeDBZUFF2TkN4MEw3UXV0R0JFQTE5bFgwWFB3IiwicXVlc3Rpb24iOiLQodC60L7Qu9GM0LrQviDQu9C10YIg0JHRg9C80LHQvtC60YE/IiwibGsiOiJHaVRSZ2RDNjBMN1F1OUdNMExyUXZpRFF1OUMxMFlJZzBMSFJnOUM4MExIUXZ0QzYwWUUiLCJicyI6ImM0V1BNUTZDUUJCRmctVldsbVFMczRVYVMxa1BnRjdCWXhnUElSaURpVFpTMkZ2WkdTQWhFa0M4d3BfT1MzZ0haNm1Fa0ZCdFp1Zl85LWVMcmRDNGs0OUtvY0lUTDBRVUlFSkt2aUlQQlg4bVpuZWhQVXJFUE9ia3VmWjNwQmZTb2FEZkdQOGJ4ZEVTUzRTS2xTbEtveXZwWk5RS2IzWjZUTWxhV1FvaGt3OGNsTktPLWFWcmY2UmVTUmRKRHladVlwSW1SbXlFdzVjZzV5Rm5qY0h3TnVQTFU0T3A2aWJ0M28tQjFuTE8wWDItWnUyMW1PQld5d3M2bTFjWmVRZl9PdE5UT2VZR1hkb0djMmo5QUEiLCJpZCI6ImZjXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TlpHTmZkQzF6UzNGaWFIUnpObDlmVFRObk9FbG9OVXh6TUVGelRtZG9WMlZNWlMxNmFtZGFhek4zV0VsU2NqUkdSWGhVYW1aUk15MUNVV0poTUZBekxXaENjRFpIRWhkbVRuWk9XblI1UVVsbWJsSTFUbTlRTWsxNmVqQlJkeG9pUVVaWWNrVmpjVWx1TXpsT1VYSlFRa00zYlhsWFZVTTJXbEJ4V25Cb09WRlRRUSIsImZjdiI6IjMiLCJlaSI6ImZOdk5adHlBSWZuUjVOb1AyTXp6MFF3IiwicWMiOiJDaG5RdjlHVzBZSFF2ZEdXSU5DeDBZUFF2TkN4MEw3UXV0R0JFQTE5bFgwWFB3IiwicXVlc3Rpb24iOiLQodC60L7Qu9GM0LrQviDQu9C10YIg0JHRg9C80LHQvtC60YE%2FIiwibGsiOiJHaVRSZ2RDNjBMN1F1OUdNMExyUXZpRFF1OUMxMFlJZzBMSFJnOUM4MExIUXZ0QzYwWUUiLCJicyI6ImM0V1BNUTZDUUJCRmctVldsbVFMczRVYVMxa1BnRjdCWXhnUElSaURpVFpTMkZ2WkdTQWhFa0M4d3BfT1MzZ0haNm1Fa0ZCdFp1Zl85LWVMcmRDNGs0OUtvY0lUTDBRVUlFSkt2aUlQQlg4bVpuZWhQVXJFUE9ia3VmWjNwQmZTb2FEZkdQOGJ4ZEVTUzRTS2xTbEtveXZwWk5RS2IzWjZUTWxhV1FvaGt3OGNsTktPLWFWcmY2UmVTUmRKRHladVlwSW1SbXlFdzVjZzV5Rm5qY0h3TnVQTFU0T3A2aWJ0M28tQjFuTE8wWDItWnUyMW1PQld5d3M2bTFjWmVRZl9PdE5UT2VZR1hkb0djMmo5QUEiLCJpZCI6ImZjXzEifQ%3D%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Бумбокс - слушать и скачать бесплатно",
+      "link": "https://sefon.pro/artist/2644-bumboks/",
+      "redirect_link": "https://www.google.com.ua/url?sa=t&source=web&rct=j&opi=89978449&url=https://sefon.pro/artist/2644-bumboks/&ved=2ahUKEwjcruSSqpWIAxX5KFkFHVjmPMoQFnoECDsQAQ",
+      "displayed_link": "https://sefon.pro › artist › 2...",
+      "favicon": "https://serpapi.com/searches/66cddb7c93bb5766aeea58fa/images/c3e0406d9177a28cacc28044adee106793151115e2a3c0fabbfc227db51ebbef.png",
+      "snippet": "Бумбокс: Ой У Лузі Червона Калина, Вахтёрам, Здесь Солнца Не Видно и еще 83 песни. Слушать и скачать бесплатно в хорошем качестве на Sefon.pro.",
+      "snippet_highlighted_words": [
+        "Бумбокс",
+        "песни"
+      ],
+      "source": "SeFon"
+    },
+    {
+      "position": 2,
+      "title": "Бумбокс - Імперії впадуть",
+      "link": "https://www.youtube.com/watch?v=I-sOAJplSx0",
+      "displayed_link": "https://www.youtube.com › watch",
+      "thumbnail": "https://serpapi.com/searches/66cddb7c93bb5766aeea58fa/images/c3e0406d9177a28cacc28044adee106779aba8172c7fa51652ac8078efcf3e26.jpeg",
+      "favicon": "https://serpapi.com/searches/66cddb7c93bb5766aeea58fa/images/c3e0406d9177a28cacc28044adee106711f40846c4dba5aaa1db7fb9297c616b.png",
+      "snippet": "... пісні, це роботи з різних альбомів і з різним змістом. Дякую йому ... Бумбокс - Імперії впадуть. 4.7M views · 2 years ago ...more ...",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQSAxM67NdJwEvCaCMALd1VMLrfxJSdof7fXA",
+      "source": "YouTube"
+    },
+    {
+      "position": 3,
+      "title": "БУМБОКС. Найкращі хіти та ТОП пісні (LIVE)",
+      "link": "https://www.youtube.com/playlist?list=PLWl2MKpAf8-2ibdYkx8HJ5XGoMc0j_4LL",
+      "redirect_link": "https://www.google.com.ua/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/playlist%3Flist%3DPLWl2MKpAf8-2ibdYkx8HJ5XGoMc0j_4LL&ved=2ahUKEwjcruSSqpWIAxX5KFkFHVjmPMoQFnoECEgQAQ",
+      "displayed_link": "https://www.youtube.com › playlist",
+      "favicon": "https://serpapi.com/searches/66cddb7c93bb5766aeea58fa/images/c3e0406d9177a28cacc28044adee1067520bec24dae8aa402acade31e75d98c7.png",
+      "snippet": "Слухайте популярні хіти у виконанні БУМБОКС у LIVE. Бумбокс – Твій на 100% Бумбокс – Тримай мене Бумбокс – Наодинці Бумбокс – Твій номер Бумбокс – Люди ...",
+      "snippet_highlighted_words": [
+        "БУМБОКС",
+        "Бумбокс",
+        "Бумбокс",
+        "Бумбокс",
+        "Бумбокс",
+        "Бумбокс"
+      ],
+      "source": "YouTube"
+    },
+    {
+      "position": 4,
+      "title": "Бумбокс все песни – слушать онлайн и скачать mp3 ...",
+      "link": "https://hitster.fm/bumboks",
+      "redirect_link": "https://www.google.com.ua/url?sa=t&source=web&rct=j&opi=89978449&url=https://hitster.fm/bumboks&ved=2ahUKEwjcruSSqpWIAxX5KFkFHVjmPMoQFnoECEUQAQ",
+      "displayed_link": "https://hitster.fm › bumboks",
+      "favicon": "https://serpapi.com/searches/66cddb7c93bb5766aeea58fa/images/c3e0406d9177a28cacc28044adee106764d660eb7e285e33c34031bf668afccd.png",
+      "snippet": "Все песни Бумбокс · БумБокс Вахтерам · БумБокс Наодинці · БумБокс Та4то · БумБокс Люди · БумБокс Летний дождь · БумБокс Хоттабыч · Бумбокс, Тіна Кароль Безодня ...",
+      "snippet_highlighted_words": [
+        "песни Бумбокс"
+      ],
+      "source": "hitster.fm"
+    },
+    {
+      "position": 5,
+      "title": "Бумбокс (группа)",
+      "link": "https://ru.wikipedia.org/wiki/%D0%91%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81_(%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0)",
+      "redirect_link": "https://www.google.com.ua/url?sa=t&source=web&rct=j&opi=89978449&url=https://ru.wikipedia.org/wiki/%25D0%2591%25D1%2583%25D0%25BC%25D0%25B1%25D0%25BE%25D0%25BA%25D1%2581_(%25D0%25B3%25D1%2580%25D1%2583%25D0%25BF%25D0%25BF%25D0%25B0)&ved=2ahUKEwjcruSSqpWIAxX5KFkFHVjmPMoQFnoECEYQAQ",
+      "displayed_link": "https://ru.wikipedia.org › Б...",
+      "favicon": "https://serpapi.com/searches/66cddb7c93bb5766aeea58fa/images/c3e0406d9177a28cacc28044adee106795f46eacd7bf0d9793f4df0192516eeb.png",
+      "snippet": "«Бумбо́кс» — украинская фанк-, хип-хоп- и рок-группа. Образована в 2004 году в Киеве вокалистом группы «Графіт» Андреем Хлывнюком и гитаристом группы ...",
+      "snippet_highlighted_words": [
+        "Бумбо́кс"
+      ],
+      "source": "Википедия"
+    },
+    {
+      "position": 6,
+      "title": "Бумбокс",
+      "link": "https://uk.wikipedia.org/wiki/%D0%91%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81",
+      "redirect_link": "https://www.google.com.ua/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.wikipedia.org/wiki/%25D0%2591%25D1%2583%25D0%25BC%25D0%25B1%25D0%25BE%25D0%25BA%25D1%2581&ved=2ahUKEwjcruSSqpWIAxX5KFkFHVjmPMoQFnoECEQQAQ",
+      "displayed_link": "https://uk.wikipedia.org › wiki › Бумбокс",
+      "favicon": "https://serpapi.com/searches/66cddb7c93bb5766aeea58fa/images/c3e0406d9177a28cacc28044adee1067511a4896ae0eaf908c244ca0457cf874.png",
+      "snippet": "«Бумбо́кс» — український гурт, що грає в жанрах хіп-хоп і фанкі-ґрув. Створений 2004 року в Києві вокалістом Андрієм Хливнюком, гітаристом Андрієм Самойлом ...",
+      "snippet_highlighted_words": [
+        "Бумбо́кс"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Андрій Хливнюк",
+            "link": "https://uk.wikipedia.org/wiki/%D0%A5%D0%BB%D0%B8%D0%B2%D0%BD%D1%8E%D0%BA_%D0%90%D0%BD%D0%B4%D1%80%D1%96%D0%B9_%D0%92%D0%BE%D0%BB%D0%BE%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87"
+          },
+          {
+            "title": "Family Бізнес",
+            "link": "https://uk.wikipedia.org/wiki/Family_%D0%91%D1%96%D0%B7%D0%BD%D0%B5%D1%81"
+          },
+          {
+            "title": "Меломанія (альбом)",
+            "link": "https://uk.wikipedia.org/wiki/%D0%9C%D0%B5%D0%BB%D0%BE%D0%BC%D0%B0%D0%BD%D1%96%D1%8F_(%D0%B0%D0%BB%D1%8C%D0%B1%D0%BE%D0%BC)"
+          }
+        ]
+      },
+      "source": "Вікіпедія"
+    },
+    {
+      "position": 7,
+      "title": "familyboombox",
+      "link": "https://www.youtube.com/user/familyboombox",
+      "redirect_link": "https://www.google.com.ua/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/user/familyboombox&ved=2ahUKEwjcruSSqpWIAxX5KFkFHVjmPMoQFnoECEMQAQ",
+      "displayed_link": "https://www.youtube.com › user › familyboombox",
+      "favicon": "https://serpapi.com/searches/66cddb7c93bb5766aeea58fa/images/c3e0406d9177a28cacc28044adee106725f60747cc92479b50256bdcb1a2c21c.png",
+      "snippet": "Music videos ; Бумбокс - Вахтерам. Moon Records. 37M views ; Бумбокс - Люди. familyboombox. 40M views ; Баста и Бумбокс - Солнца не видно. familyboombox. 60M views.",
+      "snippet_highlighted_words": [
+        "Бумбокс",
+        "Бумбокс",
+        "Бумбокс"
+      ],
+      "source": "YouTube"
+    }
+  ],
+  "top_stories_link": "https://www.google.com.ua/search?sca_esv=acb05f42373aaad6&gl=ua&hl=uk&q=%D0%91%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81+%D0%BF%D1%96%D1%81%D0%BD%D1%96&stick=H4sIAAAAAAAAAONgFuLSz9U3ME4zTC-2VEJiawkGZ6aklidWFvulVpQEl6QWFD9i9OQWePnjnrCUw6Q1J68xWnEJBefnpRf7pzmWpmQm5aSG5xdlC0lwsbnmlWSWVArxSfFwIZmYxMXFwcWWmFdcnlrE84tR78KsC_suNlzYcbHxYtPF5gubLmy42H5xmsLFpgsbLuy6sO_CNoWLHUDxXUDu7gs7FrFKXpgI5O65sBEot-tio8KF_RenXWy8sPfitFlsMVyYzhVy52IPLk3KSk0uEbIRosCxt9gkGbqf9hhr2utoLw6bsyri3JOX4auS3rndedYMAO5JKa5BAQAA&sa=X&ved=2ahUKEwjcruSSqpWIAxX5KFkFHVjmPMoQzO0BKAR6BAgYEBM",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ua&google_domain=google.com.ua&hl=uk&location=Kyiv%2C+Kyiv+city%2C+Ukraine&q=%D0%91%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81+%D0%BF%D1%96%D1%81%D0%BD%D1%96&stick=H4sIAAAAAAAAAONgFuLSz9U3ME4zTC-2VEJiawkGZ6aklidWFvulVpQEl6QWFD9i9OQWePnjnrCUw6Q1J68xWnEJBefnpRf7pzmWpmQm5aSG5xdlC0lwsbnmlWSWVArxSfFwIZmYxMXFwcWWmFdcnlrE84tR78KsC_suNlzYcbHxYtPF5gubLmy42H5xmsLFpgsbLuy6sO_CNoWLHUDxXUDu7gs7FrFKXpgI5O65sBEot-tio8KF_RenXWy8sPfitFlsMVyYzhVy52IPLk3KSk0uEbIRosCxt9gkGbqf9hhr2utoLw6bsyri3JOX4auS3rndedYMAO5JKa5BAQAA",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "скачати пісні бумбокс - люди",
+      "link": "https://www.google.com.ua/search?sca_esv=acb05f42373aaad6&gl=ua&hl=uk&q=%D1%81%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D0%B8+%D0%BF%D1%96%D1%81%D0%BD%D1%96+%D0%B1%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81+-+%D0%BB%D1%8E%D0%B4%D0%B8&sa=X&ved=2ahUKEwjcruSSqpWIAxX5KFkFHVjmPMoQ1QJ6BAhcEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ua&google_domain=google.com.ua&hl=uk&location=Kyiv%2C+Kyiv+city%2C+Ukraine&q=%D1%81%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D0%B8+%D0%BF%D1%96%D1%81%D0%BD%D1%96+%D0%B1%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81+-+%D0%BB%D1%8E%D0%B4%D0%B8"
+    },
+    {
+      "block_position": 1,
+      "query": "Бумбокс пісні Українською скачати",
+      "link": "https://www.google.com.ua/search?sca_esv=acb05f42373aaad6&gl=ua&hl=uk&q=%D0%91%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81+%D0%BF%D1%96%D1%81%D0%BD%D1%96+%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%BE%D1%8E+%D1%81%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D0%B8&sa=X&ved=2ahUKEwjcruSSqpWIAxX5KFkFHVjmPMoQ1QJ6BAhYEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ua&google_domain=google.com.ua&hl=uk&location=Kyiv%2C+Kyiv+city%2C+Ukraine&q=%D0%91%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81+%D0%BF%D1%96%D1%81%D0%BD%D1%96+%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%BE%D1%8E+%D1%81%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D0%B8"
+    },
+    {
+      "block_position": 1,
+      "query": "Бумбокс - Любила",
+      "link": "https://www.google.com.ua/search?sca_esv=acb05f42373aaad6&gl=ua&hl=uk&q=%D0%91%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81+-+%D0%9B%D1%8E%D0%B1%D0%B8%D0%BB%D0%B0&sa=X&ved=2ahUKEwjcruSSqpWIAxX5KFkFHVjmPMoQ1QJ6BAhSEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ua&google_domain=google.com.ua&hl=uk&location=Kyiv%2C+Kyiv+city%2C+Ukraine&q=%D0%91%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81+-+%D0%9B%D1%8E%D0%B1%D0%B8%D0%BB%D0%B0"
+    },
+    {
+      "block_position": 1,
+      "query": "Бумбокс пісні українською",
+      "link": "https://www.google.com.ua/search?sca_esv=acb05f42373aaad6&gl=ua&hl=uk&q=%D0%91%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81+%D0%BF%D1%96%D1%81%D0%BD%D1%96+%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%BE%D1%8E&sa=X&ved=2ahUKEwjcruSSqpWIAxX5KFkFHVjmPMoQ1QJ6BAhOEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ua&google_domain=google.com.ua&hl=uk&location=Kyiv%2C+Kyiv+city%2C+Ukraine&q=%D0%91%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81+%D0%BF%D1%96%D1%81%D0%BD%D1%96+%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%BE%D1%8E"
+    },
+    {
+      "block_position": 1,
+      "query": "Бумбокс кращі пісні",
+      "link": "https://www.google.com.ua/search?sca_esv=acb05f42373aaad6&gl=ua&hl=uk&q=%D0%91%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81+%D0%BA%D1%80%D0%B0%D1%89%D1%96+%D0%BF%D1%96%D1%81%D0%BD%D1%96&sa=X&ved=2ahUKEwjcruSSqpWIAxX5KFkFHVjmPMoQ1QJ6BAhNEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ua&google_domain=google.com.ua&hl=uk&location=Kyiv%2C+Kyiv+city%2C+Ukraine&q=%D0%91%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81+%D0%BA%D1%80%D0%B0%D1%89%D1%96+%D0%BF%D1%96%D1%81%D0%BD%D1%96"
+    },
+    {
+      "block_position": 1,
+      "query": "Бумбокс - Вахтерам (українською)",
+      "link": "https://www.google.com.ua/search?sca_esv=acb05f42373aaad6&gl=ua&hl=uk&q=%D0%91%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81+-+%D0%92%D0%B0%D1%85%D1%82%D0%B5%D1%80%D0%B0%D0%BC+(%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%BE%D1%8E)&sa=X&ved=2ahUKEwjcruSSqpWIAxX5KFkFHVjmPMoQ1QJ6BAhKEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ua&google_domain=google.com.ua&hl=uk&location=Kyiv%2C+Kyiv+city%2C+Ukraine&q=%D0%91%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81+-+%D0%92%D0%B0%D1%85%D1%82%D0%B5%D1%80%D0%B0%D0%BC+%28%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%BE%D1%8E%29"
+    },
+    {
+      "block_position": 1,
+      "query": "бумбокс - та що скачати українською",
+      "link": "https://www.google.com.ua/search?sca_esv=acb05f42373aaad6&gl=ua&hl=uk&q=%D0%B1%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81+-+%D1%82%D0%B0+%D1%89%D0%BE+%D1%81%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D0%B8+%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%BE%D1%8E&sa=X&ved=2ahUKEwjcruSSqpWIAxX5KFkFHVjmPMoQ1QJ6BAhJEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ua&google_domain=google.com.ua&hl=uk&location=Kyiv%2C+Kyiv+city%2C+Ukraine&q=%D0%B1%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81+-+%D1%82%D0%B0+%D1%89%D0%BE+%D1%81%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D0%B8+%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%BE%D1%8E"
+    },
+    {
+      "block_position": 1,
+      "query": "Бумбокс - Люди текст",
+      "link": "https://www.google.com.ua/search?sca_esv=acb05f42373aaad6&gl=ua&hl=uk&q=%D0%91%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81+-+%D0%9B%D1%8E%D0%B4%D0%B8+%D1%82%D0%B5%D0%BA%D1%81%D1%82&sa=X&ved=2ahUKEwjcruSSqpWIAxX5KFkFHVjmPMoQ1QJ6BAhHEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ua&google_domain=google.com.ua&hl=uk&location=Kyiv%2C+Kyiv+city%2C+Ukraine&q=%D0%91%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81+-+%D0%9B%D1%8E%D0%B4%D0%B8+%D1%82%D0%B5%D0%BA%D1%81%D1%82"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com.ua/search?q=%D0%9F%D1%96%D1%81%D0%BD%D1%96+%D0%91%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81&sca_esv=acb05f42373aaad6&gl=ua&hl=uk&ei=fNvNZtyAIfnR5NoP2Mzz0Qw&start=10&sa=N&sstk=Aagrsui8nNfThyAIAEPPRuxyYNSui40BPa490JPHsNhMVvr1u2v0mv2oJlWpFjWxg-ig16g2eqZbXAnRw315hIJNHduhQxd4awCNwg&ved=2ahUKEwjcruSSqpWIAxX5KFkFHVjmPMoQ8NMDegQIDhAW",
+    "other_pages": {
+      "2": "https://www.google.com.ua/search?q=%D0%9F%D1%96%D1%81%D0%BD%D1%96+%D0%91%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81&sca_esv=acb05f42373aaad6&gl=ua&hl=uk&ei=fNvNZtyAIfnR5NoP2Mzz0Qw&start=10&sa=N&sstk=Aagrsui8nNfThyAIAEPPRuxyYNSui40BPa490JPHsNhMVvr1u2v0mv2oJlWpFjWxg-ig16g2eqZbXAnRw315hIJNHduhQxd4awCNwg&ved=2ahUKEwjcruSSqpWIAxX5KFkFHVjmPMoQ8tMDegQIDhAE",
+      "3": "https://www.google.com.ua/search?q=%D0%9F%D1%96%D1%81%D0%BD%D1%96+%D0%91%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81&sca_esv=acb05f42373aaad6&gl=ua&hl=uk&ei=fNvNZtyAIfnR5NoP2Mzz0Qw&start=20&sa=N&sstk=Aagrsui8nNfThyAIAEPPRuxyYNSui40BPa490JPHsNhMVvr1u2v0mv2oJlWpFjWxg-ig16g2eqZbXAnRw315hIJNHduhQxd4awCNwg&ved=2ahUKEwjcruSSqpWIAxX5KFkFHVjmPMoQ8tMDegQIDhAG",
+      "4": "https://www.google.com.ua/search?q=%D0%9F%D1%96%D1%81%D0%BD%D1%96+%D0%91%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81&sca_esv=acb05f42373aaad6&gl=ua&hl=uk&ei=fNvNZtyAIfnR5NoP2Mzz0Qw&start=30&sa=N&sstk=Aagrsui8nNfThyAIAEPPRuxyYNSui40BPa490JPHsNhMVvr1u2v0mv2oJlWpFjWxg-ig16g2eqZbXAnRw315hIJNHduhQxd4awCNwg&ved=2ahUKEwjcruSSqpWIAxX5KFkFHVjmPMoQ8tMDegQIDhAI",
+      "5": "https://www.google.com.ua/search?q=%D0%9F%D1%96%D1%81%D0%BD%D1%96+%D0%91%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81&sca_esv=acb05f42373aaad6&gl=ua&hl=uk&ei=fNvNZtyAIfnR5NoP2Mzz0Qw&start=40&sa=N&sstk=Aagrsui8nNfThyAIAEPPRuxyYNSui40BPa490JPHsNhMVvr1u2v0mv2oJlWpFjWxg-ig16g2eqZbXAnRw315hIJNHduhQxd4awCNwg&ved=2ahUKEwjcruSSqpWIAxX5KFkFHVjmPMoQ8tMDegQIDhAK",
+      "6": "https://www.google.com.ua/search?q=%D0%9F%D1%96%D1%81%D0%BD%D1%96+%D0%91%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81&sca_esv=acb05f42373aaad6&gl=ua&hl=uk&ei=fNvNZtyAIfnR5NoP2Mzz0Qw&start=50&sa=N&sstk=Aagrsui8nNfThyAIAEPPRuxyYNSui40BPa490JPHsNhMVvr1u2v0mv2oJlWpFjWxg-ig16g2eqZbXAnRw315hIJNHduhQxd4awCNwg&ved=2ahUKEwjcruSSqpWIAxX5KFkFHVjmPMoQ8tMDegQIDhAM",
+      "7": "https://www.google.com.ua/search?q=%D0%9F%D1%96%D1%81%D0%BD%D1%96+%D0%91%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81&sca_esv=acb05f42373aaad6&gl=ua&hl=uk&ei=fNvNZtyAIfnR5NoP2Mzz0Qw&start=60&sa=N&sstk=Aagrsui8nNfThyAIAEPPRuxyYNSui40BPa490JPHsNhMVvr1u2v0mv2oJlWpFjWxg-ig16g2eqZbXAnRw315hIJNHduhQxd4awCNwg&ved=2ahUKEwjcruSSqpWIAxX5KFkFHVjmPMoQ8tMDegQIDhAO",
+      "8": "https://www.google.com.ua/search?q=%D0%9F%D1%96%D1%81%D0%BD%D1%96+%D0%91%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81&sca_esv=acb05f42373aaad6&gl=ua&hl=uk&ei=fNvNZtyAIfnR5NoP2Mzz0Qw&start=70&sa=N&sstk=Aagrsui8nNfThyAIAEPPRuxyYNSui40BPa490JPHsNhMVvr1u2v0mv2oJlWpFjWxg-ig16g2eqZbXAnRw315hIJNHduhQxd4awCNwg&ved=2ahUKEwjcruSSqpWIAxX5KFkFHVjmPMoQ8tMDegQIDhAQ",
+      "9": "https://www.google.com.ua/search?q=%D0%9F%D1%96%D1%81%D0%BD%D1%96+%D0%91%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81&sca_esv=acb05f42373aaad6&gl=ua&hl=uk&ei=fNvNZtyAIfnR5NoP2Mzz0Qw&start=80&sa=N&sstk=Aagrsui8nNfThyAIAEPPRuxyYNSui40BPa490JPHsNhMVvr1u2v0mv2oJlWpFjWxg-ig16g2eqZbXAnRw315hIJNHduhQxd4awCNwg&ved=2ahUKEwjcruSSqpWIAxX5KFkFHVjmPMoQ8tMDegQIDhAS",
+      "10": "https://www.google.com.ua/search?q=%D0%9F%D1%96%D1%81%D0%BD%D1%96+%D0%91%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81&sca_esv=acb05f42373aaad6&gl=ua&hl=uk&ei=fNvNZtyAIfnR5NoP2Mzz0Qw&start=90&sa=N&sstk=Aagrsui8nNfThyAIAEPPRuxyYNSui40BPa490JPHsNhMVvr1u2v0mv2oJlWpFjWxg-ig16g2eqZbXAnRw315hIJNHduhQxd4awCNwg&ved=2ahUKEwjcruSSqpWIAxX5KFkFHVjmPMoQ8tMDegQIDhAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ua&google_domain=google.com.ua&hl=uk&location=Kyiv%2C+Kyiv+city%2C+Ukraine&q=%D0%9F%D1%96%D1%81%D0%BD%D1%96+%D0%91%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ua&google_domain=google.com.ua&hl=uk&location=Kyiv%2C+Kyiv+city%2C+Ukraine&q=%D0%9F%D1%96%D1%81%D0%BD%D1%96+%D0%91%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ua&google_domain=google.com.ua&hl=uk&location=Kyiv%2C+Kyiv+city%2C+Ukraine&q=%D0%9F%D1%96%D1%81%D0%BD%D1%96+%D0%91%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ua&google_domain=google.com.ua&hl=uk&location=Kyiv%2C+Kyiv+city%2C+Ukraine&q=%D0%9F%D1%96%D1%81%D0%BD%D1%96+%D0%91%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ua&google_domain=google.com.ua&hl=uk&location=Kyiv%2C+Kyiv+city%2C+Ukraine&q=%D0%9F%D1%96%D1%81%D0%BD%D1%96+%D0%91%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ua&google_domain=google.com.ua&hl=uk&location=Kyiv%2C+Kyiv+city%2C+Ukraine&q=%D0%9F%D1%96%D1%81%D0%BD%D1%96+%D0%91%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ua&google_domain=google.com.ua&hl=uk&location=Kyiv%2C+Kyiv+city%2C+Ukraine&q=%D0%9F%D1%96%D1%81%D0%BD%D1%96+%D0%91%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ua&google_domain=google.com.ua&hl=uk&location=Kyiv%2C+Kyiv+city%2C+Ukraine&q=%D0%9F%D1%96%D1%81%D0%BD%D1%96+%D0%91%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ua&google_domain=google.com.ua&hl=uk&location=Kyiv%2C+Kyiv+city%2C+Ukraine&q=%D0%9F%D1%96%D1%81%D0%BD%D1%96+%D0%91%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ua&google_domain=google.com.ua&hl=uk&location=Kyiv%2C+Kyiv+city%2C+Ukraine&q=%D0%9F%D1%96%D1%81%D0%BD%D1%96+%D0%91%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ua&google_domain=google.com.ua&hl=uk&location=Kyiv%2C+Kyiv+city%2C+Ukraine&q=%D0%9F%D1%96%D1%81%D0%BD%D1%96+%D0%91%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81&start=90"
+    }
+  }
+}

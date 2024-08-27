@@ -11,7 +11,8 @@ module GoogleSearch
       ].freeze
 
       ITEM_SELECTOR = "[data-attrid^=\"kc:\"]:not([data-attrid*=\"_actions_\"]) a:has(img):not(:has(wp-grid-tile))"
-      ITEM_EXTENSIONS_SELECTOR = "img + div > :nth-child(n + 2)"
+      ITEM_TITLE_SELECTOR = ".title"
+      ITEM_EXTENSIONS_SELECTOR = "img + div > :nth-child(n + 2), .title + div > span"
 
       def matches?
         first_match = @page.at_css(ITEM_SELECTOR)
@@ -27,10 +28,11 @@ module GoogleSearch
           next if UNDESIRABLE_ANCESTORS.any? { |selector| item.ancestors(selector).any? }
 
           item_image = item.at_css("img")
+          item_title = item.at_css(ITEM_TITLE_SELECTOR)
           item_extensions = item.css(ITEM_EXTENSIONS_SELECTOR)
 
           {
-            name: item_image.attr("alt"),
+            name: item_title&.text || item_image.attr("alt"),
             image: extract_image_src(item_image),
             link: build_url(item.attr("href")),
           }.merge(

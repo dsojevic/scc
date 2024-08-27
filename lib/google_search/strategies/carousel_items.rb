@@ -21,8 +21,9 @@ module GoogleSearch
 
           item_anchor_data = extract_name_and_extensions_from_anchor_node(item)
 
-          item_title_text = item_anchor_data ? item_anchor_data.name : item_title.text
-          item_extensions_list = item_anchor_data ? item_anchor_data.extensions : extract_extensions_from_nodes(item_extensions)
+          item_title_text = item_anchor_data.name || item_title.text
+          item_extensions_list = item_anchor_data.extensions || extract_extensions_from_nodes(item_extensions)
+          item_extensions_list = nil if item_extensions_list&.empty?
 
           {
             name: item_title_text,
@@ -58,9 +59,13 @@ module GoogleSearch
       def extract_extensions_from_title(title, name:)
         return nil if title.empty? || name.empty? || title == name
 
+        # Remove outer whitespace and brackets from title after stripping
+        # the name out from the beginning (via length). This means that
+        # we don't get false extractions if using a simple split or regex
+        # on brackets alone (eg. name contains brackets in it)
         extensions = title[name.length..].sub(/^\s*\((.*)\)\s*$/i, '\\1')
 
-        return nil if extensions.empty?
+        return [] if extensions.empty?
 
         [extensions]
       end

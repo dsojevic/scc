@@ -1,0 +1,803 @@
+{
+  "search_metadata": {
+    "id": "66cdd9798de63c2f2a91359c",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/972500be45d33446/66cdd9798de63c2f2a91359c.json",
+    "created_at": "2024-08-27 13:49:45 UTC",
+    "processed_at": "2024-08-27 13:49:45 UTC",
+    "google_url": "https://www.google.ae/search?q=%D8%A3%D9%84%D8%A8%D9%88%D9%85%D8%A7%D8%AA+%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A&oq=%D8%A3%D9%84%D8%A8%D9%88%D9%85%D8%A7%D8%AA+%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A&uule=w+CAIQICIoQWJ1IERoYWJpLEFidSBEaGFiaSxVbml0ZWQgQXJhYiBFbWlyYXRlcw&hl=ar&gl=ae&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/972500be45d33446/66cdd9798de63c2f2a91359c.html",
+    "total_time_taken": 3.32
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "ألبومات ريك أستلي",
+    "location_requested": "Abu Dhabi, Abu Dhabi, United Arab Emirates",
+    "location_used": "Abu Dhabi,Abu Dhabi,United Arab Emirates",
+    "google_domain": "google.ae",
+    "hl": "ar",
+    "gl": "ae",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "ألبومات ريك أستلي",
+    "total_results": 4340,
+    "time_taken_displayed": 0.73,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "knowledge_graph": {
+    "title": "ريك أستلي",
+    "type": "موسيقي",
+    "entity_type": "people",
+    "main_tab_text": "نظرة عامة",
+    "kgmid": "/m/029kz0",
+    "knowledge_graph_search_link": "https://www.google.ae/search?kgmid=/m/029kz0&hl=ar-AE&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A&shndl=17&shem=vslcca&source=sh/x/kp/osrp/m5/1",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ae&google_domain=google.ae&hl=ar-AE&kgmid=%2Fm%2F029kz0&location=Abu+Dhabi%2C+Abu+Dhabi%2C+United+Arab+Emirates&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A",
+    "tabs": [
+      {
+        "text": "الأغاني",
+        "si": "ACC90nyR35EXIVqsrAONouAC2If7im8eG9AWdkeY7WEHZ67Ix5_BvexaImOH1MfMUn40CUj8-u64vw5GVuuZqYwxVaPgr0Ck5YMobBmIrgFiG93atQ_SPbw0X3XkUzXe-VNBiVfTz9PEXeWG1tX6B2QGnyp-gjcg4w==",
+        "link": "https://www.google.ae/search?si=ACC90nyR35EXIVqsrAONouAC2If7im8eG9AWdkeY7WEHZ67Ix5_BvexaImOH1MfMUn40CUj8-u64vw5GVuuZqYwxVaPgr0Ck5YMobBmIrgFiG93atQ_SPbw0X3XkUzXe-VNBiVfTz9PEXeWG1tX6B2QGnyp-gjcg4w==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ae&google_domain=google.ae&hl=ar&location=Abu+Dhabi%2C+Abu+Dhabi%2C+United+Arab+Emirates&q=%D8%A3%D9%84%D8%A8%D9%88%D9%85%D8%A7%D8%AA+%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A&si=ACC90nyR35EXIVqsrAONouAC2If7im8eG9AWdkeY7WEHZ67Ix5_BvexaImOH1MfMUn40CUj8-u64vw5GVuuZqYwxVaPgr0Ck5YMobBmIrgFiG93atQ_SPbw0X3XkUzXe-VNBiVfTz9PEXeWG1tX6B2QGnyp-gjcg4w%3D%3D"
+      },
+      {
+        "text": "الألبومات",
+        "si": "ACC90nycFh7NwN8aulxL0sAIhI2TEMChrkkk4BsFlo5EUbCMLxAtWwAb-j7YayvTeu5yCMNE7bNjNkuZA5m0J9RU0ry2PfdIw371N9Ht9KujWuiyxmK4z8iO-SOSZZ1QVrMz1imiJbcjSE2BA9h1sehe3ZZj8tlsIxusZUed_PpggTb0Wr00NAa8HrLQmIcXu2a1CucBktGvIT_NQ9pTM8kh7zq8a3E46OhJ1hXj-zZHmPeb7W16-j9CNShxdf20X5lF4IyPR8Oay8wS2u8OwB4yP56vS-2o9ZIy7skPw2pshxnWbpulW8QAICNxS_RRH4cffD511HiMvle5mf8nHqr_0tfau_1O23PIkwe4BPDo_iADAdCbjfQG4716QaeA0wJp-3MxMDpCppOV5LO5Ji_WusVjgdUqaYJ9hkNOxwMAsdDNQI-oFRcTFWdbwpcSsSHS-ICz5_Hkc9VQGRx_pbO0H0-4-ex-6OLU4iqRnBv1Z8vn2f_DWbP3E7bS0XB5OybBKnaA2QbtsRq-_Xu5drEOwWyWFc7W5y3SlY0HMutKoRuIXp1DWsHFfGqxGtfta9QCB0a_dm5HXkrKGPuxQi7iGZtwCKoOkA==",
+        "link": "https://www.google.ae/search?si=ACC90nycFh7NwN8aulxL0sAIhI2TEMChrkkk4BsFlo5EUbCMLxAtWwAb-j7YayvTeu5yCMNE7bNjNkuZA5m0J9RU0ry2PfdIw371N9Ht9KujWuiyxmK4z8iO-SOSZZ1QVrMz1imiJbcjSE2BA9h1sehe3ZZj8tlsIxusZUed_PpggTb0Wr00NAa8HrLQmIcXu2a1CucBktGvIT_NQ9pTM8kh7zq8a3E46OhJ1hXj-zZHmPeb7W16-j9CNShxdf20X5lF4IyPR8Oay8wS2u8OwB4yP56vS-2o9ZIy7skPw2pshxnWbpulW8QAICNxS_RRH4cffD511HiMvle5mf8nHqr_0tfau_1O23PIkwe4BPDo_iADAdCbjfQG4716QaeA0wJp-3MxMDpCppOV5LO5Ji_WusVjgdUqaYJ9hkNOxwMAsdDNQI-oFRcTFWdbwpcSsSHS-ICz5_Hkc9VQGRx_pbO0H0-4-ex-6OLU4iqRnBv1Z8vn2f_DWbP3E7bS0XB5OybBKnaA2QbtsRq-_Xu5drEOwWyWFc7W5y3SlY0HMutKoRuIXp1DWsHFfGqxGtfta9QCB0a_dm5HXkrKGPuxQi7iGZtwCKoOkA==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ae&google_domain=google.ae&hl=ar&location=Abu+Dhabi%2C+Abu+Dhabi%2C+United+Arab+Emirates&q=%D8%A3%D9%84%D8%A8%D9%88%D9%85%D8%A7%D8%AA+%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A&si=ACC90nycFh7NwN8aulxL0sAIhI2TEMChrkkk4BsFlo5EUbCMLxAtWwAb-j7YayvTeu5yCMNE7bNjNkuZA5m0J9RU0ry2PfdIw371N9Ht9KujWuiyxmK4z8iO-SOSZZ1QVrMz1imiJbcjSE2BA9h1sehe3ZZj8tlsIxusZUed_PpggTb0Wr00NAa8HrLQmIcXu2a1CucBktGvIT_NQ9pTM8kh7zq8a3E46OhJ1hXj-zZHmPeb7W16-j9CNShxdf20X5lF4IyPR8Oay8wS2u8OwB4yP56vS-2o9ZIy7skPw2pshxnWbpulW8QAICNxS_RRH4cffD511HiMvle5mf8nHqr_0tfau_1O23PIkwe4BPDo_iADAdCbjfQG4716QaeA0wJp-3MxMDpCppOV5LO5Ji_WusVjgdUqaYJ9hkNOxwMAsdDNQI-oFRcTFWdbwpcSsSHS-ICz5_Hkc9VQGRx_pbO0H0-4-ex-6OLU4iqRnBv1Z8vn2f_DWbP3E7bS0XB5OybBKnaA2QbtsRq-_Xu5drEOwWyWFc7W5y3SlY0HMutKoRuIXp1DWsHFfGqxGtfta9QCB0a_dm5HXkrKGPuxQi7iGZtwCKoOkA%3D%3D"
+      },
+      {
+        "text": "استماع",
+        "si": "ACC90nylNfUkJaxznrzSwClq9nw0u5DVmerFU1ZS4WsDMouPEODhu9cYreKCXuzR-wqj9BOS0Nc64VQT7gHUjk6N_rqc0MVhwmhDac7zPIGmVwSnbN7VDgRIbZaN5oK0oK_dSSsjhOl6cxezgTxe7tYCAkxZeU6cFjwlRyBgGX11g51Ude1h7u8=",
+        "link": "https://www.google.ae/search?si=ACC90nylNfUkJaxznrzSwClq9nw0u5DVmerFU1ZS4WsDMouPEODhu9cYreKCXuzR-wqj9BOS0Nc64VQT7gHUjk6N_rqc0MVhwmhDac7zPIGmVwSnbN7VDgRIbZaN5oK0oK_dSSsjhOl6cxezgTxe7tYCAkxZeU6cFjwlRyBgGX11g51Ude1h7u8=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ae&google_domain=google.ae&hl=ar&location=Abu+Dhabi%2C+Abu+Dhabi%2C+United+Arab+Emirates&q=%D8%A3%D9%84%D8%A8%D9%88%D9%85%D8%A7%D8%AA+%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A&si=ACC90nylNfUkJaxznrzSwClq9nw0u5DVmerFU1ZS4WsDMouPEODhu9cYreKCXuzR-wqj9BOS0Nc64VQT7gHUjk6N_rqc0MVhwmhDac7zPIGmVwSnbN7VDgRIbZaN5oK0oK_dSSsjhOl6cxezgTxe7tYCAkxZeU6cFjwlRyBgGX11g51Ude1h7u8%3D"
+      },
+      {
+        "text": "فيديوهات",
+        "si": "ACC90nxAHrInVEcjasiFOJd3T0BSx1l8-3GnIvMMlxgboSkRXZPHO9ZKmGGEHrhyJhzdJqTmYHMFo0ORpBZjy4aidXzKR6WON-aekACYRXVdyYic_-gJht47twatQ-BYTnBLxDByeR0gBinFWZ6T6uJf2vKTaaGKrg==",
+        "link": "https://www.google.ae/search?si=ACC90nxAHrInVEcjasiFOJd3T0BSx1l8-3GnIvMMlxgboSkRXZPHO9ZKmGGEHrhyJhzdJqTmYHMFo0ORpBZjy4aidXzKR6WON-aekACYRXVdyYic_-gJht47twatQ-BYTnBLxDByeR0gBinFWZ6T6uJf2vKTaaGKrg==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ae&google_domain=google.ae&hl=ar&location=Abu+Dhabi%2C+Abu+Dhabi%2C+United+Arab+Emirates&q=%D8%A3%D9%84%D8%A8%D9%88%D9%85%D8%A7%D8%AA+%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A&si=ACC90nxAHrInVEcjasiFOJd3T0BSx1l8-3GnIvMMlxgboSkRXZPHO9ZKmGGEHrhyJhzdJqTmYHMFo0ORpBZjy4aidXzKR6WON-aekACYRXVdyYic_-gJht47twatQ-BYTnBLxDByeR0gBinFWZ6T6uJf2vKTaaGKrg%3D%3D"
+      },
+      {
+        "text": "الأفلام",
+        "si": "ACC90nxmUecl8QkuWoRGJOVjtD44vMlwG_nG1uDu9kAJyZpbj4Wik5w5QT2C1Xsuc2rpKSF_UU0-ATxdEBJSn9E3M1g7fvDDKO1BstdasyWNIAedX2MdzUfgKPLoxw5rLnI3p8SPFB2pxWOibpumWFJarveK1V9GEQ==",
+        "link": "https://www.google.ae/search?si=ACC90nxmUecl8QkuWoRGJOVjtD44vMlwG_nG1uDu9kAJyZpbj4Wik5w5QT2C1Xsuc2rpKSF_UU0-ATxdEBJSn9E3M1g7fvDDKO1BstdasyWNIAedX2MdzUfgKPLoxw5rLnI3p8SPFB2pxWOibpumWFJarveK1V9GEQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ae&google_domain=google.ae&hl=ar&location=Abu+Dhabi%2C+Abu+Dhabi%2C+United+Arab+Emirates&q=%D8%A3%D9%84%D8%A8%D9%88%D9%85%D8%A7%D8%AA+%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A&si=ACC90nxmUecl8QkuWoRGJOVjtD44vMlwG_nG1uDu9kAJyZpbj4Wik5w5QT2C1Xsuc2rpKSF_UU0-ATxdEBJSn9E3M1g7fvDDKO1BstdasyWNIAedX2MdzUfgKPLoxw5rLnI3p8SPFB2pxWOibpumWFJarveK1V9GEQ%3D%3D"
+      }
+    ],
+    "description": "ريك أستلي ‏ هو مقدم برامج إذاعية وموسيقي ومغني ومغن مؤلف بريطاني، ولد في 6 فبراير 1966 في نيوتون لي ويلووز ‏ في المملكة المتحدة.",
+    "website": "http://www.rickastley.co.uk/",
+    "source": {
+      "name": "ويكيبيديا",
+      "link": "https://ar.wikipedia.org/wiki/%D8%B1%D9%8A%D9%83_%D8%A3%D8%B3%D8%AA%D9%84%D9%8A"
+    },
+    "تاريخ_ومكان_الميلاد": "6 فبراير 1966 (العمر 58 سنة)، Newton-le-Willows، المملكة المتحدة",
+    "تاريخ_ومكان_الميلاد_links": [
+      {
+        "text": "Newton-le-Willows، المملكة المتحدة",
+        "link": "https://www.google.ae/search?sca_esv=acb05f42373aaad6&hl=ar&gl=ae&q=%D9%86%D9%8A%D9%88%D8%AA%D9%88%D9%86+%D9%84%D9%89+%D9%88%D9%8A%D9%84%D9%88%D9%88%D8%B2&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L-ggVK6Ihil_cloj8TB_5LKF9yl3MKgq8VNLJ1yJH7a-Yw7qrHeyX126ZM5C1VwRz_tEmUjpI3cIXq6SNN4nsxzYlWXM7PkRacG4iSCOzBcXnlk9PutOMnmaydkAZoZza62IG-0Pl7R6sNde8UYt8upncHrYRMV7uvYRvciOqNahOumk9w%3D%3D&sa=X&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQmxMoAHoECB8QAg"
+      }
+    ],
+    "الابناء": "إميلي أستلي",
+    "الابناء_links": [
+      {
+        "text": "إميلي أستلي",
+        "link": "https://www.google.ae/search?sca_esv=acb05f42373aaad6&hl=ar&gl=ae&q=%D8%A5%D9%85%D9%8A%D9%84%D9%8A+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQVa54hN1TU1_7Av5ddb_z2AFk8vmSYMNLy4E0kBlx0mGIf1hGwShvZmN7soO_F-g_kHPnPub8DEO6g2CfQcGoZVfIP72We4NbJau9xdo59Xd9llpGrniOM40hshTWMCrl80NTe9_Q5PWNfwc_EXT1yrDRjhpWmSd_puLJ2pcNelkdxeeBw%3D%3D&sa=X&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQmxMoAHoECB0QAg"
+      }
+    ],
+    "الزوجة": "ليني بوسجر (متزوج 2003)",
+    "الزوجة_links": [
+      {
+        "text": "ليني بوسجر",
+        "link": "https://www.google.ae/search?sca_esv=acb05f42373aaad6&hl=ar&gl=ae&q=%D9%84%D9%8A%D9%86%D9%8A+%D8%A8%D9%88%D8%B3%D8%AC%D8%B1&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQUXhEfM5JzR71_rhfaQ6-AFBFnZ1Jo0bDO6EJF_K9vsu4GyQAXFMD4hg7dS2HEuOvfvPDwk6AvkhEJ336B6OqSJ1RQqTe-zgBBYq_Om4jXM46nKiXiHRkWEYBlsHpXpF1twjR3E_K07MV5aTZwjH5nzPes4oAziAnYBM1QXHcLBsu2eUpA%3D%3D&sa=X&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQmxMoAHoECCIQAg"
+      }
+    ],
+    "الشقيقات": "جين مارش",
+    "الشقيقات_links": [
+      {
+        "text": "جين مارش",
+        "link": "https://www.google.ae/search?sca_esv=acb05f42373aaad6&hl=ar&gl=ae&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+%D8%AC%D9%8A%D9%86+%D9%85%D8%A7%D8%B1%D8%B4&si=ACC90nwLLwns5sISZcdzuISy7t-NHozt8Cbt6G3WNQfC9ekAgB6LAiuBZKpkgMyi2zY6QaMtvP-hMi8cbdrP0hNuQOW6ke_PBfUPrIzrsh5m-_NlVWZhSB_aP_8KODsgm4xUg1mGdpi3Km3APcOUW5RVTaiMD6aX72lfSiuK60gO07UZOSFiEO9YCrw7yZkrQUP3jCwXOxuUbQ7tr7ynGXKdvcwQS4wL6F4Eppd2sRoI1Za4WAXoY_o%3D&sa=X&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQmxMoAHoECCEQAg"
+      }
+    ],
+    "الألبومات": [
+      {
+        "name": "Whenever You Need Somebody",
+        "extensions": [
+          "1987"
+        ],
+        "link": "https://www.google.ae/search?sca_esv=acb05f42373aaad6&hl=ar&gl=ae&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+whenever+you+need+somebody&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4gIzi8yqKs20xLOTrfRzS4szk_UTi0oyi0usEnOSSnOLF7Hq3Nh4s-tms8KNxTc231h1s-Vml0J5RmpeallqkUJlfqlCXmpqikJxfm5qUn5KJQDCGtI_YQAAAA&sa=X&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQ9OUBegQIRBAD",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ae&google_domain=google.ae&hl=ar&location=Abu+Dhabi%2C+Abu+Dhabi%2C+United+Arab+Emirates&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+whenever+you+need+somebody&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4gIzi8yqKs20xLOTrfRzS4szk_UTi0oyi0usEnOSSnOLF7Hq3Nh4s-tms8KNxTc231h1s-Vml0J5RmpeallqkUJlfqlCXmpqikJxfm5qUn5KJQDCGtI_YQAAAA",
+        "image": "https://serpapi.com/searches/66cdd9798de63c2f2a91359c/images/230a45bde500d78aece3dc93b7cab016872a015263993e966464ba96a41c1dce14747af3207b88f74ed927794f9c34d3.jpeg"
+      },
+      {
+        "name": "Hold Me in Your Arms",
+        "extensions": [
+          "1988"
+        ],
+        "link": "https://www.google.ae/search?sca_esv=acb05f42373aaad6&hl=ar&gl=ae&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+hold+me+in+your+arms&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4gIxjdOLspILtMSzk630c0uLM5P1E4tKMotLrBJzkkpzixexqt3YeLPrZrPCjcU3Nt9YdbPlZpdCRn5OikJuqkJmnkJlfmmRQmJRbjEAXZiqxlsAAAA&sa=X&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQ9OUBegQIRBAF",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ae&google_domain=google.ae&hl=ar&location=Abu+Dhabi%2C+Abu+Dhabi%2C+United+Arab+Emirates&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+hold+me+in+your+arms&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4gIxjdOLspILtMSzk630c0uLM5P1E4tKMotLrBJzkkpzixexqt3YeLPrZrPCjcU3Nt9YdbPlZpdCRn5OikJuqkJmnkJlfmmRQmJRbjEAXZiqxlsAAAA",
+        "image": "https://serpapi.com/searches/66cdd9798de63c2f2a91359c/images/230a45bde500d78aece3dc93b7cab016872a015263993e966464ba96a41c1dced3e4d6b182049e4032341211182a92dd.jpeg"
+      },
+      {
+        "name": "50",
+        "extensions": [
+          "2016"
+        ],
+        "link": "https://www.google.ae/search?sca_esv=acb05f42373aaad6&hl=ar&gl=ae&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+50&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4tVP1zc0TKqsSk5OT8rSEs9OttLPLS3OTNZPLCrJLC6xSsxJKs0tXsQqcmPjza6bzQo3Ft_YfGPVzZabXQqmBgDtaIJpTAAAAA&sa=X&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQ9OUBegQIRBAH",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ae&google_domain=google.ae&hl=ar&location=Abu+Dhabi%2C+Abu+Dhabi%2C+United+Arab+Emirates&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+50&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4tVP1zc0TKqsSk5OT8rSEs9OttLPLS3OTNZPLCrJLC6xSsxJKs0tXsQqcmPjza6bzQo3Ft_YfGPVzZabXQqmBgDtaIJpTAAAAA",
+        "image": "https://serpapi.com/searches/66cdd9798de63c2f2a91359c/images/230a45bde500d78aece3dc93b7cab016872a015263993e966464ba96a41c1dce4ef6fcf2dd65a6500c2982001b9a4e6b.jpeg"
+      },
+      {
+        "name": "Free",
+        "extensions": [
+          "1991"
+        ],
+        "link": "https://www.google.ae/search?sca_esv=acb05f42373aaad6&hl=ar&gl=ae&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+free&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4gIxjQvTczOqtMSzk630c0uLM5P1E4tKMotLrBJzkkpzixexit3YeLPrZrPCjcU3Nt9YdbPlZpdCWlFqKgCvw4dUSwAAAA&sa=X&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQ9OUBegQIRBAJ",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ae&google_domain=google.ae&hl=ar&location=Abu+Dhabi%2C+Abu+Dhabi%2C+United+Arab+Emirates&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+free&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4gIxjQvTczOqtMSzk630c0uLM5P1E4tKMotLrBJzkkpzixexit3YeLPrZrPCjcU3Nt9YdbPlZpdCWlFqKgCvw4dUSwAAAA",
+        "image": "https://serpapi.com/searches/66cdd9798de63c2f2a91359c/images/230a45bde500d78aece3dc93b7cab016872a015263993e966464ba96a41c1dce36d402fb15d1af9093524d979c99df13.jpeg"
+      },
+      {
+        "name": "Beautiful Life",
+        "extensions": [
+          "2018"
+        ],
+        "link": "https://www.google.ae/search?sca_esv=acb05f42373aaad6&hl=ar&gl=ae&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+beautiful+life&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4tVP1zc0TDO3MCqoLE7WEs9OttLPLS3OTNZPLCrJLC6xSsxJKs0tXsSqcGPjza6bzQo3Ft_YfGPVzZabXQpJqYmlJZlppTkKOZlpqQAIKS5UWAAAAA&sa=X&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQ9OUBegQIRBAL",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ae&google_domain=google.ae&hl=ar&location=Abu+Dhabi%2C+Abu+Dhabi%2C+United+Arab+Emirates&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+beautiful+life&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4tVP1zc0TDO3MCqoLE7WEs9OttLPLS3OTNZPLCrJLC6xSsxJKs0tXsSqcGPjza6bzQo3Ft_YfGPVzZabXQpJqYmlJZlppTkKOZlpqQAIKS5UWAAAAA",
+        "image": "https://serpapi.com/searches/66cdd9798de63c2f2a91359c/images/230a45bde500d78aece3dc93b7cab016872a015263993e966464ba96a41c1dcea9a2375670b7625830c1d9a6e0d36ab3.jpeg"
+      },
+      {
+        "name": "Are We There Yet?",
+        "extensions": [
+          "2023"
+        ],
+        "link": "https://www.google.ae/search?sca_esv=acb05f42373aaad6&hl=ar&gl=ae&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+are+we+there+yet%3F&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4tVP1zc0LEszSzYpysjSEs9OttLPLS3OTNZPLCrJLC6xSsxJKs0tXsSqfGPjza6bzQo3Ft_YfGPVzZabXQqJRakK5akKJRmpQEZlaok9AJHgKvxbAAAA&sa=X&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQ9OUBegQIRBAN",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ae&google_domain=google.ae&hl=ar&location=Abu+Dhabi%2C+Abu+Dhabi%2C+United+Arab+Emirates&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+are+we+there+yet%3F&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4tVP1zc0LEszSzYpysjSEs9OttLPLS3OTNZPLCrJLC6xSsxJKs0tXsSqfGPjza6bzQo3Ft_YfGPVzZabXQqJRakK5akKJRmpQEZlaok9AJHgKvxbAAAA",
+        "image": "https://serpapi.com/searches/66cdd9798de63c2f2a91359c/images/230a45bde500d78aece3dc93b7cab016872a015263993e966464ba96a41c1dce19c2d45ecc29bf39a342aac77aee82fe.jpeg"
+      },
+      {
+        "name": "Portrait",
+        "extensions": [
+          "2005"
+        ],
+        "link": "https://www.google.ae/search?sca_esv=acb05f42373aaad6&hl=ar&gl=ae&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+portrait&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4gIxjQtzzAxztcSzk630c0uLM5P1E4tKMotLrBJzkkpzixexSt3YeLPrZrPCjcU3Nt9YdbPlZpdCQX5RSVFiZgkAj2DxFU8AAAA&sa=X&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQ9OUBegQIRBAP",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ae&google_domain=google.ae&hl=ar&location=Abu+Dhabi%2C+Abu+Dhabi%2C+United+Arab+Emirates&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+portrait&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4gIxjQtzzAxztcSzk630c0uLM5P1E4tKMotLrBJzkkpzixexSt3YeLPrZrPCjcU3Nt9YdbPlZpdCQX5RSVFiZgkAj2DxFU8AAAA",
+        "image": "https://serpapi.com/searches/66cdd9798de63c2f2a91359c/images/230a45bde500d78aece3dc93b7cab016872a015263993e966464ba96a41c1dcef8b19af46d58725568048d88c359ecc9.jpeg"
+      },
+      {
+        "name": "Body & Soul",
+        "extensions": [
+          "1993"
+        ],
+        "link": "https://www.google.ae/search?sca_esv=acb05f42373aaad6&hl=ar&gl=ae&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+body+%26+soul&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4gIxjQtzTAqqtMSzk630c0uLM5P1E4tKMotLrBJzkkpzixexyt7YeLPrZrPCjcU3Nt9YdbPlZpdCUn5KpYKaQnF-aQ4AbeHRcFIAAAA&sa=X&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQ9OUBegQIRBAR",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ae&google_domain=google.ae&hl=ar&location=Abu+Dhabi%2C+Abu+Dhabi%2C+United+Arab+Emirates&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+body+%26+soul&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4gIxjQtzTAqqtMSzk630c0uLM5P1E4tKMotLrBJzkkpzixexyt7YeLPrZrPCjcU3Nt9YdbPlZpdCUn5KpYKaQnF-aQ4AbeHRcFIAAAA",
+        "image": "https://serpapi.com/searches/66cdd9798de63c2f2a91359c/images/230a45bde500d78aece3dc93b7cab016872a015263993e966464ba96a41c1dcef9c8cec48f113ca4e9f15b2eeec2a8b8.jpeg"
+      },
+      {
+        "name": "Keep It Turned On",
+        "extensions": [
+          "2001"
+        ],
+        "link": "https://www.google.ae/search?sca_esv=acb05f42373aaad6&hl=ar&gl=ae&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+keep+it+turned+on&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4gIxDXNyjIzLtcSzk630c0uLM5P1E4tKMotLrBJzkkpzixexKt_YeLPrZrPCjcU3Nt9YdbPlZpdCdmpqgUJmiUJJaVFeaopCfh4AGbn2QlgAAAA&sa=X&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQ9OUBegQIRBAT",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ae&google_domain=google.ae&hl=ar&location=Abu+Dhabi%2C+Abu+Dhabi%2C+United+Arab+Emirates&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+keep+it+turned+on&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4gIxDXNyjIzLtcSzk630c0uLM5P1E4tKMotLrBJzkkpzixexKt_YeLPrZrPCjcU3Nt9YdbPlZpdCdmpqgUJmiUJJaVFeaopCfh4AGbn2QlgAAAA",
+        "image": "https://serpapi.com/searches/66cdd9798de63c2f2a91359c/images/230a45bde500d78aece3dc93b7cab016872a015263993e966464ba96a41c1dce766335712a313fd47ffffd52069f6fbc.jpeg"
+      },
+      {
+        "name": "My Red Book",
+        "extensions": [
+          "2013"
+        ],
+        "link": "https://www.google.ae/search?sca_esv=acb05f42373aaad6&hl=ar&gl=ae&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+my+red+book&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4tVP1zc0TCqvzM3Lzc7WEs9OttLPLS3OTNZPLCrJLC6xSsxJKs0tXsQqe2Pjza6bzQo3Ft_YfGPVzZabXQq5lQpFqSkKSfn52QCf0QS6VQAAAA&sa=X&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQ9OUBegQIRBAV",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ae&google_domain=google.ae&hl=ar&location=Abu+Dhabi%2C+Abu+Dhabi%2C+United+Arab+Emirates&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+my+red+book&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4tVP1zc0TCqvzM3Lzc7WEs9OttLPLS3OTNZPLCrJLC6xSsxJKs0tXsQqe2Pjza6bzQo3Ft_YfGPVzZabXQq5lQpFqSkKSfn52QCf0QS6VQAAAA",
+        "image": "https://serpapi.com/searches/66cdd9798de63c2f2a91359c/images/230a45bde500d78aece3dc93b7cab016872a015263993e966464ba96a41c1dce511c10996cb406d7696c067514ea45ad.jpeg"
+      },
+      {
+        "name": "Together Forever",
+        "extensions": [
+          "2000"
+        ],
+        "link": "https://www.google.ae/search?sca_esv=acb05f42373aaad6&hl=ar&gl=ae&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+together+forever&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4gIxTQotUowttcSzk630c0uLM5P1E4tKMotLrBJzkkpzixexKt3YeLPrZrPCjcU3Nt9YdbPlZpdCSX56aklGapFCWn5RallqEQA14gw5VwAAAA&sa=X&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQ9OUBegQIRBAX",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ae&google_domain=google.ae&hl=ar&location=Abu+Dhabi%2C+Abu+Dhabi%2C+United+Arab+Emirates&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+together+forever&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4gIxTQotUowttcSzk630c0uLM5P1E4tKMotLrBJzkkpzixexKt3YeLPrZrPCjcU3Nt9YdbPlZpdCSX56aklGapFCWn5RallqEQA14gw5VwAAAA",
+        "image": "https://serpapi.com/searches/66cdd9798de63c2f2a91359c/images/230a45bde500d78aece3dc93b7cab016872a015263993e966464ba96a41c1dce8be0f900e0c90dd71202006dd597e6ac.jpeg"
+      },
+      {
+        "name": "Collections",
+        "extensions": [
+          "2006"
+        ],
+        "link": "https://www.google.ae/search?sca_esv=acb05f42373aaad6&hl=ar&gl=ae&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+collections&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4gIxTQqTLE3LtMSzk630c0uLM5P1E4tKMotLrBJzkkpzixexyt7YeLPrZrPCjcU3Nt9YdbPlZpdCcn5OTmpySWZ-XjEA8i0EpFIAAAA&sa=X&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQ9OUBegQIRBAZ",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ae&google_domain=google.ae&hl=ar&location=Abu+Dhabi%2C+Abu+Dhabi%2C+United+Arab+Emirates&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+collections&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4gIxTQqTLE3LtMSzk630c0uLM5P1E4tKMotLrBJzkkpzixexyt7YeLPrZrPCjcU3Nt9YdbPlZpdCcn5OTmpySWZ-XjEA8i0EpFIAAAA",
+        "image": "https://serpapi.com/searches/66cdd9798de63c2f2a91359c/images/230a45bde500d78aece3dc93b7cab016872a015263993e966464ba96a41c1dcebe4831665a174b4614e8112bca51f645.jpeg"
+      },
+      {
+        "name": "Greatest Hits",
+        "extensions": [
+          "2002"
+        ],
+        "link": "https://www.google.ae/search?sca_esv=acb05f42373aaad6&hl=ar&gl=ae&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+greatest+hits&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4gIxjQuTs4sMtMSzk630c0uLM5P1E4tKMotLrBJzkkpzixexyt_YeLPrZrPCjcU3Nt9YdbPlZpdCelFqYklqcYlCRmZJMQBiDyn8VAAAAA&sa=X&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQ9OUBegQIRBAb",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ae&google_domain=google.ae&hl=ar&location=Abu+Dhabi%2C+Abu+Dhabi%2C+United+Arab+Emirates&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+greatest+hits&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4gIxjQuTs4sMtMSzk630c0uLM5P1E4tKMotLrBJzkkpzixexyt_YeLPrZrPCjcU3Nt9YdbPlZpdCelFqYklqcYlCRmZJMQBiDyn8VAAAAA",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTNv7n5PLjGqwhGixCCbLjQCf5soXib11S3g60&s=0"
+      },
+      {
+        "name": "The Best of Me",
+        "extensions": [
+          "2019"
+        ],
+        "link": "https://www.google.ae/search?sca_esv=acb05f42373aaad6&hl=ar&gl=ae&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+the+best+of+me&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4tVP1zc0TMuzLMuzzEnTEs9OttLPLS3OTNZPLCrJLC6xSsxJKs0tXsSqcGPjza6bzQo3Ft_YfGPVzZabXQolGakKSanFJQr5aQq5qQAETGKcWAAAAA&sa=X&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQ9OUBegQIRBAd",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ae&google_domain=google.ae&hl=ar&location=Abu+Dhabi%2C+Abu+Dhabi%2C+United+Arab+Emirates&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+the+best+of+me&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4tVP1zc0TMuzLMuzzEnTEs9OttLPLS3OTNZPLCrJLC6xSsxJKs0tXsSqcGPjza6bzQo3Ft_YfGPVzZabXQolGakKSanFJQr5aQq5qQAETGKcWAAAAA",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvrnRVZZradNJqn5zOag_iFvffNWGn6lcf9VYl&s=0"
+      },
+      {
+        "name": "The Best of Rick Astley",
+        "extensions": [
+          "2014"
+        ],
+        "link": "https://www.google.ae/search?sca_esv=acb05f42373aaad6&hl=ar&gl=ae&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+the+best+of+rick+astley&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4tVP1zc0zDDONjGrLDbTEs9OttLPLS3OTNZPLCrJLC6xSsxJKs0tXsSqeWPjza6bzQo3Ft_YfGPVzZabXQolGakKSanFJQr5aQpFmcnZConFJTmplQDmtpFDYQAAAA&sa=X&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQ9OUBegQIRBAf",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ae&google_domain=google.ae&hl=ar&location=Abu+Dhabi%2C+Abu+Dhabi%2C+United+Arab+Emirates&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+the+best+of+rick+astley&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4tVP1zc0zDDONjGrLDbTEs9OttLPLS3OTNZPLCrJLC6xSsxJKs0tXsSqeWPjza6bzQo3Ft_YfGPVzZabXQolGakKSanFJQr5aQpFmcnZConFJTmplQDmtpFDYQAAAA",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaelTEvUWR90LTMPyO9ZsMkji8CA1gyFfBhTYgRkE&s=10"
+      },
+      {
+        "name": "Ultimate Collection",
+        "extensions": [
+          "2008"
+        ],
+        "link": "https://www.google.ae/search?sca_esv=acb05f42373aaad6&hl=ar&gl=ae&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+ultimate+collection&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4gIxTQqTstPLtcSzk630c0uLM5P1E4tKMotLrBJzkkpzixexqt7YeLPrZrPCjcU3Nt9YdbPlZpdCaU5JZm5iSapCcn5OTmpySWZ-HgBa-Az2WgAAAA&sa=X&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQ9OUBegQIRBAh",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ae&google_domain=google.ae&hl=ar&location=Abu+Dhabi%2C+Abu+Dhabi%2C+United+Arab+Emirates&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+ultimate+collection&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4gIxTQqTstPLtcSzk630c0uLM5P1E4tKMotLrBJzkkpzixexqt7YeLPrZrPCjcU3Nt9YdbPlZpdCaU5JZm5iSapCcn5OTmpySWZ-HgBa-Az2WgAAAA",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3XI-0GzZz37WG7w3_Y8V3M9b-vnfy0n52VU0cXqEk4aUYydKer-fsz1I&s=10"
+      },
+      {
+        "name": "Love Songs",
+        "extensions": [
+          "2004"
+        ],
+        "link": "https://www.google.ae/search?sca_esv=acb05f42373aaad6&hl=ar&gl=ae&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+love+songs&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4gIxTQrNKqpytcSzk630c0uLM5P1E4tKMotLrBJzkkpzixexytzYeLPrZrPCjcU3Nt9YdbPlZpdCTn5ZqkJxfl56MQAGpNiDUQAAAA&sa=X&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQ9OUBegQIRBAj",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ae&google_domain=google.ae&hl=ar&location=Abu+Dhabi%2C+Abu+Dhabi%2C+United+Arab+Emirates&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+love+songs&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4gIxTQrNKqpytcSzk630c0uLM5P1E4tKMotLrBJzkkpzixexytzYeLPrZrPCjcU3Nt9YdbPlZpdCTn5ZqkJxfl56MQAGpNiDUQAAAA",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrqmDGP7xhKd8k40yJO5UWZcfUBPmX-TMXdB0hwziKw19uPJAkT5JKejY&s=10"
+      },
+      {
+        "name": "The Platinum and Gold Collection – Rick Astley",
+        "extensions": [
+          "2004"
+        ],
+        "link": "https://www.google.ae/search?sca_esv=acb05f42373aaad6&hl=ar&gl=ae&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+the+platinum+and+gold+collection+%E2%80%93+rick+astley&stick=H4sIAAAAAAAAAAF6AIX_CAMSCS9tLzAyOWt6MCINL2cvMTFieDhsendjdyoXa2M6L211c2ljL2FydGlzdDphbGJ1bXOiBULYsdmK2YMg2KPYs9iq2YTZiiB0aGUgcGxhdGludW0gYW5kIGdvbGQgY29sbGVjdGlvbiDigJMgcmljayBhc3RsZXlgt2uQegAAAA&sa=X&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQ9OUBegQIRBAl",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ae&google_domain=google.ae&hl=ar&location=Abu+Dhabi%2C+Abu+Dhabi%2C+United+Arab+Emirates&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+the+platinum+and+gold+collection+%E2%80%93+rick+astley&stick=H4sIAAAAAAAAAAF6AIX_CAMSCS9tLzAyOWt6MCINL2cvMTFieDhsendjdyoXa2M6L211c2ljL2FydGlzdDphbGJ1bXOiBULYsdmK2YMg2KPYs9iq2YTZiiB0aGUgcGxhdGludW0gYW5kIGdvbGQgY29sbGVjdGlvbiDigJMgcmljayBhc3RsZXlgt2uQegAAAA",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbMkRmXx9zNGGzQUSZI-kzXTMeDNhz_TQ6fwbr4_Y&s=10"
+      },
+      {
+        "name": "Together Forever: The Best Of",
+        "extensions": [
+          "2007"
+        ],
+        "link": "https://www.google.ae/search?sca_esv=acb05f42373aaad6&hl=ar&gl=ae&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+together+forever:+the+best+of&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4gIxjQtzLSwLtMSzk630c0uLM5P1E4tKMotLrBJzkkpzixex6t_YeLPrZrPCjcU3Nt9YdbPlZpdCSX56aklGapFCWn5RallqkZUCkKeQlFpcopCfBgCF81_0ZAAAAA&sa=X&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQ9OUBegQIRBAn",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ae&google_domain=google.ae&hl=ar&location=Abu+Dhabi%2C+Abu+Dhabi%2C+United+Arab+Emirates&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+together+forever%3A+the+best+of&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4gIxjQtzLSwLtMSzk630c0uLM5P1E4tKMotLrBJzkkpzixex6t_YeLPrZrPCjcU3Nt9YdbPlZpdCSX56aklGapFCWn5RallqkZUCkKeQlFpcopCfBgCF81_0ZAAAAA",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0bthV_01S93ZUbcyADK7vfwSygiKvdM0Sl06PgBf0sXsWEIQqh3NI9SY&s=10"
+      },
+      {
+        "name": "Playlist: The Very Best of Rick Astley",
+        "extensions": [
+          "2008"
+        ],
+        "link": "https://www.google.ae/search?sca_esv=acb05f42373aaad6&hl=ar&gl=ae&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+playlist:+the+very+best+of+rick+astley&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4gIxTQotKo2ztcSzk630c0uLM5P1E4tKMotLrBJzkkpzixexWtzYeLPrZrPCjcU3Nt9YdbPlZpdCQU5iZQ5IjUJJRqpCWWpRpUJSanGJQn6aQlFmcrZCYnFJTmolAP8K28JtAAAA&sa=X&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQ9OUBegQIRBAp",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ae&google_domain=google.ae&hl=ar&location=Abu+Dhabi%2C+Abu+Dhabi%2C+United+Arab+Emirates&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+playlist%3A+the+very+best+of+rick+astley&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4gIxTQotKo2ztcSzk630c0uLM5P1E4tKMotLrBJzkkpzixexWtzYeLPrZrPCjcU3Nt9YdbPlZpdCQU5iZQ5IjUJJRqpCWWpRpUJSanGJQn6aQlFmcrZCYnFJTmolAP8K28JtAAAA",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL0UlO3pSqaManFGLjau2lTADQsBu7yDXk2cHAmHCiOv-dFwKZ4n55sq0&s=10"
+      },
+      {
+        "name": "3 Originals",
+        "extensions": [
+          "2003"
+        ],
+        "link": "https://www.google.ae/search?sca_esv=acb05f42373aaad6&hl=ar&gl=ae&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+3+originals&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4gIxjQtzU4pMtcSzk630c0uLM5P1E4tKMotLrBJzkkpzixexyt7YeLPrZrPCjcU3Nt9YdbPlZpeCsUJ-UWZ6Zl5iTjEAodSiTVIAAAA&sa=X&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQ9OUBegQIRBAr",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ae&google_domain=google.ae&hl=ar&location=Abu+Dhabi%2C+Abu+Dhabi%2C+United+Arab+Emirates&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+3+originals&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4gIxjQtzU4pMtcSzk630c0uLM5P1E4tKMotLrBJzkkpzixexyt7YeLPrZrPCjcU3Nt9YdbPlZpeCsUJ-UWZ6Zl5iTjEAodSiTVIAAAA",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStoB_sygb9kzx4BKa3X-QSH-ZiLkaPPjt-mDrsZS8&s=10"
+      },
+      {
+        "name": "12\" Collection",
+        "extensions": [
+          "1999"
+        ],
+        "link": "https://www.google.ae/search?sca_esv=acb05f42373aaad6&hl=ar&gl=ae&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+12%22+collection&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4gIxjQtzkw0ztMSzk630c0uLM5P1E4tKMotLrBJzkkpzixexKtzYeLPrZrPCjcU3Nt9YdbPlZpeCoZGSQnJ-Tk5qcklmfh4Afya1dVUAAAA&sa=X&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQ9OUBegQIRBAt",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ae&google_domain=google.ae&hl=ar&location=Abu+Dhabi%2C+Abu+Dhabi%2C+United+Arab+Emirates&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+12%22+collection&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4gIxjQtzkw0ztMSzk630c0uLM5P1E4tKMotLrBJzkkpzixexKtzYeLPrZrPCjcU3Nt9YdbPlZpeCoZGSQnJ-Tk5qcklmfh4Afya1dVUAAAA",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFdjm3wY2CfQMxfV3gRrtrtLfmLQD2XoS7t_gQbME&s=10"
+      },
+      {
+        "name": "Artist Collection: Rick Astley",
+        "extensions": [
+          "2004"
+        ],
+        "link": "https://www.google.ae/search?sca_esv=acb05f42373aaad6&hl=ar&gl=ae&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+artist+collection:+rick+astley&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4gIxjQvzDEwytMSzk630c0uLM5P1E4tKMotLrBJzkkpzixexGtzYeLPrZrPCjcU3Nt9YdbPlZpcCRIVCcn5OTmpySWZ-npVCUWZytkJicUlOaiUAi7DkJWUAAAA&sa=X&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQ9OUBegQIRBAv",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ae&google_domain=google.ae&hl=ar&location=Abu+Dhabi%2C+Abu+Dhabi%2C+United+Arab+Emirates&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+artist+collection%3A+rick+astley&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4gIxjQvzDEwytMSzk630c0uLM5P1E4tKMotLrBJzkkpzixexGtzYeLPrZrPCjcU3Nt9YdbPlZpcCRIVCcn5OTmpySWZ-npVCUWZytkJicUlOaiUAi7DkJWUAAAA",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJZV7KdCm7Rl4pn2833KBLV3yC2WAqhECZoKyv3Hg&s=10"
+      },
+      {
+        "name": "Together Forever EP",
+        "extensions": [
+          "2022, EP"
+        ],
+        "link": "https://www.google.ae/search?sca_esv=acb05f42373aaad6&hl=ar&gl=ae&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+together+forever+ep&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4tVP1zc0LCopNopPKojXEs9OttLPLS3OTNZPLCrJLC6xSsxJKs0tXsSqemPjza6bzQo3Ft_YfGPVzZabXQol-empJRmpRQpp-UWpZUA6tQAAJ_tgZV0AAAA&sa=X&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQ9OUBegQIRBAx",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ae&google_domain=google.ae&hl=ar&location=Abu+Dhabi%2C+Abu+Dhabi%2C+United+Arab+Emirates&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+together+forever+ep&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4tVP1zc0LCopNopPKojXEs9OttLPLS3OTNZPLCrJLC6xSsxJKs0tXsSqemPjza6bzQo3Ft_YfGPVzZabXQol-empJRmpRQpp-UWpZUA6tQAAJ_tgZV0AAAA",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLWaPijZV8yJyOaHPPKsXXM2NHCAmtjISsUdunnKk&s=10"
+      },
+      {
+        "name": "Whenever You Need Somebody (Deluxe Edition - 2022 Remaster)",
+        "extensions": [
+          "2022"
+        ],
+        "link": "https://www.google.ae/search?sca_esv=acb05f42373aaad6&hl=ar&gl=ae&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+whenever+you+need+somebody+(deluxe+edition+-+2022+remaster)&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4tVP1zc0LCopMUk3Ki7REs9OttLPLS3OTNZPLCrJLC6xSsxJKs0tXsTqe2Pjza6bzQo3Ft_YfGPVzZabXQrlGal5qWWpRQqV-aUKeampKQrF-bmpSfkplQoaKak5pRWpCqkpmSWZ-XkKugpGBkZGCkWpuYnFJalFmgCrRsdFhQAAAA&sa=X&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQ9OUBegQIRBAz",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ae&google_domain=google.ae&hl=ar&location=Abu+Dhabi%2C+Abu+Dhabi%2C+United+Arab+Emirates&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+whenever+you+need+somebody+%28deluxe+edition+-+2022+remaster%29&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4tVP1zc0LCopMUk3Ki7REs9OttLPLS3OTNZPLCrJLC6xSsxJKs0tXsTqe2Pjza6bzQo3Ft_YfGPVzZabXQrlGal5qWWpRQqV-aUKeampKQrF-bmpSfkplQoaKak5pRWpCqkpmSWZ-XkKugpGBkZGCkWpuYnFJalFmgCrRsdFhQAAAA",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHsyFBmvaVpn3ToK175tMGnFZ7scSX1RA7iPxhHIg&s=10"
+      },
+      {
+        "name": "Free…Plus + Body & Soul…Plus",
+        "extensions": [
+          "2010"
+        ],
+        "link": "https://www.google.ae/search?sca_esv=acb05f42373aaad6&hl=ar&gl=ae&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+free%E2%80%A6plus+%2B+body+%26+soul%E2%80%A6plus&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4tVP1zc0TEnLMsgtL87REs9OttLPLS3OTNZPLCrJLC6xSsxJKs0tXsRqdGPjza6bzQo3Ft_YfGPVzZabXQppRampjxqWFeSUFitoKyTlp1QqqCkU55fmQAUBNEP1hmoAAAA&sa=X&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQ9OUBegQIRBA1",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ae&google_domain=google.ae&hl=ar&location=Abu+Dhabi%2C+Abu+Dhabi%2C+United+Arab+Emirates&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+free%E2%80%A6plus+%2B+body+%26+soul%E2%80%A6plus&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4tVP1zc0TEnLMsgtL87REs9OttLPLS3OTNZPLCrJLC6xSsxJKs0tXsRqdGPjza6bzQo3Ft_YfGPVzZabXQppRampjxqWFeSUFitoKyTlp1QqqCkU55fmQAUBNEP1hmoAAAA",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRn6YuKufdSTdPKzdFbXy_fVaE9eyxFPTqbVC1Bpx-CWWHG9_2F1MhHVQ&s=10"
+      },
+      {
+        "name": "12 Inch Collection",
+        "extensions": [
+          "2004"
+        ],
+        "link": "https://www.google.ae/search?sca_esv=acb05f42373aaad6&hl=ar&gl=ae&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+12+inch+collection&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4gIxDbOTzYwrtcSzk630c0uLM5P1E4tKMotLrBJzkkpzixexqtzYeLPrZrPCjcU3Nt9YdbPlZpeCoZFCZl5yhkJyfk5OanJJZn4eALbUt_tZAAAA&sa=X&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQ9OUBegQIRBA3",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ae&google_domain=google.ae&hl=ar&location=Abu+Dhabi%2C+Abu+Dhabi%2C+United+Arab+Emirates&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+12+inch+collection&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4gIxDbOTzYwrtcSzk630c0uLM5P1E4tKMotLrBJzkkpzixexqtzYeLPrZrPCjcU3Nt9YdbPlZpeCoZFCZl5yhkJyfk5OanJJZn4eALbUt_tZAAAA",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOaf6gnUNnzvVSUAcHdXSBwFSGq4m0KUdcabAWkPsHzqpDaLxAQ_KQWQo&s=10"
+      },
+      {
+        "name": "Dance Mixes",
+        "extensions": [
+          "2005, EP"
+        ],
+        "link": "https://www.google.ae/search?sca_esv=acb05f42373aaad6&hl=ar&gl=ae&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+dance+mixes&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4tVP1zc0LLTMzSo0sCzSEs9OttLPLS3OTNZPLCrJLC6xSsxJKs0tXsQqe2Pjza6bzQo3Ft_YfGPVzZabXQopiXnJqQq5mRWpxQB_iReBVQAAAA&sa=X&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQ9OUBegQIRBA5",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ae&google_domain=google.ae&hl=ar&location=Abu+Dhabi%2C+Abu+Dhabi%2C+United+Arab+Emirates&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+dance+mixes&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4tVP1zc0LLTMzSo0sCzSEs9OttLPLS3OTNZPLCrJLC6xSsxJKs0tXsQqe2Pjza6bzQo3Ft_YfGPVzZabXQopiXnJqQq5mRWpxQB_iReBVQAAAA",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzpGaUugFA0md250kzuvOExkaGpkvX32niE4LBHKA&s=10"
+      },
+      {
+        "name": "Collection",
+        "extensions": [
+          "2006"
+        ],
+        "link": "https://www.google.ae/search?sca_esv=acb05f42373aaad6&hl=ar&gl=ae&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+collection&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4tVP1zc0TMs1syw2zarSEs9OttLPLS3OTNZPLCrJLC6xSsxJKs0tXsQqc2Pjza6bzQo3Ft_YfGPVzZabXQrJ-Tk5qcklmfl5AIdxQ-JUAAAA&sa=X&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQ9OUBegQIRBA7",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ae&google_domain=google.ae&hl=ar&location=Abu+Dhabi%2C+Abu+Dhabi%2C+United+Arab+Emirates&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+collection&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4tVP1zc0TMs1syw2zarSEs9OttLPLS3OTNZPLCrJLC6xSsxJKs0tXsQqc2Pjza6bzQo3Ft_YfGPVzZabXQrJ-Tk5qcklmfl5AIdxQ-JUAAAA",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ00Q1QlFynmTq8PvfYgnpymlv5m2k6P7TJASC7P9q0SXPw5J_izyW73c&s=10"
+      },
+      {
+        "name": "She Wants to Dance with Me EP",
+        "extensions": [
+          "2023, EP"
+        ],
+        "link": "https://www.google.ae/search?sca_esv=acb05f42373aaad6&hl=ar&gl=ae&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+she+wants+to+dance+with+me+ep&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4tVP1zc0LC42TkuqKEjXEs9OttLPLS3OTNZPLCrJLC6xSsxJKs0tXsSqf2Pjza6bzQo3Ft_YfGPVzZabXQrFGakK5Yl5JcUKJfkKKYl5yUBuZkmGQm6qQmoBADsT-41nAAAA&sa=X&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQ9OUBegQIRBA9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ae&google_domain=google.ae&hl=ar&location=Abu+Dhabi%2C+Abu+Dhabi%2C+United+Arab+Emirates&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+she+wants+to+dance+with+me+ep&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4tVP1zc0LC42TkuqKEjXEs9OttLPLS3OTNZPLCrJLC6xSsxJKs0tXsSqf2Pjza6bzQo3Ft_YfGPVzZabXQrFGakK5Yl5JcUKJfkKKYl5yUBuZkmGQm6qQmoBADsT-41nAAAA",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5BYYrDx0NF_jXgxi2xPpPbxQrnIdYYegwdky1wus&s=10"
+      },
+      {
+        "name": "Hold Me in Your Arms (Deluxe Edition - 2023 Remaster)",
+        "extensions": [
+          "2023"
+        ],
+        "link": "https://www.google.ae/search?sca_esv=acb05f42373aaad6&hl=ar&gl=ae&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+hold+me+in+your+arms+(deluxe+edition+-+2023+remaster)&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4tVP1zc0zM42LTMxM87TEs9OttLPLS3OTNZPLCrJLC6xSsxJKs0tXsTqfmPjza6bzQo3Ft_YfGPVzZabXQoZ-TkpCrmpCpl5CpX5pUUKiUW5xQoaKak5pRWpCqkpmSWZ-XkKugpGBkbGCkWpuYnFJalFmgCvJXuffwAAAA&sa=X&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQ9OUBegQIRBA_",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ae&google_domain=google.ae&hl=ar&location=Abu+Dhabi%2C+Abu+Dhabi%2C+United+Arab+Emirates&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+hold+me+in+your+arms+%28deluxe+edition+-+2023+remaster%29&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4tVP1zc0zM42LTMxM87TEs9OttLPLS3OTNZPLCrJLC6xSsxJKs0tXsTqfmPjza6bzQo3Ft_YfGPVzZabXQoZ-TkpCrmpCpl5CpX5pUUKiUW5xQoaKak5pRWpCqkpmSWZ-XkKugpGBkbGCkWpuYnFJalFmgCvJXuffwAAAA",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNeTcYsU92n9cRiTmP8PRakPoV8tZGFfomDQ7EMII&s=10"
+      },
+      {
+        "name": "80s Party Anthems",
+        "extensions": [
+          "2022, EP"
+        ],
+        "link": "https://www.google.ae/search?sca_esv=acb05f42373aaad6&hl=ar&gl=ae&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+80s+party+anthems&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4tVP1zc0LDY1KCsqNKzSEs9OttLPLS3OTNZPLCrJLC6xSsxJKs0tXsSqfGPjza6bzQo3Ft_YfGPVzZabXQoWBsUKBUBllQqJeSUZqbnFABElgk9bAAAA&sa=X&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQ9OUBegQIRBBB",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ae&google_domain=google.ae&hl=ar&location=Abu+Dhabi%2C+Abu+Dhabi%2C+United+Arab+Emirates&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+80s+party+anthems&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4tVP1zc0LDY1KCsqNKzSEs9OttLPLS3OTNZPLCrJLC6xSsxJKs0tXsSqfGPjza6bzQo3Ft_YfGPVzZabXQoWBsUKBUBllQqJeSUZqbnFABElgk9bAAAA",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC9Js0aialUOsEVSn32x48IRF5UHZJzBurJGNa3NI&s=10"
+      },
+      {
+        "name": "The Best of Rick Astley: Never Gonna Give You Up",
+        "extensions": [
+          "2003"
+        ],
+        "link": "https://www.google.ae/search?sca_esv=acb05f42373aaad6&hl=ar&gl=ae&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+the+best+of+rick+astley:+never+gonna+give+you+up&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4tVP1zc0TDYoSsrLTTfQEs9OttLPLS3OTNZPLCrJLC6xSsxJKs0tXsTqdGPjza6bzQo3Ft_YfGPVzZabXQolGakKSanFJQr5aQpFmcnZConFJTmplVYKeallqUUK6fl5eYkK6ZllqQqV-aUKpQUArQr8YXoAAAA&sa=X&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQ9OUBegQIRBBD",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ae&google_domain=google.ae&hl=ar&location=Abu+Dhabi%2C+Abu+Dhabi%2C+United+Arab+Emirates&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A+the+best+of+rick+astley%3A+never+gonna+give+you+up&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQ4tVP1zc0TDYoSsrLTTfQEs9OttLPLS3OTNZPLCrJLC6xSsxJKs0tXsTqdGPjza6bzQo3Ft_YfGPVzZabXQolGakKSanFJQr5aQpFmcnZConFJTmplVYKeallqUUK6fl5eYkK6ZllqQqV-aUKpQUArQr8YXoAAAA",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw8chp4bZxuCiKCEU4sUmXVyOTa9vXE8kDPNc1Faw&s=10"
+      }
+    ],
+    "استماع": [
+      {
+        "name": "YouTube",
+        "link": "https://www.youtube.com/channel/UCuAXFkgsw1L7xaCfnd5JJOw?feature=gws_kp_artist&feature=gws_kp_artist",
+        "image": "https://serpapi.com/searches/66cdd9798de63c2f2a91359c/images/230a45bde500d78aece3dc93b7cab01667224f85fedd5244ff615be3d08881c2aaaf4755c509f6a6.png"
+      },
+      {
+        "name": "سبوتيفاي",
+        "link": "https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt?autoplay=true",
+        "image": "https://serpapi.com/searches/66cdd9798de63c2f2a91359c/images/230a45bde500d78aece3dc93b7cab01667224f85fedd5244c1094d500115bb92ca715e81cded9da1.png"
+      },
+      {
+        "name": "يوتيوب موسيقى",
+        "link": "https://music.youtube.com/channel/UCwZEU0wAwIyZb4x5G_KJp2w?feature=gws_kp_artist&feature=gws_kp_artist",
+        "image": "https://serpapi.com/searches/66cdd9798de63c2f2a91359c/images/230a45bde500d78aece3dc93b7cab01667224f85fedd52449b6d440bbfd787bc825443667960ff72.png"
+      },
+      {
+        "name": "أبل ميوزك",
+        "link": "https://music.apple.com/ae/artist/rick-astley/669771",
+        "image": "https://serpapi.com/searches/66cdd9798de63c2f2a91359c/images/230a45bde500d78aece3dc93b7cab01667224f85fedd52446f3e8bf21f7559958d48da7778c0ac62.png"
+      }
+    ],
+    "الملفات_الشخصية": [
+      {
+        "name": "إنستغرام",
+        "link": "https://www.instagram.com/officialrickastley",
+        "image": "https://serpapi.com/searches/66cdd9798de63c2f2a91359c/images/230a45bde500d78aece3dc93b7cab016015fa17f4f754065c9f76bac310f0fb29cf3949407727c8af064d577b5098b4d4a16626900ee9518.png"
+      },
+      {
+        "name": "يوتيوب",
+        "link": "https://www.youtube.com/channel/UCuAXFkgsw1L7xaCfnd5JJOw",
+        "image": "https://serpapi.com/searches/66cdd9798de63c2f2a91359c/images/230a45bde500d78aece3dc93b7cab016015fa17f4f754065c9f76bac310f0fb29cf3949407727c8a8ac710ae6dd0c1483f7030e11947577a.png"
+      },
+      {
+        "name": "X (Twitter)",
+        "link": "https://twitter.com/rickastley",
+        "image": "https://serpapi.com/searches/66cdd9798de63c2f2a91359c/images/230a45bde500d78aece3dc93b7cab016015fa17f4f754065c9f76bac310f0fb29cf3949407727c8ae80bda143ce118810bd3146ee8558e6a.png"
+      },
+      {
+        "name": "فيسبوك",
+        "link": "https://www.facebook.com/RickAstley",
+        "image": "https://serpapi.com/searches/66cdd9798de63c2f2a91359c/images/230a45bde500d78aece3dc93b7cab016015fa17f4f754065c9f76bac310f0fb29cf3949407727c8a17e1d62e8b9cf86049bd1e249ffe9d23.png"
+      },
+      {
+        "name": "ساوند كلاود",
+        "link": "https://soundcloud.com/rick-astley-official",
+        "image": "https://serpapi.com/searches/66cdd9798de63c2f2a91359c/images/230a45bde500d78aece3dc93b7cab016015fa17f4f754065c9f76bac310f0fb29cf3949407727c8a330cb941f8b6a42e109f445b1940f158.png"
+      }
+    ]
+  },
+  "inline_images": [
+    {
+      "link": "https://www.google.ae/search?sca_esv=acb05f42373aaad6&hl=ar&gl=ae&q=%D8%A3%D9%84%D8%A8%D9%88%D9%85%D8%A7%D8%AA+%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A&udm=2&source=univ&fir=gt7g8Ie0Fc3xVM%252CfYTS2mNT9QQ4CM%252C_%253Bo4AYV1FNpldNzM%252Cux3R989CnmI6yM%252C_%253BykWkrdwI5JNXcM%252C6s4NuhB18CEGIM%252C_%253B4dOJzmVnZIpo8M%252CzgnY4CapJugXqM%252C_%253BzP7QG0llYXo1-M%252CdsrqlTN300l9YM%252C_%253B11ZG3QWsjPYZ0M%252CIz0SKB27YNdNeM%252C_%253BgpZZuozIFwlB7M%252CgM90wXDX0DVV7M%252C_%253BxSFUt0Pa21wIEM%252C2kYwIiLx-pozDM%252C_%253BD66eBBYmDFSK2M%252C6uL20jE0F5g7nM%252C_%253BvgDffnsNmumBmM%252C6s4NuhB18CEGIM%252C_&usg=AI4_-kTCbBkkoWDBr95G9YR4RNAVg2TK-A&sa=X&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQ9AF6BAhkEAA#imgrc=gt7g8Ie0Fc3xVM",
+      "source": "https://open.spotify.com/track/3CdMKQa0IUhKJ9qP2jnsC7",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4DkrudlRgQuuy929t0o0D5or6_qeqcaL3VYofwRV9lS3_mKfYHHOt5fIw9Q&s",
+      "original": "https://i.scdn.co/image/ab67616d0000b2738dbbed844d9779a40885d0a3",
+      "title": "Pieces - song by Rick Astley | Spotify",
+      "source_name": "Spotify"
+    },
+    {
+      "link": "https://www.google.ae/search?sca_esv=acb05f42373aaad6&hl=ar&gl=ae&q=%D8%A3%D9%84%D8%A8%D9%88%D9%85%D8%A7%D8%AA+%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A&udm=2&source=univ&fir=gt7g8Ie0Fc3xVM%252CfYTS2mNT9QQ4CM%252C_%253Bo4AYV1FNpldNzM%252Cux3R989CnmI6yM%252C_%253BykWkrdwI5JNXcM%252C6s4NuhB18CEGIM%252C_%253B4dOJzmVnZIpo8M%252CzgnY4CapJugXqM%252C_%253BzP7QG0llYXo1-M%252CdsrqlTN300l9YM%252C_%253B11ZG3QWsjPYZ0M%252CIz0SKB27YNdNeM%252C_%253BgpZZuozIFwlB7M%252CgM90wXDX0DVV7M%252C_%253BxSFUt0Pa21wIEM%252C2kYwIiLx-pozDM%252C_%253BD66eBBYmDFSK2M%252C6uL20jE0F5g7nM%252C_%253BvgDffnsNmumBmM%252C6s4NuhB18CEGIM%252C_&usg=AI4_-kTCbBkkoWDBr95G9YR4RNAVg2TK-A&sa=X&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQ9AF6BAhrEAA#imgrc=o4AYV1FNpldNzM",
+      "source": "https://en.wikipedia.org/wiki/Portrait_(Rick_Astley_album)",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_HT2HrRzFF3wJ3UaKWM2bgIg1i-W3BzvZtnzDUUZud2sjfQeaDQNKY9r1SA&s",
+      "original": "https://upload.wikimedia.org/wikipedia/en/4/4e/Portrait_%28Rick_Astley_album%29.jpg",
+      "title": "Portrait (Rick Astley album) - Wikipedia",
+      "source_name": "Wikipedia"
+    },
+    {
+      "link": "https://www.google.ae/search?sca_esv=acb05f42373aaad6&hl=ar&gl=ae&q=%D8%A3%D9%84%D8%A8%D9%88%D9%85%D8%A7%D8%AA+%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A&udm=2&source=univ&fir=gt7g8Ie0Fc3xVM%252CfYTS2mNT9QQ4CM%252C_%253Bo4AYV1FNpldNzM%252Cux3R989CnmI6yM%252C_%253BykWkrdwI5JNXcM%252C6s4NuhB18CEGIM%252C_%253B4dOJzmVnZIpo8M%252CzgnY4CapJugXqM%252C_%253BzP7QG0llYXo1-M%252CdsrqlTN300l9YM%252C_%253B11ZG3QWsjPYZ0M%252CIz0SKB27YNdNeM%252C_%253BgpZZuozIFwlB7M%252CgM90wXDX0DVV7M%252C_%253BxSFUt0Pa21wIEM%252C2kYwIiLx-pozDM%252C_%253BD66eBBYmDFSK2M%252C6uL20jE0F5g7nM%252C_%253BvgDffnsNmumBmM%252C6s4NuhB18CEGIM%252C_&usg=AI4_-kTCbBkkoWDBr95G9YR4RNAVg2TK-A&sa=X&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQ9AF6BAhqEAA#imgrc=ykWkrdwI5JNXcM",
+      "source": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu7ikI8Rz0f_KnRcrAobBwMhfIhMR7xtEy3zQJgxhgIw4C5XqH4r0aXaooUA&s",
+      "original": "https://i.ytimg.com/vi/dQw4w9WgXcQ/maxresdefault.jpg",
+      "title": "Rick Astley - Never Gonna Give You Up (Official Music Video)",
+      "source_name": "YouTube"
+    }
+  ],
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "The Best Of Rick Astley - Rick Astley Greatest Hits Full Album",
+      "link": "https://www.youtube.com/watch?v=P3VQ_C-dvJQ",
+      "thumbnail": "https://serpapi.com/searches/66cdd9798de63c2f2a91359c/images/5f18b8f49e36b3f6c3b9d1392aab0195d2cb7fede2b5cfff3c7aa7b6059e8904.jpeg",
+      "channel": "Time Music",
+      "duration": "1:05:35",
+      "platform": "YouTube",
+      "date": "20‏/01‏/2023",
+      "key_moments": [
+        {
+          "link": "https://www.youtube.com/watch?v=P3VQ_C-dvJQ&t=19"
+        },
+        {
+          "link": "https://www.youtube.com/watch?v=P3VQ_C-dvJQ&t=491"
+        },
+        {
+          "link": "https://www.youtube.com/watch?v=P3VQ_C-dvJQ&t=734"
+        },
+        {
+          "link": "https://www.youtube.com/watch?v=P3VQ_C-dvJQ&t=1053"
+        },
+        {
+          "link": "https://www.youtube.com/watch?v=P3VQ_C-dvJQ&t=1142"
+        },
+        {
+          "link": "https://www.youtube.com/watch?v=P3VQ_C-dvJQ&t=1299"
+        },
+        {
+          "link": "https://www.youtube.com/watch?v=P3VQ_C-dvJQ&t=1852"
+        },
+        {
+          "link": "https://www.youtube.com/watch?v=P3VQ_C-dvJQ&t=2286"
+        },
+        {
+          "link": "https://www.youtube.com/watch?v=P3VQ_C-dvJQ&t=2674"
+        },
+        {
+          "link": "https://www.youtube.com/watch?v=P3VQ_C-dvJQ&t=3837"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "title": "Rick Astley Playlist Of All Songs || Rick Astley Greatest Hits ...",
+      "link": "https://www.youtube.com/watch?v=0fOorP-tMAE",
+      "thumbnail": "https://serpapi.com/searches/66cdd9798de63c2f2a91359c/images/5f18b8f49e36b3f620a026325236c194bb022ad4e86cc2d00c1364cde3ef75a5.jpeg",
+      "channel": "Time Music",
+      "duration": "46:16",
+      "platform": "YouTube",
+      "date": "11‏/04‏/2023"
+    },
+    {
+      "position": 3,
+      "title": "Rick Astley - Never Gonna Give You Up (Official Music Video)",
+      "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "thumbnail": "https://serpapi.com/searches/66cdd9798de63c2f2a91359c/images/5f18b8f49e36b3f6a84ec44fc084d79ad5e3644c48247f4dd43239113eac3f0d.jpeg",
+      "channel": "Rick Astley",
+      "duration": "3:33",
+      "platform": "YouTube",
+      "date": "25‏/10‏/2009"
+    },
+    {
+      "position": 4,
+      "title": "Rick Astley Playlist Of All Songs || Rick Astley Greatest Hits ...",
+      "link": "https://www.youtube.com/watch?v=PGRv3PMQV68",
+      "thumbnail": "https://serpapi.com/searches/66cdd9798de63c2f2a91359c/images/5f18b8f49e36b3f6fec9a41c02285bf672ff5df5cc915f22b008d62570206d41.jpeg",
+      "channel": "Time Music",
+      "duration": "1:09:14",
+      "platform": "YouTube",
+      "date": "01‏/09‏/2022",
+      "key_moments": [
+        {
+          "link": "https://www.youtube.com/watch?v=PGRv3PMQV68&t=850",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_ytoJdljJspPCJOI-Sg2TkFs5_AL-pTV478-Hm-0alQ&s"
+        },
+        {
+          "link": "https://www.youtube.com/watch?v=PGRv3PMQV68&t=863",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1840_39rGGf8T3RuOrdouuTClE7kJERcXl9PoGAko5Q&s"
+        },
+        {
+          "link": "https://www.youtube.com/watch?v=PGRv3PMQV68&t=2316",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk-VWCTrYbGZQVc4d9foEx1Wnl5vmh2ByX6TUmfDKEOw&s"
+        },
+        {
+          "link": "https://www.youtube.com/watch?v=PGRv3PMQV68&t=4073",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLBomP6flfMV6EOWtBRILLHGDFKUnuLwF0J1_61WATKg&s"
+        },
+        {
+          "link": "https://www.youtube.com/watch?v=PGRv3PMQV68&t=4088",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWOjxx3-10n-SANMKP2hZVyL0fv-7s3ejQ9kMCyZ_bHA&s"
+        }
+      ]
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "كم عدد الألبومات التي أصدرها ريك أستلي؟",
+      "snippet": "ديسكغرافيا المغني وكاتب الأغاني الإنجليزي ريك آستلي يتكون من تسعة ألبومات استوديو، وخمسة ألبومات مجمعة، وألبومين ريمكس، وأربعة وعشرون أغنية فردية . ألبومه الاستوديو الأول، عندما تحتاج إلى شخص ما، صدر في نوفمبر 1987.",
+      "title": "Rick Astley discography - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Rick_Astley_discography",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJTa2M1U210T2IyZEtWMWRoWVVJNVpXVjNVWGhMUVY5dVREWkxkalprZUdWU2JWTkZXRmRPZDNsdU9YWlhUMmhoTnpOWmNsOXlkVkZxZUZOaU1VaFZTM3AzWmtrMWEyRkRSRWxzRWhabGRHNU9XbkZ5VVVwYVEzVTFUbTlRZG1SMU5rTkJHaUpCUmxoeVJXTnZURTlsYWw4MVpGZDVha1o0TkhkcGJEWXdlV3BMWlhReFpraFIiLCJmY3YiOiIzIiwiZWkiOiJldG5OWnFyUUpaQ3U1Tm9QdmR1NkNBIiwicWMiOiJDaURZbzltRTJLalppTm1GMktmWXFpRFlzZG1LMllNZzJLUFlzOWlxMllUWmloQTJmYWl5Q1Q4IiwicXVlc3Rpb24iOiLZg9mFINi52K/YryDYp9mE2KPZhNio2YjZhdin2Kog2KfZhNiq2Yog2KPYtdiv2LHZh9inINix2YrZgyDYo9iz2KrZhNmK2J8iLCJsayI6IkdpaG9iM2NnYldGdWVTQmhiR0oxYlhNZ2FHRnpJSEpwWTJzZ1lYTjBiR1Y1SUhKbGJHVmhjMlZrS0FBIiwiYnMiOiJjMjJRd1VyRFFCQ0c2elVuajVLRERPSWhnb0lFUVR4NThlQXJlSXhKTUV2YXBHUVRTdkNVSm1sTHZPZ1RpQlJNRFlXMkZBX3hTV2JleHRuMllyR3d5ODdPRFA4M18yalAyajNsVkFLMnVNQUZZRTBGVHZuT2FFSWwxdGhzVXcxVmdGUDg1cVlWamJFR2ZpcktWVzdOeFlJcWZEOTZ2VFBQZGNNTEI5Q3pnaFNzN21QU2stQlpFaUpoLTJESnVPdW1FTGxkMTVLdVkzUTBUN3VsTVJXQWF4WWJLdUpfWGNBWnpybFU0QmRRcHY0dFQxU0NlV2xlTWZQbHdUelJqOFV1SWc2VFNBUlBJSUpORzVNYzdZYkZsS0dsR3I1aHdTRmwtMmd0amJhV2YyakU3Ul9NbVBqbXFRNERMd1ZIT0RzZ0dZZDlrSXppd3hSZnUxWU1ZRk9WZ3VRc21mSGNyTVA2LUlsempsWjdkX2ZXTnlfMHM4M3VFdHNESjNRbGlCanNVTVpzQnp3UnVYX0pSdWZ3NEJjIiwiaWQiOiJmY18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJTa2M1U210T2IyZEtWMWRoWVVJNVpXVjNVWGhMUVY5dVREWkxkalprZUdWU2JWTkZXRmRPZDNsdU9YWlhUMmhoTnpOWmNsOXlkVkZxZUZOaU1VaFZTM3AzWmtrMWEyRkRSRWxzRWhabGRHNU9XbkZ5VVVwYVEzVTFUbTlRZG1SMU5rTkJHaUpCUmxoeVJXTnZURTlsYWw4MVpGZDVha1o0TkhkcGJEWXdlV3BMWlhReFpraFIiLCJmY3YiOiIzIiwiZWkiOiJldG5OWnFyUUpaQ3U1Tm9QdmR1NkNBIiwicWMiOiJDaURZbzltRTJLalppTm1GMktmWXFpRFlzZG1LMllNZzJLUFlzOWlxMllUWmloQTJmYWl5Q1Q4IiwicXVlc3Rpb24iOiLZg9mFINi52K%2FYryDYp9mE2KPZhNio2YjZhdin2Kog2KfZhNiq2Yog2KPYtdiv2LHZh9inINix2YrZgyDYo9iz2KrZhNmK2J8iLCJsayI6IkdpaG9iM2NnYldGdWVTQmhiR0oxYlhNZ2FHRnpJSEpwWTJzZ1lYTjBiR1Y1SUhKbGJHVmhjMlZrS0FBIiwiYnMiOiJjMjJRd1VyRFFCQ0c2elVuajVLRERPSWhnb0lFUVR4NThlQXJlSXhKTUV2YXBHUVRTdkNVSm1sTHZPZ1RpQlJNRFlXMkZBX3hTV2JleHRuMllyR3d5ODdPRFA4M18yalAyajNsVkFLMnVNQUZZRTBGVHZuT2FFSWwxdGhzVXcxVmdGUDg1cVlWamJFR2ZpcktWVzdOeFlJcWZEOTZ2VFBQZGNNTEI5Q3pnaFNzN21QU2stQlpFaUpoLTJESnVPdW1FTGxkMTVLdVkzUTBUN3VsTVJXQWF4WWJLdUpfWGNBWnpybFU0QmRRcHY0dFQxU0NlV2xlTWZQbHdUelJqOFV1SWc2VFNBUlBJSUpORzVNYzdZYkZsS0dsR3I1aHdTRmwtMmd0amJhV2YyakU3Ul9NbVBqbXFRNERMd1ZIT0RzZ0dZZDlrSXppd3hSZnUxWU1ZRk9WZ3VRc21mSGNyTVA2LUlsempsWjdkX2ZXTnlfMHM4M3VFdHNESjNRbGlCanNVTVpzQnp3UnVYX0pSdWZ3NEJjIiwiaWQiOiJmY18xIn0%3D"
+    },
+    {
+      "question": "هل سيقوم ريك أستلي بجولة في عام 2024؟",
+      "snippet": "يأخذ صانع الأغاني الشهير \"Never Gonna Give You Up\" جولته في المملكة المتحدة إلى آفاق جديدة، والتي تمتد من عام 2023 إلى عام 2024 . من المقرر أن يجذب ريك آستلي انتباه المعجبين في بعض الأماكن والساحات الموسيقية الأسطورية في المملكة المتحدة.",
+      "title": "هل يقوم ريك أستلي بجولة في عام 2024 ؟: التواريخ والأماكن وأعمال الدعم والتذاكر",
+      "date": "09‏/02‏/2024",
+      "link": "https://translate.google.com/translate?u=https://www.seatunique.com/blog/rick-astley-tour-concert-dates-locations/&hl=ar&sl=en&tl=ar&client=rq&prev=search",
+      "source_logo": "https://serpapi.com/searches/66cdd9798de63c2f2a91359c/images/b6aa9e6526146a66aa879a8d12f9e8085718ffcf03f03b52d67cec80c2f50587.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJTa2M1U210T2IyZEtWMWRoWVVJNVpXVjNVWGhMUVY5dVREWkxkalprZUdWU2JWTkZXRmRPZDNsdU9YWlhUMmhoTnpOWmNsOXlkVkZxZUZOaU1VaFZTM3AzWmtrMWEyRkRSRWxzRWhabGRHNU9XbkZ5VVVwYVEzVTFUbTlRZG1SMU5rTkJHaUpCUmxoeVJXTnZURTlsYWw4MVpGZDVha1o0TkhkcGJEWXdlV3BMWlhReFpraFIiLCJmY3YiOiIzIiwiZWkiOiJldG5OWnFyUUpaQ3U1Tm9QdmR1NkNBIiwicWMiOiJDaURZbzltRTJLalppTm1GMktmWXFpRFlzZG1LMllNZzJLUFlzOWlxMllUWmloQTJmYWl5Q1Q4IiwicXVlc3Rpb24iOiLZh9mEINiz2YrZgtmI2YUg2LHZitmDINij2LPYqtmE2Yog2KjYrNmI2YTYqSDZgdmKINi52KfZhSAyMDI02J8iLCJsayI6IkdoNXBjeUJ5YVdOcklHRnpkR3hsZVNCMGIzVnlhVzVuSUdsdUlESXdNalFvQUEiLCJicyI6ImMyMlF3VXJEUUJDRzZ6VW5qNUtERE9JaGdvSUVRVHg1OGVBcmVJeEpNRXZhcEdRVFN2Q1VKbWxMdk9nVGlCUk1EWVcyRkFfeFNXYmV4dG4yWXJHd3k4N09EUDgzXzJqUDJqM2xWQUsydU1BRllFMEZUdm5PYUVJbDF0aHNVdzFWZ0ZQODVxWVZqYkVHZmlyS1ZXN054WUlxZkQ5NnZUUFBkY01MQjlDemdoU3M3bVBTay1CWkVpSmgtMkRKdU91bUVMbGQxNUt1WTNRMFQ3dWxNUldBYXhZYkt1Sl9YY0FaenJsVTRCZFFwdjR0VDFTQ2VXbGVNZlBsd1R6Umo4VXVJZzZUU0FSUElJSk5HNU1jN1liRmxLR2xHcjVod1NGbC0yZ3RqYmFXZjJqRTdSX01tUGptcVE0REx3VkhPRHNnR1lkOWtJeml3eFJmdTFZTVlGT1ZndVFzbWZIY3JNUDYtSWx6amxaN2RfZldOeV8wczgzdUV0c0RKM1FsaUJqc1VNWnNCendSdVhfSlJ1Znc0QmMiLCJpZCI6ImZjXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJTa2M1U210T2IyZEtWMWRoWVVJNVpXVjNVWGhMUVY5dVREWkxkalprZUdWU2JWTkZXRmRPZDNsdU9YWlhUMmhoTnpOWmNsOXlkVkZxZUZOaU1VaFZTM3AzWmtrMWEyRkRSRWxzRWhabGRHNU9XbkZ5VVVwYVEzVTFUbTlRZG1SMU5rTkJHaUpCUmxoeVJXTnZURTlsYWw4MVpGZDVha1o0TkhkcGJEWXdlV3BMWlhReFpraFIiLCJmY3YiOiIzIiwiZWkiOiJldG5OWnFyUUpaQ3U1Tm9QdmR1NkNBIiwicWMiOiJDaURZbzltRTJLalppTm1GMktmWXFpRFlzZG1LMllNZzJLUFlzOWlxMllUWmloQTJmYWl5Q1Q4IiwicXVlc3Rpb24iOiLZh9mEINiz2YrZgtmI2YUg2LHZitmDINij2LPYqtmE2Yog2KjYrNmI2YTYqSDZgdmKINi52KfZhSAyMDI02J8iLCJsayI6IkdoNXBjeUJ5YVdOcklHRnpkR3hsZVNCMGIzVnlhVzVuSUdsdUlESXdNalFvQUEiLCJicyI6ImMyMlF3VXJEUUJDRzZ6VW5qNUtERE9JaGdvSUVRVHg1OGVBcmVJeEpNRXZhcEdRVFN2Q1VKbWxMdk9nVGlCUk1EWVcyRkFfeFNXYmV4dG4yWXJHd3k4N09EUDgzXzJqUDJqM2xWQUsydU1BRllFMEZUdm5PYUVJbDF0aHNVdzFWZ0ZQODVxWVZqYkVHZmlyS1ZXN054WUlxZkQ5NnZUUFBkY01MQjlDemdoU3M3bVBTay1CWkVpSmgtMkRKdU91bUVMbGQxNUt1WTNRMFQ3dWxNUldBYXhZYkt1Sl9YY0FaenJsVTRCZFFwdjR0VDFTQ2VXbGVNZlBsd1R6Umo4VXVJZzZUU0FSUElJSk5HNU1jN1liRmxLR2xHcjVod1NGbC0yZ3RqYmFXZjJqRTdSX01tUGptcVE0REx3VkhPRHNnR1lkOWtJeml3eFJmdTFZTVlGT1ZndVFzbWZIY3JNUDYtSWx6amxaN2RfZldOeV8wczgzdUV0c0RKM1FsaUJqc1VNWnNCendSdVhfSlJ1Znc0QmMiLCJpZCI6ImZjXzEifQ%3D%3D"
+    },
+    {
+      "question": "لماذا توقف ريك أستلي عن الغناء؟",
+      "snippet": "1994-2000: التقاعد تقاعد أستلي من صناعة الموسيقى في عام 1993 عن عمر يناهز 27 عامًا، وقرر أن الحياة الأسرية أكثر أهمية بالنسبة له ؛ \"الآن لا يبدو الأمر وكأنه أي عدد من السنوات، ولكن بعد ذلك كان ربع حياتي. كنت شابًا وقلت لنفسي: \"لا أريد أن أفعل ذلك في كل يوم من حياتي\".",
+      "title": "ريك أستلي - ويكيبيديا",
+      "link": "https://translate.google.com/translate?u=https://en.wikipedia.org/wiki/Rick_Astley&hl=ar&sl=en&tl=ar&client=rq&prev=search",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx8E2tPE1lvgAPigHKGbY0anLlomjswqEV-H-Mbfid&s",
+      "source_logo": "https://serpapi.com/searches/66cdd9798de63c2f2a91359c/images/b6aa9e6526146a66aa879a8d12f9e808a069eb9ec7a0c7b782a2b0317f0d38ab.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJTa2M1U210T2IyZEtWMWRoWVVJNVpXVjNVWGhMUVY5dVREWkxkalprZUdWU2JWTkZXRmRPZDNsdU9YWlhUMmhoTnpOWmNsOXlkVkZxZUZOaU1VaFZTM3AzWmtrMWEyRkRSRWxzRWhabGRHNU9XbkZ5VVVwYVEzVTFUbTlRZG1SMU5rTkJHaUpCUmxoeVJXTnZURTlsYWw4MVpGZDVha1o0TkhkcGJEWXdlV3BMWlhReFpraFIiLCJmY3YiOiIzIiwiZWkiOiJldG5OWnFyUUpaQ3U1Tm9QdmR1NkNBIiwicWMiOiJDaURZbzltRTJLalppTm1GMktmWXFpRFlzZG1LMllNZzJLUFlzOWlxMllUWmloQTJmYWl5Q1Q4IiwicXVlc3Rpb24iOiLZhNmF2KfYsNinINiq2YjZgtmBINix2YrZgyDYo9iz2KrZhNmKINi52YYg2KfZhNi62YbYp9ih2J8iLCJsayI6IkdpQjNhSGtnWkdsa0lISnBZMnNnWVhOMGJHVjVJSE4wYjNBZ2MybHVaMmx1WnlnQSIsImJzIjoiYzIyUXdVckRRQkNHNnpVbmo1S0RET0loZ29JRVFUeDU4ZUFyZUl4Sk1FdmFwR1FUU3ZDVUptbEx2T2dUaUJSTURZVzJGQV94U1diZXh0bjJZckd3eTg3T0RQODNfMmpQMmozbFZBSzJ1TUFGWUUwRlR2bk9hRUlsMXRoc1V3MVZnRlA4NXFZVmpiRUdmaXJLVlc3TnhZSXFmRDk2dlRQUGRjTUxCOUN6Z2hTczdtUFNrLUJaRWlKaC0yREp1T3VtRUxsZDE1S3VZM1EwVDd1bE1SV0FheFliS3VKX1hjQVp6cmxVNEJkUXB2NHRUMVNDZVdsZU1mUGx3VHpSajhVdUlnNlRTQVJQSUlKTkc1TWM3WWJGbEtHbEdyNWh3U0ZsLTJndGpiYVdmMmpFN1JfTW1Qam1xUTRETHdWSE9Ec2dHWWQ5a0l6aXd4UmZ1MVlNWUZPVmd1UXNtZkhjck1QNi1JbHpqbFo3ZF9mV055XzBzODN1RXRzREozUWxpQmpzVU1ac0J6d1J1WF9KUnVmdzRCYyIsImlkIjoiZmNfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJTa2M1U210T2IyZEtWMWRoWVVJNVpXVjNVWGhMUVY5dVREWkxkalprZUdWU2JWTkZXRmRPZDNsdU9YWlhUMmhoTnpOWmNsOXlkVkZxZUZOaU1VaFZTM3AzWmtrMWEyRkRSRWxzRWhabGRHNU9XbkZ5VVVwYVEzVTFUbTlRZG1SMU5rTkJHaUpCUmxoeVJXTnZURTlsYWw4MVpGZDVha1o0TkhkcGJEWXdlV3BMWlhReFpraFIiLCJmY3YiOiIzIiwiZWkiOiJldG5OWnFyUUpaQ3U1Tm9QdmR1NkNBIiwicWMiOiJDaURZbzltRTJLalppTm1GMktmWXFpRFlzZG1LMllNZzJLUFlzOWlxMllUWmloQTJmYWl5Q1Q4IiwicXVlc3Rpb24iOiLZhNmF2KfYsNinINiq2YjZgtmBINix2YrZgyDYo9iz2KrZhNmKINi52YYg2KfZhNi62YbYp9ih2J8iLCJsayI6IkdpQjNhSGtnWkdsa0lISnBZMnNnWVhOMGJHVjVJSE4wYjNBZ2MybHVaMmx1WnlnQSIsImJzIjoiYzIyUXdVckRRQkNHNnpVbmo1S0RET0loZ29JRVFUeDU4ZUFyZUl4Sk1FdmFwR1FUU3ZDVUptbEx2T2dUaUJSTURZVzJGQV94U1diZXh0bjJZckd3eTg3T0RQODNfMmpQMmozbFZBSzJ1TUFGWUUwRlR2bk9hRUlsMXRoc1V3MVZnRlA4NXFZVmpiRUdmaXJLVlc3TnhZSXFmRDk2dlRQUGRjTUxCOUN6Z2hTczdtUFNrLUJaRWlKaC0yREp1T3VtRUxsZDE1S3VZM1EwVDd1bE1SV0FheFliS3VKX1hjQVp6cmxVNEJkUXB2NHRUMVNDZVdsZU1mUGx3VHpSajhVdUlnNlRTQVJQSUlKTkc1TWM3WWJGbEtHbEdyNWh3U0ZsLTJndGpiYVdmMmpFN1JfTW1Qam1xUTRETHdWSE9Ec2dHWWQ5a0l6aXd4UmZ1MVlNWUZPVmd1UXNtZkhjck1QNi1JbHpqbFo3ZF9mV055XzBzODN1RXRzREozUWxpQmpzVU1ac0J6d1J1WF9KUnVmdzRCYyIsImlkIjoiZmNfMSJ9"
+    },
+    {
+      "question": "ما هي تكلفة استئجار ريك أستلي؟",
+      "snippet": "تتراوح رسوم المثال لحجز Rick Astley بين 75000 دولار و149999 دولارًا .",
+      "title": "استعِن بـ Rick Astley لحدث خاص بالشركة أو حجز الأداء.",
+      "link": "https://translate.google.com/translate?u=https://www.celebritytalent.net/sampletalent/6563/rick-astley/&hl=ar&sl=en&tl=ar&client=rq&prev=search",
+      "source_logo": "https://serpapi.com/searches/66cdd9798de63c2f2a91359c/images/b6aa9e6526146a66aa879a8d12f9e80802ceb8f0be8324dfcfe6af07b99da3b8.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJTa2M1U210T2IyZEtWMWRoWVVJNVpXVjNVWGhMUVY5dVREWkxkalprZUdWU2JWTkZXRmRPZDNsdU9YWlhUMmhoTnpOWmNsOXlkVkZxZUZOaU1VaFZTM3AzWmtrMWEyRkRSRWxzRWhabGRHNU9XbkZ5VVVwYVEzVTFUbTlRZG1SMU5rTkJHaUpCUmxoeVJXTnZURTlsYWw4MVpGZDVha1o0TkhkcGJEWXdlV3BMWlhReFpraFIiLCJmY3YiOiIzIiwiZWkiOiJldG5OWnFyUUpaQ3U1Tm9QdmR1NkNBIiwicWMiOiJDaURZbzltRTJLalppTm1GMktmWXFpRFlzZG1LMllNZzJLUFlzOWlxMllUWmloQTJmYWl5Q1Q4IiwicXVlc3Rpb24iOiLZhdinINmH2Yog2KrZg9mE2YHYqSDYp9iz2KrYptis2KfYsSDYsdmK2YMg2KPYs9iq2YTZitifIiwibGsiOiJHaWxvYjNjZ2JYVmphQ0JrYjJWeklHbDBJR052YzNRZ2RHOGdhR2x5WlNCeWFXTnJJR0Z6ZEd4bGVTZ0EiLCJicyI6ImMyMlF3VXJEUUJDRzZ6VW5qNUtERE9JaGdvSUVRVHg1OGVBcmVJeEpNRXZhcEdRVFN2Q1VKbWxMdk9nVGlCUk1EWVcyRkFfeFNXYmV4dG4yWXJHd3k4N09EUDgzXzJqUDJqM2xWQUsydU1BRllFMEZUdm5PYUVJbDF0aHNVdzFWZ0ZQODVxWVZqYkVHZmlyS1ZXN054WUlxZkQ5NnZUUFBkY01MQjlDemdoU3M3bVBTay1CWkVpSmgtMkRKdU91bUVMbGQxNUt1WTNRMFQ3dWxNUldBYXhZYkt1Sl9YY0FaenJsVTRCZFFwdjR0VDFTQ2VXbGVNZlBsd1R6Umo4VXVJZzZUU0FSUElJSk5HNU1jN1liRmxLR2xHcjVod1NGbC0yZ3RqYmFXZjJqRTdSX01tUGptcVE0REx3VkhPRHNnR1lkOWtJeml3eFJmdTFZTVlGT1ZndVFzbWZIY3JNUDYtSWx6amxaN2RfZldOeV8wczgzdUV0c0RKM1FsaUJqc1VNWnNCendSdVhfSlJ1Znc0QmMiLCJpZCI6ImZjXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJTa2M1U210T2IyZEtWMWRoWVVJNVpXVjNVWGhMUVY5dVREWkxkalprZUdWU2JWTkZXRmRPZDNsdU9YWlhUMmhoTnpOWmNsOXlkVkZxZUZOaU1VaFZTM3AzWmtrMWEyRkRSRWxzRWhabGRHNU9XbkZ5VVVwYVEzVTFUbTlRZG1SMU5rTkJHaUpCUmxoeVJXTnZURTlsYWw4MVpGZDVha1o0TkhkcGJEWXdlV3BMWlhReFpraFIiLCJmY3YiOiIzIiwiZWkiOiJldG5OWnFyUUpaQ3U1Tm9QdmR1NkNBIiwicWMiOiJDaURZbzltRTJLalppTm1GMktmWXFpRFlzZG1LMllNZzJLUFlzOWlxMllUWmloQTJmYWl5Q1Q4IiwicXVlc3Rpb24iOiLZhdinINmH2Yog2KrZg9mE2YHYqSDYp9iz2KrYptis2KfYsSDYsdmK2YMg2KPYs9iq2YTZitifIiwibGsiOiJHaWxvYjNjZ2JYVmphQ0JrYjJWeklHbDBJR052YzNRZ2RHOGdhR2x5WlNCeWFXTnJJR0Z6ZEd4bGVTZ0EiLCJicyI6ImMyMlF3VXJEUUJDRzZ6VW5qNUtERE9JaGdvSUVRVHg1OGVBcmVJeEpNRXZhcEdRVFN2Q1VKbWxMdk9nVGlCUk1EWVcyRkFfeFNXYmV4dG4yWXJHd3k4N09EUDgzXzJqUDJqM2xWQUsydU1BRllFMEZUdm5PYUVJbDF0aHNVdzFWZ0ZQODVxWVZqYkVHZmlyS1ZXN054WUlxZkQ5NnZUUFBkY01MQjlDemdoU3M3bVBTay1CWkVpSmgtMkRKdU91bUVMbGQxNUt1WTNRMFQ3dWxNUldBYXhZYkt1Sl9YY0FaenJsVTRCZFFwdjR0VDFTQ2VXbGVNZlBsd1R6Umo4VXVJZzZUU0FSUElJSk5HNU1jN1liRmxLR2xHcjVod1NGbC0yZ3RqYmFXZjJqRTdSX01tUGptcVE0REx3VkhPRHNnR1lkOWtJeml3eFJmdTFZTVlGT1ZndVFzbWZIY3JNUDYtSWx6amxaN2RfZldOeV8wczgzdUV0c0RKM1FsaUJqc1VNWnNCendSdVhfSlJ1Znc0QmMiLCJpZCI6ImZjXzEifQ%3D%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Rick Astley discography",
+      "link": "https://en.wikipedia.org/wiki/Rick_Astley_discography",
+      "redirect_link": "https://www.google.ae/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Rick_Astley_discography&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQFnoECE0QAQ",
+      "displayed_link": "https://en.wikipedia.org",
+      "favicon": "https://serpapi.com/searches/66cdd9798de63c2f2a91359c/images/df4e1c346d5ef52de6cd4a6e743c817f07046f1b82e1f8a5d366dd05b844b296.png",
+      "snippet": "The discography of English singer and songwriter Rick Astley consists of nine studio albums, five compilation albums, two remix albums, and twenty-four singles.",
+      "snippet_highlighted_words": [
+        "Rick Astley",
+        "albums",
+        "albums",
+        "albums"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 2,
+      "title": "Rick Astley",
+      "link": "https://open.spotify.com/intl-ar/artist/0gxyHStUsqpMadRV0Di1Qt",
+      "redirect_link": "https://www.google.ae/url?sa=t&source=web&rct=j&opi=89978449&url=https://open.spotify.com/intl-ar/artist/0gxyHStUsqpMadRV0Di1Qt&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQFnoECE4QAQ",
+      "displayed_link": "https://open.spotify.com",
+      "favicon": "https://serpapi.com/searches/66cdd9798de63c2f2a91359c/images/df4e1c346d5ef52de6cd4a6e743c817f2e05b3186161ac3d91a1cad9fa96722b.png",
+      "snippet": "إصدارات رائجة ; Never Knew Love (2024 Remaster)أحدث الإصدارات • الألبوم ; Whenever You Need · الألبوم ; Hold Me in Your Arms (Deluxe Edition - 2023 Remaster)1988 • ...",
+      "snippet_highlighted_words": [
+        "الألبوم",
+        "الألبوم"
+      ],
+      "source": "Spotify - Web Player: Music for everyone"
+    },
+    {
+      "position": 3,
+      "title": "ريك أستلي",
+      "link": "https://ar.wikipedia.org/wiki/%D8%B1%D9%8A%D9%83_%D8%A3%D8%B3%D8%AA%D9%84%D9%8A",
+      "redirect_link": "https://www.google.ae/url?sa=t&source=web&rct=j&opi=89978449&url=https://ar.wikipedia.org/wiki/%25D8%25B1%25D9%258A%25D9%2583_%25D8%25A3%25D8%25B3%25D8%25AA%25D9%2584%25D9%258A&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQFnoECEcQAQ",
+      "displayed_link": "https://ar.wikipedia.org",
+      "favicon": "https://serpapi.com/searches/66cdd9798de63c2f2a91359c/images/df4e1c346d5ef52de6cd4a6e743c817fb77ea6ea1f204f6710ff1c470cf2a8a3.png",
+      "snippet": "ريك أستلي (بالإنجليزية: Rick Astley)‏ هو مقدم برامج إذاعية وموسيقي ومغني ومغن مؤلف بريطاني، ولد في 6 فبراير 1966 في نيوتون لي ويلووز‏ في المملكة المتحدة.",
+      "snippet_highlighted_words": [
+        "ريك أستلي",
+        "Rick Astley"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 4,
+      "title": "Rick Astley albums and discography",
+      "link": "https://www.last.fm/music/Rick+Astley/+albums",
+      "redirect_link": "https://www.google.ae/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.last.fm/music/Rick%2BAstley/%2Balbums&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQFnoECEoQAQ",
+      "displayed_link": "https://www.last.fm",
+      "favicon": "https://serpapi.com/searches/66cdd9798de63c2f2a91359c/images/df4e1c346d5ef52de6cd4a6e743c817f369b3f37e9131499404a90c84b7df92a.png",
+      "snippet": "Albums · Whenever You Need Somebody. 878,786 listeners. 1 Oct 1987 · 10 tracks · The Best Of. 126,359 listeners. 2014 · 18 tracks · Platinum & Gold Collection.",
+      "snippet_highlighted_words": [
+        "Albums"
+      ],
+      "source": "Last.fm"
+    },
+    {
+      "position": 5,
+      "title": "Rick Astley - Official Website",
+      "link": "https://www.rickastley.co.uk/",
+      "redirect_link": "https://www.google.ae/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.rickastley.co.uk/&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQFnoECEkQAQ",
+      "displayed_link": "https://www.rickastley.co.uk",
+      "favicon": "https://serpapi.com/searches/66cdd9798de63c2f2a91359c/images/df4e1c346d5ef52de6cd4a6e743c817f644f41b08d739e9e7ec6d0cec5a05286.png",
+      "snippet": "Are We There Yet? Deluxe CD + Pink Cassette + Signed Postcard · Are We There Yet? Deluxe CD + Clear Vinyl + Signed Postcard · Are We There Yet? Deluxe CD + T- ...",
+      "source": "Rick Astley - Official Website"
+    },
+    {
+      "position": 6,
+      "title": "Rick Astley (@officialrickastley)",
+      "link": "https://www.instagram.com/officialrickastley/?hl=ar",
+      "redirect_link": "https://www.google.ae/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/officialrickastley/%3Fhl%3Dar&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQFnoECEgQAQ",
+      "displayed_link": "https://www.instagram.com",
+      "favicon": "https://serpapi.com/searches/66cdd9798de63c2f2a91359c/images/df4e1c346d5ef52de6cd4a6e743c817fb5e28c2d30c7af69ade15bccade965b8.png",
+      "snippet": "Have a closer look at the 'Free' 2024 reissue LP and deluxe 2CD The LP features all 11 tracks from the album (originally released with just 10 tracks) ...",
+      "snippet_highlighted_words": [
+        "album"
+      ],
+      "source": "Instagram"
+    },
+    {
+      "position": 7,
+      "title": "Rick Astley",
+      "link": "https://www.deezer.com/ar/artist/6160",
+      "redirect_link": "https://www.google.ae/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.deezer.com/ar/artist/6160&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQFnoECEsQAQ",
+      "displayed_link": "https://www.deezer.com",
+      "favicon": "https://serpapi.com/searches/66cdd9798de63c2f2a91359c/images/df4e1c346d5ef52de6cd4a6e743c817fad26ecf21393c94c48c50812baa2875b.png",
+      "snippet": "Rick Astley. 197 225 مُعجَباً. استمع إلى جميع أغاني Rick Astley على Deezer ... ألبومات رائجة. أكثر الألبومات الرائجة لـ Rick Astley. Album cover of The Best of Me ...",
+      "snippet_highlighted_words": [
+        "أغاني Rick Astley"
+      ],
+      "source": "Deezer"
+    },
+    {
+      "position": 8,
+      "title": "Rick Astley",
+      "link": "https://music.apple.com/us/artist/rick-astley/669771",
+      "redirect_link": "https://www.google.ae/url?sa=t&source=web&rct=j&opi=89978449&url=https://music.apple.com/us/artist/rick-astley/669771&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQFnoECEwQAQ",
+      "displayed_link": "https://music.apple.com",
+      "favicon": "https://serpapi.com/searches/66cdd9798de63c2f2a91359c/images/df4e1c346d5ef52de6cd4a6e743c817fb977ddf4c69cb4d31675c72b07b031d4.png",
+      "snippet": "Albums · Free (Deluxe Edition - 2024 Remaster) · Are We There Yet? · Beautiful Life · 50 · Portrait · Body & Soul · Hold Me in Your Arms (Deluxe Edition - 2023 ...",
+      "snippet_highlighted_words": [
+        "Albums"
+      ],
+      "source": "Apple Music"
+    }
+  ],
+  "top_stories_link": "https://www.google.ae/search?sca_esv=acb05f42373aaad6&hl=ar&gl=ae&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGK3VhxY-3NjhurFW5suLH8xiqFG1tvttxYuYhV8MbGm103mxVuLL6x-caqmy03u26xSTJ0P-0xTshUM5h4b-qUraU773TYbl68u9KPDwBmbgVsdAAAAA&sa=X&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQzO0BKAR6BAgmEBM",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ae&google_domain=google.ae&hl=ar&location=Abu+Dhabi%2C+Abu+Dhabi%2C+United+Arab+Emirates&q=%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A&stick=H4sIAAAAAAAAAONgFuLUz9U3MLLMrjJQQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGK3VhxY-3NjhurFW5suLH8xiqFG1tvttxYuYhV8MbGm103mxVuLL6x-caqmy03u26xSTJ0P-0xTshUM5h4b-qUraU773TYbl68u9KPDwBmbgVsdAAAAA",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Rick Astley, best songs",
+      "link": "https://www.google.ae/search?sca_esv=acb05f42373aaad6&hl=ar&gl=ae&q=Rick+Astley,+best+songs&sa=X&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQ1QJ6BAhoEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ae&google_domain=google.ae&hl=ar&location=Abu+Dhabi%2C+Abu+Dhabi%2C+United+Arab+Emirates&q=Rick+Astley%2C+best+songs"
+    },
+    {
+      "block_position": 1,
+      "query": "Rick Astley - Whenever You Need Somebody",
+      "link": "https://www.google.ae/search?sca_esv=acb05f42373aaad6&hl=ar&gl=ae&q=Rick+Astley+-+Whenever+You+Need+Somebody&sa=X&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQ1QJ6BAhnEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ae&google_domain=google.ae&hl=ar&location=Abu+Dhabi%2C+Abu+Dhabi%2C+United+Arab+Emirates&q=Rick+Astley+-+Whenever+You+Need+Somebody"
+    },
+    {
+      "block_position": 1,
+      "query": "How old was Rick Astley in 1987",
+      "link": "https://www.google.ae/search?sca_esv=acb05f42373aaad6&hl=ar&gl=ae&q=How+old+was+Rick+Astley+in+1987&sa=X&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQ1QJ6BAhmEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ae&google_domain=google.ae&hl=ar&location=Abu+Dhabi%2C+Abu+Dhabi%2C+United+Arab+Emirates&q=How+old+was+Rick+Astley+in+1987"
+    },
+    {
+      "block_position": 1,
+      "query": "Rick Astley - Never Gonna Give You Up release date",
+      "link": "https://www.google.ae/search?sca_esv=acb05f42373aaad6&hl=ar&gl=ae&q=Rick+Astley+-+Never+Gonna+Give+You+Up+release+date&sa=X&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQ1QJ6BAhlEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ae&google_domain=google.ae&hl=ar&location=Abu+Dhabi%2C+Abu+Dhabi%2C+United+Arab+Emirates&q=Rick+Astley+-+Never+Gonna+Give+You+Up+release+date"
+    },
+    {
+      "block_position": 1,
+      "query": "Rick Astley - Take Me to Your Heart",
+      "link": "https://www.google.ae/search?sca_esv=acb05f42373aaad6&hl=ar&gl=ae&q=Rick+Astley+-+Take+Me+to+Your+Heart&sa=X&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQ1QJ6BAhjEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ae&google_domain=google.ae&hl=ar&location=Abu+Dhabi%2C+Abu+Dhabi%2C+United+Arab+Emirates&q=Rick+Astley+-+Take+Me+to+Your+Heart"
+    },
+    {
+      "block_position": 1,
+      "query": "Rick Astley - She Wants to Dance with Me",
+      "link": "https://www.google.ae/search?sca_esv=acb05f42373aaad6&hl=ar&gl=ae&q=Rick+Astley+-+She+Wants+to+Dance+with+Me&sa=X&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQ1QJ6BAhiEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ae&google_domain=google.ae&hl=ar&location=Abu+Dhabi%2C+Abu+Dhabi%2C+United+Arab+Emirates&q=Rick+Astley+-+She+Wants+to+Dance+with+Me"
+    },
+    {
+      "block_position": 1,
+      "query": "How old is Rick Astley",
+      "link": "https://www.google.ae/search?sca_esv=acb05f42373aaad6&hl=ar&gl=ae&q=How+old+is+Rick+Astley&sa=X&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQ1QJ6BAhhEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ae&google_domain=google.ae&hl=ar&location=Abu+Dhabi%2C+Abu+Dhabi%2C+United+Arab+Emirates&q=How+old+is+Rick+Astley"
+    },
+    {
+      "block_position": 1,
+      "query": "Listen to Rick Astley - Never Gonna Give You Up",
+      "link": "https://www.google.ae/search?sca_esv=acb05f42373aaad6&hl=ar&gl=ae&q=Listen+to+Rick+Astley+-+Never+Gonna+Give+You+Up&sa=X&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQ1QJ6BAhgEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ae&google_domain=google.ae&hl=ar&location=Abu+Dhabi%2C+Abu+Dhabi%2C+United+Arab+Emirates&q=Listen+to+Rick+Astley+-+Never+Gonna+Give+You+Up"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.ae/search?q=%D8%A3%D9%84%D8%A8%D9%88%D9%85%D8%A7%D8%AA+%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A&sca_esv=acb05f42373aaad6&hl=ar&gl=ae&ei=etnNZqrQJZCu5NoPvdu6CA&start=10&sa=N&sstk=AagrsugbbVHyx4Xl0oh8vrswAhRYkR3yaouUSZiOl-GU5QO9HHe2Cj95aKXNiZBL9QAT_mL0N1LCYrfOxebyyXBYaVFCLBIrffxTBQ&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQ8NMDegQIERAW",
+    "other_pages": {
+      "2": "https://www.google.ae/search?q=%D8%A3%D9%84%D8%A8%D9%88%D9%85%D8%A7%D8%AA+%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A&sca_esv=acb05f42373aaad6&hl=ar&gl=ae&ei=etnNZqrQJZCu5NoPvdu6CA&start=10&sa=N&sstk=AagrsugbbVHyx4Xl0oh8vrswAhRYkR3yaouUSZiOl-GU5QO9HHe2Cj95aKXNiZBL9QAT_mL0N1LCYrfOxebyyXBYaVFCLBIrffxTBQ&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQ8tMDegQIERAE",
+      "3": "https://www.google.ae/search?q=%D8%A3%D9%84%D8%A8%D9%88%D9%85%D8%A7%D8%AA+%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A&sca_esv=acb05f42373aaad6&hl=ar&gl=ae&ei=etnNZqrQJZCu5NoPvdu6CA&start=20&sa=N&sstk=AagrsugbbVHyx4Xl0oh8vrswAhRYkR3yaouUSZiOl-GU5QO9HHe2Cj95aKXNiZBL9QAT_mL0N1LCYrfOxebyyXBYaVFCLBIrffxTBQ&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQ8tMDegQIERAG",
+      "4": "https://www.google.ae/search?q=%D8%A3%D9%84%D8%A8%D9%88%D9%85%D8%A7%D8%AA+%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A&sca_esv=acb05f42373aaad6&hl=ar&gl=ae&ei=etnNZqrQJZCu5NoPvdu6CA&start=30&sa=N&sstk=AagrsugbbVHyx4Xl0oh8vrswAhRYkR3yaouUSZiOl-GU5QO9HHe2Cj95aKXNiZBL9QAT_mL0N1LCYrfOxebyyXBYaVFCLBIrffxTBQ&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQ8tMDegQIERAI",
+      "5": "https://www.google.ae/search?q=%D8%A3%D9%84%D8%A8%D9%88%D9%85%D8%A7%D8%AA+%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A&sca_esv=acb05f42373aaad6&hl=ar&gl=ae&ei=etnNZqrQJZCu5NoPvdu6CA&start=40&sa=N&sstk=AagrsugbbVHyx4Xl0oh8vrswAhRYkR3yaouUSZiOl-GU5QO9HHe2Cj95aKXNiZBL9QAT_mL0N1LCYrfOxebyyXBYaVFCLBIrffxTBQ&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQ8tMDegQIERAK",
+      "6": "https://www.google.ae/search?q=%D8%A3%D9%84%D8%A8%D9%88%D9%85%D8%A7%D8%AA+%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A&sca_esv=acb05f42373aaad6&hl=ar&gl=ae&ei=etnNZqrQJZCu5NoPvdu6CA&start=50&sa=N&sstk=AagrsugbbVHyx4Xl0oh8vrswAhRYkR3yaouUSZiOl-GU5QO9HHe2Cj95aKXNiZBL9QAT_mL0N1LCYrfOxebyyXBYaVFCLBIrffxTBQ&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQ8tMDegQIERAM",
+      "7": "https://www.google.ae/search?q=%D8%A3%D9%84%D8%A8%D9%88%D9%85%D8%A7%D8%AA+%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A&sca_esv=acb05f42373aaad6&hl=ar&gl=ae&ei=etnNZqrQJZCu5NoPvdu6CA&start=60&sa=N&sstk=AagrsugbbVHyx4Xl0oh8vrswAhRYkR3yaouUSZiOl-GU5QO9HHe2Cj95aKXNiZBL9QAT_mL0N1LCYrfOxebyyXBYaVFCLBIrffxTBQ&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQ8tMDegQIERAO",
+      "8": "https://www.google.ae/search?q=%D8%A3%D9%84%D8%A8%D9%88%D9%85%D8%A7%D8%AA+%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A&sca_esv=acb05f42373aaad6&hl=ar&gl=ae&ei=etnNZqrQJZCu5NoPvdu6CA&start=70&sa=N&sstk=AagrsugbbVHyx4Xl0oh8vrswAhRYkR3yaouUSZiOl-GU5QO9HHe2Cj95aKXNiZBL9QAT_mL0N1LCYrfOxebyyXBYaVFCLBIrffxTBQ&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQ8tMDegQIERAQ",
+      "9": "https://www.google.ae/search?q=%D8%A3%D9%84%D8%A8%D9%88%D9%85%D8%A7%D8%AA+%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A&sca_esv=acb05f42373aaad6&hl=ar&gl=ae&ei=etnNZqrQJZCu5NoPvdu6CA&start=80&sa=N&sstk=AagrsugbbVHyx4Xl0oh8vrswAhRYkR3yaouUSZiOl-GU5QO9HHe2Cj95aKXNiZBL9QAT_mL0N1LCYrfOxebyyXBYaVFCLBIrffxTBQ&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQ8tMDegQIERAS",
+      "10": "https://www.google.ae/search?q=%D8%A3%D9%84%D8%A8%D9%88%D9%85%D8%A7%D8%AA+%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A&sca_esv=acb05f42373aaad6&hl=ar&gl=ae&ei=etnNZqrQJZCu5NoPvdu6CA&start=90&sa=N&sstk=AagrsugbbVHyx4Xl0oh8vrswAhRYkR3yaouUSZiOl-GU5QO9HHe2Cj95aKXNiZBL9QAT_mL0N1LCYrfOxebyyXBYaVFCLBIrffxTBQ&ved=2ahUKEwiq9dydqJWIAxUQF1kFHb2tDgEQ8tMDegQIERAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ae&google_domain=google.ae&hl=ar&location=Abu+Dhabi%2C+Abu+Dhabi%2C+United+Arab+Emirates&q=%D8%A3%D9%84%D8%A8%D9%88%D9%85%D8%A7%D8%AA+%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ae&google_domain=google.ae&hl=ar&location=Abu+Dhabi%2C+Abu+Dhabi%2C+United+Arab+Emirates&q=%D8%A3%D9%84%D8%A8%D9%88%D9%85%D8%A7%D8%AA+%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ae&google_domain=google.ae&hl=ar&location=Abu+Dhabi%2C+Abu+Dhabi%2C+United+Arab+Emirates&q=%D8%A3%D9%84%D8%A8%D9%88%D9%85%D8%A7%D8%AA+%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ae&google_domain=google.ae&hl=ar&location=Abu+Dhabi%2C+Abu+Dhabi%2C+United+Arab+Emirates&q=%D8%A3%D9%84%D8%A8%D9%88%D9%85%D8%A7%D8%AA+%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ae&google_domain=google.ae&hl=ar&location=Abu+Dhabi%2C+Abu+Dhabi%2C+United+Arab+Emirates&q=%D8%A3%D9%84%D8%A8%D9%88%D9%85%D8%A7%D8%AA+%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ae&google_domain=google.ae&hl=ar&location=Abu+Dhabi%2C+Abu+Dhabi%2C+United+Arab+Emirates&q=%D8%A3%D9%84%D8%A8%D9%88%D9%85%D8%A7%D8%AA+%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ae&google_domain=google.ae&hl=ar&location=Abu+Dhabi%2C+Abu+Dhabi%2C+United+Arab+Emirates&q=%D8%A3%D9%84%D8%A8%D9%88%D9%85%D8%A7%D8%AA+%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ae&google_domain=google.ae&hl=ar&location=Abu+Dhabi%2C+Abu+Dhabi%2C+United+Arab+Emirates&q=%D8%A3%D9%84%D8%A8%D9%88%D9%85%D8%A7%D8%AA+%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ae&google_domain=google.ae&hl=ar&location=Abu+Dhabi%2C+Abu+Dhabi%2C+United+Arab+Emirates&q=%D8%A3%D9%84%D8%A8%D9%88%D9%85%D8%A7%D8%AA+%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ae&google_domain=google.ae&hl=ar&location=Abu+Dhabi%2C+Abu+Dhabi%2C+United+Arab+Emirates&q=%D8%A3%D9%84%D8%A8%D9%88%D9%85%D8%A7%D8%AA+%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=ae&google_domain=google.ae&hl=ar&location=Abu+Dhabi%2C+Abu+Dhabi%2C+United+Arab+Emirates&q=%D8%A3%D9%84%D8%A8%D9%88%D9%85%D8%A7%D8%AA+%D8%B1%D9%8A%D9%83+%D8%A3%D8%B3%D8%AA%D9%84%D9%8A&start=90"
+    }
+  }
+}
